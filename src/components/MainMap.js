@@ -1,43 +1,22 @@
+import {red700} from "material-ui/styles/colors";
+
+import MapsPinDrop from 'material-ui/svg-icons/maps/pin-drop';
 import React, {Component} from 'react';
 import ReactMapboxGl, {GeoJSONLayer, Layer, Marker, Popup} from 'react-mapbox-gl';
 
 let {token, styles} = require('../configs/config.json');
-
-const pin = require('../images/home.svg');
 
 const Map = ReactMapboxGl({
     accessToken: token,
 });
 
 const mapStyle = {
-    width: '95%',
+    width: '100%',
     height: '750px',
-    margin: "25px",
     align: "center"
 };
 
-const geojson = require('../data/test.json');
-
-
-const threeDLayerOpts = {
-    'source-layer': 'building',
-    'filter': ['==', 'extrude', 'true'],
-    'type': 'fill-extrusion',
-    'minzoom': 5
-};
-
-const paintLayer = {
-    'fill-extrusion-color': '#aaa',
-    'fill-extrusion-height': {
-        'type': 'identity',
-        'property': 'height'
-    },
-    'fill-extrusion-base': {
-        'type': 'identity',
-        'property': 'min_height'
-    },
-    'fill-extrusion-opacity': .6
-};
+const testJson = require('../data/test.json');
 
 const symbolLayout = {
     'text-field': '{place}',
@@ -86,13 +65,14 @@ class MainMap extends Component {
                     anchor="top"
                     className="home-pin"
                 >
-                    <div style={{width: "35px", height: '35px'}}>
-                        <img src={pin} width="100%" height="100%" alt="home-pin"/>
+                    <div style={{width: "45px", height: '45px'}}>
+                        <MapsPinDrop style={{height: "100%", width: "100%"}} color={red700}/>
                     </div>
+
                 </Marker>
 
                 <GeoJSONLayer
-                    data={geojson}
+                    data={testJson}
                     fillExtrusionLayout={fillExtrusionLayout}
                     fillExtrusionPaint={fillExtrusionPaint}
                     symbolLayout={symbolLayout}
