@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import ReactMapboxGl, {GeoJSONLayer, Layer, Marker} from 'react-mapbox-gl';
+import ReactMapboxGl, {Marker} from 'react-mapbox-gl';
 
 let {token, styles} = require('../configs/config.json');
 
