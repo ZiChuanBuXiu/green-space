@@ -1,18 +1,18 @@
+import {red700} from "material-ui/styles/colors";
+
 import React, {Component} from 'react';
 import ReactMapboxGl, {Marker} from 'react-mapbox-gl';
+import MapsPinDrop from 'material-ui/svg-icons/maps/pin-drop';
 
 let {token, styles} = require('../configs/config.json');
-
-const pin = require('../images/home.svg');
 
 const Map = ReactMapboxGl({
     accessToken: token,
 });
 
 const mapStyle = {
-    width: '95%',
-    height: '400px',
-    margin: "25px",
+    width: '100%',
+    height: '230px',
     align: "center"
 };
 
@@ -47,7 +47,7 @@ class CoordinatePickerMap extends Component {
                     className="home-pin"
                 >
                     <div style={{width: "35px", height: '35px'}}>
-                        <img src={pin} width="100%" height="100%" alt="home-pin"/>
+                        <MapsPinDrop style={{height:"100%", width:"100%"}} color={red700}/>
                     </div>
                 </Marker>
             </Map>
