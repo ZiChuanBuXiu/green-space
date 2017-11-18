@@ -1,0 +1,16 @@
+{
+  "activities": {
+    "exercise": [
+      "running",
+      "walking"
+    ],
+    "recreation": [
+      "barbecue"
+    ],
+    "socialising": [
+      "party"
+    ]
+  },
+  "time":["day", "night"],
+  "range": [1, 5]
+}
