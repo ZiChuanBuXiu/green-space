@@ -25,7 +25,7 @@ const styles = {
         display: "inline-block",
         "*display": "inline",
     },
-    horizontalRadioButton:{
+    horizontalRadioButton: {
         marginBottom: 16,
         "vertical-align": "top",
         display: "inline-block",
@@ -45,22 +45,12 @@ class SearchStepper extends Component {
 
         this.state = {
             stepIndex: 0,
-            open: true,
             type: "Exercise",
             activity: "Running",
             time: "Day",
             range: "1"
         };
     }
-
-    handleOpen = () => {
-        this.setState({open: true});
-    };
-
-    handleClose = () => {
-        this.setState({open: false});
-    };
-
 
     handleChange = (event, index, value) => {
         this.setState({activity: value});
@@ -186,7 +176,15 @@ class SearchStepper extends Component {
         if (stepIndex < 2) {
             this.setState({stepIndex: stepIndex + 1});
         } else {
-            this.setState({open: false});
+            this.props.onUpdate({isStepperVisible: false});
+            //TODO-Update map
+            this.setState({
+                stepIndex: 0,
+                type: "Exercise",
+                activity: "Running",
+                time: "Day",
+                range: "1"
+            });
         }
     }
 
@@ -205,7 +203,7 @@ class SearchStepper extends Component {
                 <Dialog
                     title="Choose your preferences for activity"
                     modal={false}
-                    open={this.state.open}
+                    open={this.props.isStepperVisible}
                 >
                     <div style={{width: '100%', maxWidth: 700, margin: 'auto'}}>
                         <Stepper activeStep={stepIndex} connector={<ArrowForwardIcon/>}>
