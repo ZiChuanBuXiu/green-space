@@ -13,7 +13,7 @@ const Map = ReactMapboxGl({
 
 const mapStyle = {
     width: '95%',
-    height: '770px',
+    height: '750px',
     margin: "25px",
     align: "center"
 };
@@ -77,23 +77,22 @@ class MainMap extends Component {
                 containerStyle={mapStyle}
                 zoom={this.zoom}
                 center={this.state.center}
-                onClick={(map, e) => {
-                    this.setState({
-                        homeCoordinate: [e.lngLat.lng, e.lngLat.lat]
-                    });
-                    this.props.onUpdate({homeCoordinate: [e.lngLat.lng, e.lngLat.lat]});
-                }}
+                // onClick={(map, e) => {
+                //     this.setState({
+                //         homeCoordinate: [e.lngLat.lng, e.lngLat.lat]
+                //     });
+                //     this.props.onUpdate({homeCoordinate: [e.lngLat.lng, e.lngLat.lat]});
+                // }}
             >
                 <Marker
-                    coordinates={this.state.homeCoordinate}
+                    coordinates={this.props.homeCoordinate}
                     style={{width: "35px", height: '35px'}}
-                    anchor="bottom"
+                    anchor="top"
                     className="home-pin"
                 >
                     <div style={{width: "35px", height: '35px'}}>
                         <img src={pin} width="100%" height="100%" alt="home-pin"/>
                     </div>
-
                 </Marker>
 
                 <GeoJSONLayer

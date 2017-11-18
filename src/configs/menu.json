@@ -1,16 +1,25 @@
 {
-  "activities": {
-    "exercise": [
-      "running",
-      "walking"
+  "Activities": {
+    "Exercise": [
+      "Running",
+      "Walking"
     ],
-    "recreation": [
-      "barbecue"
+    "Recreation": [
+      "Barbecue"
     ],
-    "socialising": [
-      "party"
+    "Socialising": [
+      "Party"
     ]
   },
-  "time":["day", "night"],
-  "range": [1, 5]
+  "Time": [
+    "Day",
+    "Night"
+  ],
+  "Range": [
+    "1km",
+    "2km",
+    "3km",
+    "4km",
+    ">4km"
+  ]
 }

@@ -1,13 +1,16 @@
-import React, {Component} from 'react';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import MyAwesomeReactComponent from './MainContainer';
+import MainContainer from './containers/MainContainer';
+import React, {Component} from 'react';
 import {
     cyan500, grey100, cyan700, grey400, pinkA200, grey500, darkBlack, white,
     grey300, fullBlack
 } from 'material-ui/styles/colors';
-import getMuiTheme from 'material-ui/styles/getMuiTheme';
+
 import {fade} from 'material-ui/utils/colorManipulator';
+import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import spacing from 'material-ui/styles/spacing';
+
+import './App.css';
 
 const theme = getMuiTheme({
     spacing: spacing,
@@ -35,7 +38,7 @@ class App extends Component {
     render() {
         return (
             <MuiThemeProvider muiTheme={theme}>
-                <MyAwesomeReactComponent/>
+                <MainContainer/>
             </MuiThemeProvider>
         );
     }

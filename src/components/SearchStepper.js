@@ -176,7 +176,10 @@ class SearchStepper extends Component {
         if (stepIndex < 2) {
             this.setState({stepIndex: stepIndex + 1});
         } else {
-            this.props.onUpdate({isStepperVisible: false});
+            this.props.onUpdate({
+                isStepperVisible: false,
+                homeCoordinate: this.state.homeCoordinate
+            });
             //TODO-Update map
             this.setState({
                 stepIndex: 0,

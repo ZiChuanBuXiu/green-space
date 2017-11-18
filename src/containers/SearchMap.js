@@ -1,21 +1,29 @@
 import MainMap from '../components/MainMap';
-import React,{Component} from 'react';
+import React, {Component} from 'react';
 import SearchStepper from "../components/SearchStepper";
 
 
-class SearchMap extends Component{
-    constructor(props){
+class SearchMap extends Component {
+    constructor(props) {
         super(props);
         this.state = {
             open: true,
+            homeCoordinate: [144.971154, -37.815285]
         }
     }
 
-    render(){
-        return(
+    onUpdate = (data) => {
+        this.setState(data);
+        this.props.onUpdate(data);
+    };
+
+    render() {
+        return (
             <div>
-                <MainMap/>
-                <SearchStepper isStepperVisible={this.props.isStepperVisible} onUpdate={this.props.onUpdate}/>
+                <MainMap homeCoordinate={this.state.homeCoordinate}/>
+                <SearchStepper isStepperVisible={this.props.isStepperVisible} onUpdate={
+                    this.onUpdate.bind(this)
+                }/>
             </div>
         );
     }
