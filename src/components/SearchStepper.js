@@ -8,9 +8,8 @@ import {
 import ArrowForwardIcon from 'material-ui/svg-icons/navigation/arrow-forward';
 import React, {Component} from 'react';
 import Dialog from 'material-ui/Dialog';
-import {DropDownMenu, MenuItem, RadioButton, RadioButtonGroup} from "material-ui";
-import ActionFavorite from 'material-ui/svg-icons/action/favorite';
-import ActionFavoriteBorder from 'material-ui/svg-icons/action/favorite-border';
+import {DropDownMenu, MenuItem, RadioButton, RadioButtonGroup, Slider} from "material-ui";
+import CoordinatePickerMap from "./CoordinatePickerMap";
 
 /**
  * It is possible to specify your own step connector by passing an element to the `connector`
@@ -22,7 +21,17 @@ const styles = {
     },
     radioButton: {
         marginBottom: 16,
+        "vertical-align": "top",
+        display: "inline-block",
+        "*display": "inline",
     },
+    horizontalRadioButton:{
+        marginBottom: 16,
+        "vertical-align": "top",
+        display: "inline-block",
+        "*display": "inline",
+        width: 80
+    }
 };
 
 const searchItems = require("../configs/menu.json");
@@ -33,11 +42,14 @@ class SearchStepper extends Component {
 
         this.handleNext = this.handleNext.bind(this);
         this.handlePrev = this.handlePrev.bind(this);
+
         this.state = {
             stepIndex: 0,
             open: true,
             type: "Exercise",
-            activity: "Running"
+            activity: "Running",
+            time: "Day",
+            range: "1"
         };
     }
 
@@ -57,13 +69,24 @@ class SearchStepper extends Component {
     handleTypeChange = (event, value) => {
         this.setState({type: value});
         this.setState({activity: searchItems.Activities[value][0]});
-    }
+    };
+
+    handleTimeChange = (event, value) => {
+        this.setState({time: value});
+    };
+
+    handleRangeChange = (event, value) => {
+        this.setState({range: value});
+    };
+
+    onUpdate(data) {
+        this.setState(data);
+    };
 
     getStepContent(stepIndex) {
         let times = searchItems.Time;
-        let range = searchItems.Range
+        let ranges = searchItems.Range;
         let activities = Object.keys(searchItems.Activities);
-        let self = this;
         switch (stepIndex) {
             case 0:
                 return (
@@ -102,19 +125,57 @@ class SearchStepper extends Component {
 
             case 1:
                 return (
-                    <p>
-                        {'An ad group contains one or more ads which target a shared set of keywords.'}
-                    </p>
+                    <div>
+                        <p>
+                            {"Choose what time you want to go out:"}
+                        </p>
+                        <RadioButtonGroup
+                            name={times}
+                            defaultSelected="Day"
+                            onChange={this.handleTimeChange}
+                        >
+                            {
+                                times.map(function (item) {
+                                    return (
+                                        <RadioButton
+                                            value={item}
+                                            label={item}
+                                            style={styles.radioButton}
+                                        />
+                                    );
+                                })}
+                        </RadioButtonGroup>
+                    </div>
                 );
 
             case 2:
                 return (
-                    <p>
-                        {'Try out different ad text to see what brings in the most customers, and learn ' +
-                        'how to enhance your ads using features like ad extensions. If you run into any ' +
-                        'problems with your ads, find out how to tell if they\'re running and how to ' +
-                        'resolve approval issues.'}
-                    </p>
+                    <div>
+                        <div>
+                            <p>Choose your start point by click the map:</p>
+                            <CoordinatePickerMap onUpdate={this.onUpdate.bind(this)}/>
+                        </div>
+                        <div>
+                            <p>Choose the range from you home:</p>
+                            <RadioButtonGroup
+                                name={ranges}
+                                defaultSelected="1km"
+                                onChange={this.handleRangeChange}
+                                style={{"text-align": "justify"}}
+                            >
+                                {
+                                    ranges.map(function (item) {
+                                        return (
+                                            <RadioButton
+                                                value={item}
+                                                label={item}
+                                                style={styles.horizontalRadioButton}
+                                            />
+                                        );
+                                    })}
+                            </RadioButtonGroup>
+                        </div>
+                    </div>
                 );
         }
     }
@@ -142,22 +203,22 @@ class SearchStepper extends Component {
         return (
             <div>
                 <Dialog
-                    title="Choose your preference"
+                    title="Choose your preferences for activity"
                     modal={false}
                     open={this.state.open}
                 >
                     <div style={{width: '100%', maxWidth: 700, margin: 'auto'}}>
                         <Stepper activeStep={stepIndex} connector={<ArrowForwardIcon/>}>
                             <Step>
-                                <StepLabel>Select campaign settings</StepLabel>
+                                <StepLabel>Select your activity</StepLabel>
                             </Step>
 
                             <Step>
-                                <StepLabel>Create an ad group</StepLabel>
+                                <StepLabel>Select your time</StepLabel>
                             </Step>
 
                             <Step>
-                                <StepLabel>Create an ad</StepLabel>
+                                <StepLabel>Select your start point and range</StepLabel>
                             </Step>
                         </Stepper>
 
@@ -171,7 +232,7 @@ class SearchStepper extends Component {
                                 style={{marginRight: 12}}
                             />
                             <RaisedButton
-                                label={stepIndex === 2 ? 'Finish' : 'Next'}
+                                label={stepIndex === 2 ? 'Let\'s try!' : 'Next'}
                                 primary={true}
                                 onClick={this.handleNext}
                             />
