@@ -8,7 +8,7 @@ import {
 import ArrowForwardIcon from 'material-ui/svg-icons/navigation/arrow-forward';
 import React, {Component} from 'react';
 import Dialog from 'material-ui/Dialog';
-import {DropDownMenu, MenuItem, RadioButton, RadioButtonGroup, Slider} from "material-ui";
+import {Drawer, DropDownMenu, MenuItem, RadioButton, RadioButtonGroup, Slider} from "material-ui";
 import CoordinatePickerMap from "./CoordinatePickerMap";
 
 /**
@@ -21,13 +21,13 @@ const styles = {
     },
     radioButton: {
         marginBottom: 16,
-        "vertical-align": "top",
+        verticalAlign: "top",
         display: "inline-block",
         "*display": "inline",
     },
     horizontalRadioButton: {
         marginBottom: 16,
-        "vertical-align": "top",
+        verticalAlign: "top",
         display: "inline-block",
         "*display": "inline",
         width: 80
@@ -48,7 +48,9 @@ class SearchStepper extends Component {
             type: "Exercise",
             activity: "Running",
             time: "Day",
-            range: "1"
+            range: "1",
+            homeCoordinate: [144.971154, -37.815285],
+            isDrawerOpen:false
         };
     }
 
@@ -151,7 +153,7 @@ class SearchStepper extends Component {
                                 name={ranges}
                                 defaultSelected="1km"
                                 onChange={this.handleRangeChange}
-                                style={{"text-align": "justify"}}
+                                style={{textAlign: "justify"}}
                             >
                                 {
                                     ranges.map(function (item) {
@@ -186,7 +188,8 @@ class SearchStepper extends Component {
                 type: "Exercise",
                 activity: "Running",
                 time: "Day",
-                range: "1"
+                range: "1",
+                isDrawerOpen: true
             });
         }
     }
@@ -203,6 +206,14 @@ class SearchStepper extends Component {
         const {stepIndex} = this.state;
         return (
             <div>
+                <div>
+                    <Drawer
+                        open={this.state.isDrawerOpen}
+                        containerStyle={{height: "60%", top: "85px"}}>
+                        <MenuItem>Menu Item <h5>123</h5></MenuItem>
+                        <MenuItem>Menu Item 2</MenuItem>
+                    </Drawer>
+                </div>
                 <Dialog
                     title="Choose your preferences for activity"
                     modal={false}
