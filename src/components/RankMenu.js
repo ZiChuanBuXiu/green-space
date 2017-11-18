@@ -1,4 +1,4 @@
-import {Divider, Drawer, List, ListItem, Subheader} from "material-ui";
+import {Divider, Drawer, FlatButton, List, ListItem, Subheader} from "material-ui";
 import {yellow500, cyan300} from "material-ui/styles/colors";
 
 import ActionGrade from 'material-ui/svg-icons/action/grade';
@@ -37,7 +37,6 @@ class RankMenu extends Component {
                                     <div>
                                         <ListItem
                                             leftIcon={<ActionGrade color={yellow500}/>}
-                                            secondaryTextLines={2}
                                             primaryText={ranksToText[i + 1]}
                                             secondaryText={rank}
                                         />

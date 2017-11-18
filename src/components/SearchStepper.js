@@ -45,7 +45,7 @@ class SearchStepper extends Component {
             range: "1",
             homeCoordinate: [144.971154, -37.815285],
             isDrawerOpen: false,
-            ranks: ["aaa", "bbb"]
+            ranks: ["Alexander Park", "Royal Park"]
         };
     }
 
