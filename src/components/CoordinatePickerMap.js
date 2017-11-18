@@ -43,7 +43,7 @@ class CoordinatePickerMap extends Component {
                 <Marker
                     coordinates={this.state.homeCoordinate}
                     style={{width: "35px", height: '35px'}}
-                    anchor="top"
+                    anchor="bottom"
                     className="home-pin"
                 >
                     <div style={{width: "35px", height: '35px'}}>
