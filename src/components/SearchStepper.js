@@ -1,20 +1,14 @@
+import {DropDownMenu, MenuItem, RadioButton, RadioButtonGroup} from "material-ui";
+import {Step, Stepper, StepLabel} from 'material-ui/Stepper';
+
+import ArrowForwardIcon from 'material-ui/svg-icons/navigation/arrow-forward';
+import CoordinatePickerMap from "./CoordinatePickerMap";
+import Dialog from 'material-ui/Dialog';
 import FlatButton from 'material-ui/FlatButton';
 import RaisedButton from 'material-ui/RaisedButton';
-import {
-    Step,
-    Stepper,
-    StepLabel,
-} from 'material-ui/Stepper';
-import ArrowForwardIcon from 'material-ui/svg-icons/navigation/arrow-forward';
+import RankMenu from "./RankMenu";
 import React, {Component} from 'react';
-import Dialog from 'material-ui/Dialog';
-import {Drawer, DropDownMenu, MenuItem, RadioButton, RadioButtonGroup, Slider} from "material-ui";
-import CoordinatePickerMap from "./CoordinatePickerMap";
 
-/**
- * It is possible to specify your own step connector by passing an element to the `connector`
- * prop. If you want to remove the connector, pass `null` to the `connector` prop.
- */
 const styles = {
     block: {
         maxWidth: 250,
@@ -50,7 +44,8 @@ class SearchStepper extends Component {
             time: "Day",
             range: "1",
             homeCoordinate: [144.971154, -37.815285],
-            isDrawerOpen:false
+            isDrawerOpen: false,
+            ranks: ["aaa", "bbb"]
         };
     }
 
@@ -147,26 +142,29 @@ class SearchStepper extends Component {
                             <p>Choose your start point by click the map:</p>
                             <CoordinatePickerMap onUpdate={this.onUpdate.bind(this)}/>
                         </div>
-                        <div>
-                            <p>Choose the range from you home:</p>
-                            <RadioButtonGroup
-                                name={ranges}
-                                defaultSelected="1km"
-                                onChange={this.handleRangeChange}
-                                style={{textAlign: "justify"}}
-                            >
-                                {
-                                    ranges.map(function (item) {
-                                        return (
-                                            <RadioButton
-                                                value={item}
-                                                label={item}
-                                                style={styles.horizontalRadioButton}
-                                            />
-                                        );
-                                    })}
-                            </RadioButtonGroup>
-                        </div>
+                    </div>
+                );
+            case 3:
+                return (
+                    <div>
+                        <p>Choose the range from you home:</p>
+                        <RadioButtonGroup
+                            name={ranges}
+                            defaultSelected="1km"
+                            onChange={this.handleRangeChange}
+                            style={{textAlign: "justify"}}
+                        >
+                            {
+                                ranges.map(function (item) {
+                                    return (
+                                        <RadioButton
+                                            value={item}
+                                            label={item}
+                                            style={styles.horizontalRadioButton}
+                                        />
+                                    );
+                                })}
+                        </RadioButtonGroup>
                     </div>
                 );
         }
@@ -175,7 +173,7 @@ class SearchStepper extends Component {
     handleNext() {
         const {stepIndex} = this.state;
 
-        if (stepIndex < 2) {
+        if (stepIndex < 3) {
             this.setState({stepIndex: stepIndex + 1});
         } else {
             this.props.onUpdate({
@@ -206,14 +204,7 @@ class SearchStepper extends Component {
         const {stepIndex} = this.state;
         return (
             <div>
-                <div>
-                    <Drawer
-                        open={this.state.isDrawerOpen}
-                        containerStyle={{height: "60%", top: "85px"}}>
-                        <MenuItem>Menu Item <h5>123</h5></MenuItem>
-                        <MenuItem>Menu Item 2</MenuItem>
-                    </Drawer>
-                </div>
+                <RankMenu isDrawerOpen={this.state.isDrawerOpen} ranks={this.state.ranks}/>
                 <Dialog
                     title="Choose your preferences for activity"
                     modal={false}
@@ -230,7 +221,10 @@ class SearchStepper extends Component {
                             </Step>
 
                             <Step>
-                                <StepLabel>Select your start point and range</StepLabel>
+                                <StepLabel>Select your start point</StepLabel>
+                            </Step>
+                            <Step>
+                                <StepLabel>Select the range</StepLabel>
                             </Step>
                         </Stepper>
 
@@ -244,7 +238,7 @@ class SearchStepper extends Component {
                                 style={{marginRight: 12}}
                             />
                             <RaisedButton
-                                label={stepIndex === 2 ? 'Let\'s try!' : 'Next'}
+                                label={stepIndex === 3 ? 'Let\'s try!' : 'Next'}
                                 primary={true}
                                 onClick={this.handleNext}
                             />
