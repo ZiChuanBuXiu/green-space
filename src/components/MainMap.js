@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
-import ReactMapboxGl, {GeoJSONLayer, Layer, Marker} from 'react-mapbox-gl';
-import * as MapboxGL from 'mapbox-gl';
-import SymbolLayout from 'mapbox-gl';
+import ReactMapboxGl, {GeoJSONLayer, Layer, Marker, Popup} from 'react-mapbox-gl';
 
 let {token, styles} = require('../configs/config.json');
 
@@ -18,7 +16,7 @@ const mapStyle = {
     align: "center"
 };
 
-const geojson = require('../test.json');
+const geojson = require('../data/test.json');
 
 
 const threeDLayerOpts = {
@@ -70,19 +68,17 @@ class MainMap extends Component {
     }
 
 
+    onClickPaint = (event) => {
+        console.log(event);
+    };
+
     render() {
         return (
             <Map
                 style={styles.outdoor}
                 containerStyle={mapStyle}
-                zoom={this.zoom}
-                center={this.state.center}
-                // onClick={(map, e) => {
-                //     this.setState({
-                //         homeCoordinate: [e.lngLat.lng, e.lngLat.lat]
-                //     });
-                //     this.props.onUpdate({homeCoordinate: [e.lngLat.lng, e.lngLat.lat]});
-                // }}
+                zoom={[13]}
+                center={this.props.center}
             >
                 <Marker
                     coordinates={this.props.homeCoordinate}
@@ -101,14 +97,17 @@ class MainMap extends Component {
                     fillExtrusionPaint={fillExtrusionPaint}
                     symbolLayout={symbolLayout}
                     symbolPaint={symbolPaint}
+                    fillExtrusionOnClick={this.onClickPaint}
+                    fillOnClick={this.onClickPaint}
                 />
 
-                <Layer
-                    id="3d-buildings"
-                    sourceId="composite"
-                    layerOptions={threeDLayerOpts}
-                    paint={paintLayer}
-                />
+                <Popup
+                    coordinates={[144.971154, -37.815285]}
+                    anchor={"bottom"}
+                    style={{width: 50, height: 90}}
+                >
+                    <h1>Popup</h1>
+                </Popup>
 
             </Map>
         );

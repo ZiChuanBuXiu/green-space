@@ -20,7 +20,7 @@ class SearchMap extends Component {
     render() {
         return (
             <div>
-                <MainMap homeCoordinate={this.state.homeCoordinate}/>
+                <MainMap homeCoordinate={this.state.homeCoordinate} center={this.state.homeCoordinate}/>
                 <SearchStepper isStepperVisible={this.props.isStepperVisible} onUpdate={
                     this.onUpdate.bind(this)
                 }/>
