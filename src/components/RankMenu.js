@@ -16,38 +16,36 @@ const ranksToText = {
 };
 
 class RankMenu extends Component {
-    constructor(props) {
-        super(props)
-    }
-
     render() {
+        let self = this;
         return (
-            <div>
-                <Drawer
-                    zDepth={4}
-                    open={this.props.isDrawerOpen}
-                    style={style}
-                    containerStyle={{height: "60%", top: "100px", margin: "15px"}}>
-                    <List>
-                        <Subheader style={{backgroundColor: cyan300}}>Recommendations:</Subheader>
-                        <Divider/>
-                        {
-                            this.props.ranks.map(function (rank, i) {
-                                return (
-                                    <div>
-                                        <ListItem
-                                            leftIcon={<ActionGrade color={yellow500}/>}
-                                            secondaryTextLines={2}
-                                            primaryText={ranksToText[i + 1]}
-                                            secondaryText={rank}
-                                        />
-                                        <Divider/>
-                                    </div>
-                                )
-                            })}
-                    </List>
-                </Drawer>
-            </div>
+            <Drawer
+                zDepth={4}
+                open={this.props.isDrawerOpen}
+                style={style}
+                containerStyle={{height: "60%", top: "100px", margin: "15px"}}>
+                <List>
+                    <Subheader style={{backgroundColor: cyan300}}>Recommendations:</Subheader>
+                    <Divider/>
+                    {
+                        this.props.searchResults.map(function (result, i) {
+                            return (
+                                <div>
+                                    <ListItem
+                                        leftIcon={<ActionGrade color={yellow500}/>}
+                                        primaryText={ranksToText[i + 1]}
+                                        secondaryText={result.name}
+                                        onClick={() => {
+                                            self.props.onUpdate({center: result.coordinate});
+                                            console.log(result.coordinate);
+                                        }}
+                                    />
+                                    <Divider/>
+                                </div>
+                            )
+                        })}
+                </List>
+            </Drawer>
         );
     }
 }

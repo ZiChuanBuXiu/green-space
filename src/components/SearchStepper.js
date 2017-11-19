@@ -6,7 +6,6 @@ import CoordinatePickerMap from "./CoordinatePickerMap";
 import Dialog from 'material-ui/Dialog';
 import FlatButton from 'material-ui/FlatButton';
 import RaisedButton from 'material-ui/RaisedButton';
-import RankMenu from "./RankMenu";
 import React, {Component} from 'react';
 
 const styles = {
@@ -30,6 +29,21 @@ const styles = {
 
 const searchItems = require("../configs/menu.json");
 
+const searchResults = [
+    {
+        "name": "Carlton Gardens South",
+        "coordinate": [144.971298, -37.806056]
+    },
+    {
+        "name": "Royal Botanic Gardens",
+        "coordinate": [144.979486, -37.829514]
+    },
+    {
+        "name": "Alexandra Gardens",
+        "coordinate": [144.972644, -37.820480]
+    }
+];
+
 class SearchStepper extends Component {
     constructor(props) {
         super(props);
@@ -45,7 +59,7 @@ class SearchStepper extends Component {
             range: "1",
             homeCoordinate: [144.971154, -37.815285],
             isDrawerOpen: false,
-            ranks: ["aaa", "bbb"]
+
         };
     }
 
@@ -178,7 +192,9 @@ class SearchStepper extends Component {
         } else {
             this.props.onUpdate({
                 isStepperVisible: false,
-                homeCoordinate: this.state.homeCoordinate
+                homeCoordinate: this.state.homeCoordinate,
+                searchResults: searchResults,
+                isDrawerOpen: true
             });
             //TODO-Update map
             this.setState({
@@ -187,7 +203,6 @@ class SearchStepper extends Component {
                 activity: "Running",
                 time: "Day",
                 range: "1",
-                isDrawerOpen: true
             });
         }
     }
@@ -204,7 +219,6 @@ class SearchStepper extends Component {
         const {stepIndex} = this.state;
         return (
             <div>
-                <RankMenu isDrawerOpen={this.state.isDrawerOpen} ranks={this.state.ranks}/>
                 <Dialog
                     title="Choose your preferences for activity"
                     modal={false}
