@@ -17,7 +17,8 @@ class SearchMap extends Component {
             searchResults: [],
             // ranks: ["Alexander Park", "Royal Park"]
             isDrawerOpen: false,
-            pointing: null
+            pointing: null,
+            center: [144.971154, -37.815285]
         }
     }
 
@@ -38,7 +39,7 @@ class SearchMap extends Component {
                 </AppBar>
                 <MainMap
                     homeCoordinate={this.state.homeCoordinate}
-                    center={this.state.homeCoordinate}
+                    center={this.state.center}
                     searchResults={this.state.searchResults}
                     pointing={this.state.pointing}
                 />
@@ -48,9 +49,7 @@ class SearchMap extends Component {
                 />
                 <RankMenu
                     isDrawerOpen={this.state.isDrawerOpen}
-                    ranks={this.state.searchResults.map(function (item) {
-                        return item.name;
-                    })}
+                    searchResults={this.state.searchResults}
                     onUpdate={this.onUpdate.bind(this)}
                 />
             </div>

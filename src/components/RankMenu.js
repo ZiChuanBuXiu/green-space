@@ -21,6 +21,7 @@ class RankMenu extends Component {
     }
 
     render() {
+        let self = this;
         return (
             <Drawer
                 zDepth={4}
@@ -31,15 +32,17 @@ class RankMenu extends Component {
                     <Subheader style={{backgroundColor: cyan300}}>Recommendations:</Subheader>
                     <Divider/>
                     {
-                        this.props.ranks.map(function (rank, i) {
+                        this.props.searchResults.map(function (result, i) {
                             return (
                                 <div>
                                     <ListItem
                                         leftIcon={<ActionGrade color={yellow500}/>}
                                         primaryText={ranksToText[i + 1]}
-                                        secondaryText={rank}
-                                        onMouseEnter={()=>{this.props.onUpdate({pointing: i})}}
-                                        onMouseLeave={()=>{this.props.onUpdate({pointing: null})}}
+                                        secondaryText={result.name}
+                                        onClick={()=>{
+                                            self.props.onUpdate({center: result.coordinate});
+                                            console.log(result.coordinate);
+                                        }}
                                     />
                                     <Divider/>
                                 </div>
