@@ -1,5 +1,4 @@
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import MainContainer from './containers/MainContainer';
 import React, {Component} from 'react';
 import {
     cyan500, grey100, cyan700, grey400, pinkA200, grey500, darkBlack, white,
@@ -11,6 +10,7 @@ import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import spacing from 'material-ui/styles/spacing';
 
 import './App.css';
+import SearchMap from "./containers/SearchMap";
 
 const theme = getMuiTheme({
     spacing: spacing,
@@ -38,7 +38,7 @@ class App extends Component {
     render() {
         return (
             <MuiThemeProvider muiTheme={theme}>
-                <MainContainer/>
+                <SearchMap/>
             </MuiThemeProvider>
         );
     }

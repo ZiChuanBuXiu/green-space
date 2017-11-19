@@ -12,7 +12,7 @@ const Map = ReactMapboxGl({
 
 const mapStyle = {
     width: '100%',
-    height: '550px',
+    height: '85vh',
     align: "center"
 };
 
