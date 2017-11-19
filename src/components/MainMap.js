@@ -1,5 +1,6 @@
-import {red700} from "material-ui/styles/colors";
+import {red700, amber700} from "material-ui/styles/colors";
 
+import ActionGrade from 'material-ui/svg-icons/action/grade';
 import MapsPinDrop from 'material-ui/svg-icons/maps/pin-drop';
 import React, {Component} from 'react';
 import ReactMapboxGl, {GeoJSONLayer, Marker} from 'react-mapbox-gl';
@@ -43,7 +44,13 @@ class MainMap extends Component {
         }
     }
 
+    onClickPaint = ()=>{
+        this.props.onUpdate({dialogOpen: true});
+        console.log("123");
+    };
+
     render() {
+        let self = this;
         return (
             <Map
                 style={styles.outdoor}
@@ -74,8 +81,8 @@ class MainMap extends Component {
                                 anchor="center"
                                 className="home-pin"
                             >
-                                <div style={{width: "45px", height: '45px'}}>
-                                    <MapsPinDrop style={{height: "100%", width: "100%"}} color={red700}/>
+                                <div style={{width: "45px", height: '45px'}} onClick={self.onClickPaint}>
+                                    <ActionGrade style={{height: "100%", width: "100%"}} color={amber700}/>
                                 </div>
                             </Marker>
                             <GeoJSONLayer
@@ -86,8 +93,8 @@ class MainMap extends Component {
                                 fillExtrusionPaint={fillExtrusionPaint}
                                 symbolLayout={symbolLayout}
                                 symbolPaint={symbolPaint}
-                                // fillExtrusionOnClick={this.onClickPaint}
-                                // fillOnClick={this.onClickPaint}
+                                fillExtrusionOnClick={self.onClickPaint}
+                                fillOnClick={self.onClickPaint}
                             />
                         </div>
                     )
