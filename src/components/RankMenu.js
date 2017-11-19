@@ -22,31 +22,31 @@ class RankMenu extends Component {
 
     render() {
         return (
-            <div>
-                <Drawer
-                    zDepth={4}
-                    open={this.props.isDrawerOpen}
-                    style={style}
-                    containerStyle={{height: "60%", top: "100px", margin: "15px"}}>
-                    <List>
-                        <Subheader style={{backgroundColor: cyan300}}>Recommendations:</Subheader>
-                        <Divider/>
-                        {
-                            this.props.ranks.map(function (rank, i) {
-                                return (
-                                    <div>
-                                        <ListItem
-                                            leftIcon={<ActionGrade color={yellow500}/>}
-                                            primaryText={ranksToText[i + 1]}
-                                            secondaryText={rank}
-                                        />
-                                        <Divider/>
-                                    </div>
-                                )
-                            })}
-                    </List>
-                </Drawer>
-            </div>
+            <Drawer
+                zDepth={4}
+                open={this.props.isDrawerOpen}
+                style={style}
+                containerStyle={{height: "60%", top: "100px", margin: "15px"}}>
+                <List>
+                    <Subheader style={{backgroundColor: cyan300}}>Recommendations:</Subheader>
+                    <Divider/>
+                    {
+                        this.props.ranks.map(function (rank, i) {
+                            return (
+                                <div>
+                                    <ListItem
+                                        leftIcon={<ActionGrade color={yellow500}/>}
+                                        primaryText={ranksToText[i + 1]}
+                                        secondaryText={rank}
+                                        onMouseEnter={()=>{this.props.onUpdate({pointing: i})}}
+                                        onMouseLeave={()=>{this.props.onUpdate({pointing: null})}}
+                                    />
+                                    <Divider/>
+                                </div>
+                            )
+                        })}
+                </List>
+            </Drawer>
         );
     }
 }

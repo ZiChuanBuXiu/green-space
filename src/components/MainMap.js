@@ -6,6 +6,8 @@ import ReactMapboxGl, {GeoJSONLayer, Layer, Marker, Popup} from 'react-mapbox-gl
 
 let {token, styles} = require('../configs/config.json');
 
+const parks = require('../data/parks.json');
+
 const Map = ReactMapboxGl({
     accessToken: token,
 });
@@ -33,7 +35,7 @@ const fillExtrusionLayout = {
 };
 const fillExtrusionPaint = {
     'fill-extrusion-color': 'red',
-    'fill-extrusion-opacity': 0.6
+    'fill-extrusion-opacity': 0.3
 };
 
 
@@ -70,10 +72,35 @@ class MainMap extends Component {
                     </div>
 
                 </Marker>
+                {this.props.searchResults.map(function (item) {
+                    return(
+                        <div>
+                            <Marker
+                                coordinates={item.coordinate}
+                                style={{width: "35px", height: '35px'}}
+                                anchor="center"
+                                className="home-pin"
+                            >
+                                <div style={{width: "45px", height: '45px'}}>
+                                    <MapsPinDrop style={{height: "100%", width: "100%"}} color={red700}/>
+                                </div>
+                            </Marker>
+                            <GeoJSONLayer
+                                data={parks[item.name]}
+                                fillExtrusionLayout={{visibility: 'visible'}}
+                                fillExtrusionPaint={fillExtrusionPaint}
+                                symbolLayout={symbolLayout}
+                                symbolPaint={symbolPaint}
+                                // fillExtrusionOnClick={this.onClickPaint}
+                                // fillOnClick={this.onClickPaint}
+                            />
+                        </div>
+                    )
+                })}
 
                 <GeoJSONLayer
                     data={testJson}
-                    fillExtrusionLayout={fillExtrusionLayout}
+                    fillExtrusionLayout={{visibility: 'visible'}}
                     fillExtrusionPaint={fillExtrusionPaint}
                     symbolLayout={symbolLayout}
                     symbolPaint={symbolPaint}

@@ -16,7 +16,8 @@ class SearchMap extends Component {
             isStepperVisible: false,
             searchResults: [],
             // ranks: ["Alexander Park", "Royal Park"]
-            isDrawerOpen: false
+            isDrawerOpen: false,
+            pointing: null
         }
     }
 
@@ -39,6 +40,7 @@ class SearchMap extends Component {
                     homeCoordinate={this.state.homeCoordinate}
                     center={this.state.homeCoordinate}
                     searchResults={this.state.searchResults}
+                    pointing={this.state.pointing}
                 />
                 <SearchStepper
                     isStepperVisible={this.state.isStepperVisible}
@@ -49,6 +51,7 @@ class SearchMap extends Component {
                     ranks={this.state.searchResults.map(function (item) {
                         return item.name;
                     })}
+                    onUpdate={this.onUpdate.bind(this)}
                 />
             </div>
         );
