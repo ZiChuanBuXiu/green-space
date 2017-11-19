@@ -5,6 +5,7 @@ import {IconButton} from "material-ui";
 
 import ActionSearch from 'material-ui/svg-icons/action/search';
 import AppBar from "material-ui/AppBar";
+import RankMenu from "../components/RankMenu";
 
 class SearchMap extends Component {
     constructor(props) {
@@ -13,7 +14,9 @@ class SearchMap extends Component {
             open: true,
             homeCoordinate: [144.971154, -37.815285],
             isStepperVisible: false,
-            searchResults:[]
+            searchResults: [],
+            // ranks: ["Alexander Park", "Royal Park"]
+            isDrawerOpen: false
         }
     }
 
@@ -40,6 +43,12 @@ class SearchMap extends Component {
                 <SearchStepper
                     isStepperVisible={this.state.isStepperVisible}
                     onUpdate={this.onUpdate.bind(this)}
+                />
+                <RankMenu
+                    isDrawerOpen={this.state.isDrawerOpen}
+                    ranks={this.state.searchResults.map(function (item) {
+                        return item.name;
+                    })}
                 />
             </div>
         );

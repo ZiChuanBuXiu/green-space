@@ -62,7 +62,7 @@ class SearchStepper extends Component {
             range: "1",
             homeCoordinate: [144.971154, -37.815285],
             isDrawerOpen: false,
-            ranks: ["Alexander Park", "Royal Park"]
+
         };
     }
 
@@ -196,7 +196,8 @@ class SearchStepper extends Component {
             this.props.onUpdate({
                 isStepperVisible: false,
                 homeCoordinate: this.state.homeCoordinate,
-                searchResults: searchResults
+                searchResults: searchResults,
+                isDrawerOpen: true
             });
             //TODO-Update map
             this.setState({
@@ -205,7 +206,6 @@ class SearchStepper extends Component {
                 activity: "Running",
                 time: "Day",
                 range: "1",
-                isDrawerOpen: true
             });
         }
     }
@@ -222,7 +222,6 @@ class SearchStepper extends Component {
         const {stepIndex} = this.state;
         return (
             <div>
-                <RankMenu isDrawerOpen={this.state.isDrawerOpen} ranks={this.state.ranks}/>
                 <Dialog
                     title="Choose your preferences for activity"
                     modal={false}
