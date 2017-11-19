@@ -6,7 +6,6 @@ import CoordinatePickerMap from "./CoordinatePickerMap";
 import Dialog from 'material-ui/Dialog';
 import FlatButton from 'material-ui/FlatButton';
 import RaisedButton from 'material-ui/RaisedButton';
-import RankMenu from "./RankMenu";
 import React, {Component} from 'react';
 
 const styles = {
@@ -44,8 +43,6 @@ const searchResults = [
         "coordinate": [144.972644, -37.820480]
     }
 ];
-
-const parks = require('../data/parks.json');
 
 class SearchStepper extends Component {
     constructor(props) {

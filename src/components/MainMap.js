@@ -2,7 +2,7 @@ import {red700} from "material-ui/styles/colors";
 
 import MapsPinDrop from 'material-ui/svg-icons/maps/pin-drop';
 import React, {Component} from 'react';
-import ReactMapboxGl, {GeoJSONLayer, Layer, Marker, Popup} from 'react-mapbox-gl';
+import ReactMapboxGl, {GeoJSONLayer, Marker} from 'react-mapbox-gl';
 
 let {token, styles} = require('../configs/config.json');
 
@@ -18,8 +18,6 @@ const mapStyle = {
     align: "center"
 };
 
-const testJson = require('../data/test.json');
-
 const symbolLayout = {
     'text-field': '{place}',
     'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
@@ -30,9 +28,6 @@ const symbolPaint = {
     'text-color': 'green'
 };
 
-const fillExtrusionLayout = {
-    visibility: 'visible'
-};
 const fillExtrusionPaint = {
     'fill-extrusion-color': 'blue',
     'fill-extrusion-opacity': 0.12
@@ -48,13 +43,7 @@ class MainMap extends Component {
         }
     }
 
-
-    onClickPaint = (event) => {
-        console.log(event);
-    };
-
     render() {
-        let self = this;
         return (
             <Map
                 style={styles.outdoor}

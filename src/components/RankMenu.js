@@ -1,4 +1,4 @@
-import {Divider, Drawer, FlatButton, List, ListItem, Subheader} from "material-ui";
+import {Divider, Drawer, List, ListItem, Subheader} from "material-ui";
 import {yellow500, cyan300} from "material-ui/styles/colors";
 
 import ActionGrade from 'material-ui/svg-icons/action/grade';
@@ -16,10 +16,6 @@ const ranksToText = {
 };
 
 class RankMenu extends Component {
-    constructor(props) {
-        super(props)
-    }
-
     render() {
         let self = this;
         return (
@@ -39,7 +35,7 @@ class RankMenu extends Component {
                                         leftIcon={<ActionGrade color={yellow500}/>}
                                         primaryText={ranksToText[i + 1]}
                                         secondaryText={result.name}
-                                        onClick={()=>{
+                                        onClick={() => {
                                             self.props.onUpdate({center: result.coordinate});
                                             console.log(result.coordinate);
                                         }}
