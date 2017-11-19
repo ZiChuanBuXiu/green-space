@@ -12,7 +12,8 @@ class SearchMap extends Component {
         this.state = {
             open: true,
             homeCoordinate: [144.971154, -37.815285],
-            isStepperVisible: false
+            isStepperVisible: false,
+            searchResults:[]
         }
     }
 
@@ -31,10 +32,15 @@ class SearchMap extends Component {
                         <ActionSearch/>
                     </IconButton>}>
                 </AppBar>
-                <MainMap homeCoordinate={this.state.homeCoordinate} center={this.state.homeCoordinate}/>
-                <SearchStepper isStepperVisible={this.state.isStepperVisible} onUpdate={
-                    this.onUpdate.bind(this)
-                }/>
+                <MainMap
+                    homeCoordinate={this.state.homeCoordinate}
+                    center={this.state.homeCoordinate}
+                    searchResults={this.state.searchResults}
+                />
+                <SearchStepper
+                    isStepperVisible={this.state.isStepperVisible}
+                    onUpdate={this.onUpdate.bind(this)}
+                />
             </div>
         );
     }

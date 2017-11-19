@@ -30,6 +30,23 @@ const styles = {
 
 const searchItems = require("../configs/menu.json");
 
+const searchResults = [
+    {
+        "name": "Carlton Gardens South",
+        "coordinate": [144.971298, -37.806056]
+    },
+    {
+        "name": "Royal Botanic Gardens",
+        "coordinate": [144.979486, -37.829514]
+    },
+    {
+        "name": "Alexandra Gardens",
+        "coordinate": [144.972644, -37.820480]
+    }
+];
+
+const parks = require('../data/parks.json');
+
 class SearchStepper extends Component {
     constructor(props) {
         super(props);
@@ -178,7 +195,8 @@ class SearchStepper extends Component {
         } else {
             this.props.onUpdate({
                 isStepperVisible: false,
-                homeCoordinate: this.state.homeCoordinate
+                homeCoordinate: this.state.homeCoordinate,
+                searchResults: searchResults
             });
             //TODO-Update map
             this.setState({
