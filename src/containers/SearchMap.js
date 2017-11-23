@@ -7,6 +7,7 @@ import ActionSearch from 'material-ui/svg-icons/action/search';
 import AppBar from "material-ui/AppBar";
 import RankMenu from "../components/RankMenu";
 import InformationDialog from "../components/InformationDialog";
+import QuickSearchMenu from '../components/QuickSearchMenu';
 
 class SearchMap extends Component {
     constructor(props) {
@@ -20,7 +21,8 @@ class SearchMap extends Component {
             isDrawerOpen: false,
             pointing: null,
             center: [144.971154, -37.815285],
-            dialogOpen: false
+            dialogOpen: false,
+            menuOpen:false
         }
     }
 
@@ -34,7 +36,7 @@ class SearchMap extends Component {
                 <AppBar
                     title="Green Space Recommendation"
                     iconElementRight={<IconButton onClick={() => {
-                        this.setState({isStepperVisible: true})
+                        this.setState({menuOpen: true})
                     }}>
                         <ActionSearch/>
                     </IconButton>}>
@@ -57,6 +59,10 @@ class SearchMap extends Component {
                 />
                 <InformationDialog
                     dialogOpen={this.state.dialogOpen}
+                    onUpdate={this.onUpdate.bind(this)}
+                />
+                <QuickSearchMenu
+                    menuOpen={this.state.menuOpen}
                     onUpdate={this.onUpdate.bind(this)}
                 />
             </div>
