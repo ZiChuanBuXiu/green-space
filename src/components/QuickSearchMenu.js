@@ -55,7 +55,8 @@ class QuickSearchMenu extends Component {
                     onClick={() => {
                         this.props.onUpdate({
                             searchResults: searchResults,
-                            menuOpen: false
+                            menuOpen: false,
+                            isDrawerOpen: true
                         })
                     }}
                 />
