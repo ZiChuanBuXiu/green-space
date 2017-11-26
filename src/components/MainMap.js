@@ -1,13 +1,15 @@
-import {red700, amber700} from "material-ui/styles/colors";
+import {red700, amber700} from 'material-ui/styles/colors';
 
 import ActionGrade from 'material-ui/svg-icons/action/grade';
 import MapsPinDrop from 'material-ui/svg-icons/maps/pin-drop';
 import React, {Component} from 'react';
-import ReactMapboxGl, {GeoJSONLayer, Marker} from 'react-mapbox-gl';
+import ReactMapboxGl, {GeoJSONLayer, Marker, Popup} from 'react-mapbox-gl';
 
 let {token, styles} = require('../configs/config.json');
 
 const parks = require('../data/parks.json');
+
+const tweet_icon = require('../images/tweet.svg');
 
 const Map = ReactMapboxGl({
     accessToken: token,
@@ -16,7 +18,7 @@ const Map = ReactMapboxGl({
 const mapStyle = {
     width: '100%',
     height: '85vh',
-    align: "center"
+    align: 'center'
 };
 
 const symbolLayout = {
@@ -40,13 +42,15 @@ class MainMap extends Component {
         super(props);
         this.state = {
             homeCoordinate: [144.971154, -37.815285],
-            bound: [[144.972644, -37.820480], [144.979486, -37.829514]]
+            bound: [[144.972644, -37.820480], [144.979486, -37.829514]],
+            popupCoordinate: null,
+            popupContent: null
         }
     }
 
-    onClickPaint = ()=>{
+    onClickPaint = () => {
         this.props.onUpdate({dialogOpen: true});
-        console.log("123");
+        console.log('123');
     };
 
     render() {
@@ -55,34 +59,53 @@ class MainMap extends Component {
             <Map
                 style={styles.outdoor}
                 containerStyle={mapStyle}
-                zoom={[15,16]}
+                zoom={[15, 16]}
                 center={this.props.center}
                 fitBounds={[
                     [this.props.center[0] - 0.01, this.props.center[1] - 0.01],
                     [this.props.center[0] + 0.01, this.props.center[1] + 0.01]]}
+                className={'mainMap'}
             >
                 <Marker
                     coordinates={this.props.homeCoordinate}
-                    style={{width: "35px", height: '35px'}}
+                    style={{width: '35px', height: '35px'}}
                     anchor="top"
                     className="home-pin"
                 >
-                    <div style={{width: "45px", height: '45px'}}>
-                        <MapsPinDrop style={{height: "100%", width: "100%"}} color={red700}/>
+                    <div style={{width: '45px', height: '45px'}}>
+                        <MapsPinDrop style={{height: '100%', width: '100%'}} color={red700}/>
                     </div>
-
                 </Marker>
                 {this.props.searchResults.map(function (item, i) {
+                    console.log(item);
                     return (
                         <div>
+                            {item.tweets.map(function (tweet) {
+                                return (
+                                    <Marker
+                                        coordinates={tweet.coordinate}
+                                        style={{width: '35px', height: '35px'}}
+                                        anchor="center"
+                                        className="tweet-pin"
+                                    >
+                                        <div style={{width: '25px', height: '25px'}} onClick={() => {
+                                            self.setState({
+                                                popupCoordinate: tweet.coordinate,
+                                                popupContent: tweet.content
+                                            })
+                                        }}>
+                                            <img alt={"1"} src={tweet_icon} style={{height: '100%', width: '100%'}}/>
+                                        </div>
+                                    </Marker>)
+                            })}
                             <Marker
                                 coordinates={item.coordinate}
-                                style={{width: "35px", height: '35px'}}
+                                style={{width: '35px', height: '35px'}}
                                 anchor="center"
                                 className="home-pin"
                             >
-                                <div style={{width: "45px", height: '45px'}} onClick={self.onClickPaint}>
-                                    <ActionGrade style={{height: "100%", width: "100%"}} color={amber700}/>
+                                <div style={{width: '45px', height: '45px'}} onClick={self.onClickPaint}>
+                                    <ActionGrade style={{height: '100%', width: '100%'}} color={amber700}/>
                                 </div>
                             </Marker>
                             <GeoJSONLayer
@@ -93,12 +116,39 @@ class MainMap extends Component {
                                 fillExtrusionPaint={fillExtrusionPaint}
                                 symbolLayout={symbolLayout}
                                 symbolPaint={symbolPaint}
-                                fillExtrusionOnClick={self.onClickPaint}
-                                fillOnClick={self.onClickPaint}
+                                // fillExtrusionOnClick={self.onClickPaint}
+                                // fillOnClick={self.onClickPaint}
                             />
                         </div>
                     )
                 })}
+                {
+                    this.state.popupCoordinate && (
+                        <Popup
+                            coordinates={this.state.popupCoordinate}
+                            offset={{
+                                'bottom-left': [12, -38], 'bottom': [0, -38], 'bottom-right': [-12, -38]
+                            }}
+                            anchor={'bottom-left'}
+                        >
+                            <button style={{
+                                color: 'red',
+                                position: 'absolute',
+                                top: 0,
+                                right: 0
+                            }}
+                                    onClick={() => {
+                                        self.setState({
+                                            popupCoordinate: null,
+                                            popupContent: null
+                                        })
+                                    }}
+                            >x
+                            </button>
+                            <h3>{this.state.popupContent}</h3>
+                        </Popup>
+                    )
+                }
 
                 {/*<Popup*/}
                 {/*coordinates={[144.971154, -37.815285]}*/}

@@ -10,16 +10,23 @@ const style = {
 
 const searchResults = [
     {
-        'name': 'Carlton Gardens South',
-        'coordinate': [144.971298, -37.806056]
+        "name": "Carlton Gardens South",
+        "coordinate": [144.971298, -37.806056],
+        "tweets":[
+            {"coordinate": [144.971398, -37.806156], "content": "What a nice dat today!"},
+            {"coordinate": [144.971498, -37.806256], "content": "What a nice dat today!"},
+            {"coordinate": [144.972398, -37.805156], "content": "What a nice dat today!"}
+        ]
     },
     {
-        'name': 'Royal Botanic Gardens',
-        'coordinate': [144.979486, -37.829514]
+        "name": "Royal Botanic Gardens",
+        "coordinate": [144.979486, -37.829514],
+        "tweets":[]
     },
     {
-        'name': 'Alexandra Gardens',
-        'coordinate': [144.972644, -37.820480]
+        "name": "Alexandra Gardens",
+        "coordinate": [144.972644, -37.820480],
+        "tweets":[]
     }
 ];
 
@@ -34,7 +41,7 @@ class QuickSearchMenu extends Component {
                 label="Cancel"
                 primary={true}
                 onClick={() => {
-                    this.state.onUpdate({menuOpen: false})
+                    this.props.onUpdate({menuOpen: false})
                 }}
             />,
         ];
