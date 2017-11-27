@@ -81,26 +81,28 @@ class MainMap extends Component {
                     return (
                         <div>
                             {item.tweets.map(function (tweet) {
-                                return (
-                                    <Marker
-                                        coordinates={tweet.coordinate}
-                                        style={{width: '35px', height: '35px'}}
-                                        anchor="center"
-                                        className="tweet-pin"
-                                    >
-                                        <div style={{width: '25px', height: '25px'}} onClick={() => {
-                                            self.setState({
-                                                popupCoordinate: tweet.coordinate,
-                                                popupContent: tweet.content,
+                                if(self.props.type === "Workout"){
+                                    return (
+                                        <Marker
+                                            coordinates={tweet.coordinate}
+                                            style={{width: '35px', height: '35px'}}
+                                            anchor="center"
+                                            className="tweet-pin"
+                                        >
+                                            <div style={{width: '25px', height: '25px'}} onClick={() => {
+                                                self.setState({
+                                                    popupCoordinate: tweet.coordinate,
+                                                    popupContent: tweet.content,
 
-                                            });
-                                            self.props.onUpdate({
-                                                center: tweet.coordinate
-                                            });
-                                        }}>
-                                            <img alt={'1'} src={tweet_icon} style={{height: '100%', width: '100%'}}/>
-                                        </div>
-                                    </Marker>)
+                                                });
+                                                self.props.onUpdate({
+                                                    center: tweet.coordinate
+                                                });
+                                            }}>
+                                                <img alt={'1'} src={tweet_icon} style={{height: '100%', width: '100%'}}/>
+                                            </div>
+                                        </Marker>)
+                                }
                             })}
                             <Marker
                                 coordinates={item.coordinate}

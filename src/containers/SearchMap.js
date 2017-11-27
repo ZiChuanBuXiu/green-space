@@ -48,7 +48,8 @@ class SearchMap extends Component {
                     searchResults={this.state.searchResults}
                     pointing={this.state.pointing}
                     onUpdate={this.onUpdate.bind(this)}
-                />
+                    type={this.state.type}
+            />}
                 <SearchStepper
                     isStepperVisible={this.state.isStepperVisible}
                     onUpdate={this.onUpdate.bind(this)}
