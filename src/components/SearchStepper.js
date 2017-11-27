@@ -158,16 +158,16 @@ class SearchStepper extends Component {
                                     })}
                             </RadioButtonGroup>
                         </div>
-                        <div>
-                            <p>Choose which activity you want:</p>
-                            <DropDownMenu value={this.state.activity} onChange={this.handleChange}>
-                                {
-                                    searchItems.Activities[this.state.type].map(function (activity) {
-                                        return (<MenuItem value={activity} primaryText={activity}/>);
-                                    })
-                                }
-                            </DropDownMenu>
-                        </div>
+                        {/*<div>*/}
+                            {/*<p>Choose which activity you want:</p>*/}
+                            {/*<DropDownMenu value={this.state.activity} onChange={this.handleChange}>*/}
+                                {/*{*/}
+                                    {/*searchItems.Activities[this.state.type].map(function (activity) {*/}
+                                        {/*return (<MenuItem value={activity} primaryText={activity}/>);*/}
+                                    {/*})*/}
+                                {/*}*/}
+                            {/*</DropDownMenu>*/}
+                        {/*</div>*/}
                     </div>
                 );
 
