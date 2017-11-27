@@ -17,13 +17,13 @@ class SearchMap extends Component {
             homeCoordinate: [144.971154, -37.815285],
             isStepperVisible: false,
             searchResults: [],
-            // ranks: ["Alexander Park", "Royal Park"]
             isDrawerOpen: false,
             pointing: null,
             center: [144.971154, -37.815285],
             dialogOpen: false,
             menuOpen: false,
-            focusedPark: null
+            focusedPark: null,
+            type: "Workout"
         }
     }
 
@@ -62,6 +62,7 @@ class SearchMap extends Component {
                     dialogOpen={this.state.dialogOpen}
                     onUpdate={this.onUpdate.bind(this)}
                     focusedPark={this.state.focusedPark}
+                    type={this.state.type}
                 />
                 <QuickSearchMenu
                     menuOpen={this.state.menuOpen}

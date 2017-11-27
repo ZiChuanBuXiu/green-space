@@ -4,6 +4,7 @@ import ActionGrade from 'material-ui/svg-icons/action/grade';
 import MapsPinDrop from 'material-ui/svg-icons/maps/pin-drop';
 import React, {Component} from 'react';
 import ReactMapboxGl, {GeoJSONLayer, Marker, Popup} from 'react-mapbox-gl';
+import {Avatar, ListItem} from 'material-ui';
 
 let {token, styles} = require('../configs/config.json');
 
@@ -77,7 +78,6 @@ class MainMap extends Component {
                     </div>
                 </Marker>
                 {this.props.searchResults.map(function (item, i) {
-                    console.log(item);
                     return (
                         <div>
                             {item.tweets.map(function (tweet) {
@@ -91,8 +91,12 @@ class MainMap extends Component {
                                         <div style={{width: '25px', height: '25px'}} onClick={() => {
                                             self.setState({
                                                 popupCoordinate: tweet.coordinate,
-                                                popupContent: tweet.content
-                                            })
+                                                popupContent: tweet.content,
+
+                                            });
+                                            self.props.onUpdate({
+                                                center: tweet.coordinate
+                                            });
                                         }}>
                                             <img alt={'1'} src={tweet_icon} style={{height: '100%', width: '100%'}}/>
                                         </div>
@@ -131,10 +135,10 @@ class MainMap extends Component {
                     this.state.popupCoordinate && (
                         <Popup
                             coordinates={this.state.popupCoordinate}
+                            anchor={'bottom-left'}
                             offset={{
                                 'bottom-left': [12, -38], 'bottom': [0, -38], 'bottom-right': [-12, -38]
                             }}
-                            anchor={'bottom-left'}
                         >
                             <button style={{
                                 color: 'red',
@@ -150,7 +154,18 @@ class MainMap extends Component {
                                     }}
                             >x
                             </button>
-                            <h3>{this.state.popupContent}</h3>
+                            <ListItem
+                                disabled={true}
+                                leftAvatar={
+                                    <Avatar src={require('../images/tweet.svg')} size={30}/>
+                                }
+                                style={{
+                                    wordWrap: 'break-word',
+                                    width: '250px'
+                                }}
+                            >
+                                {this.state.popupContent}
+                            </ListItem>
                         </Popup>
                     )
                 }

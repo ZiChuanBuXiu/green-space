@@ -1,13 +1,13 @@
 {
   "Activities": {
-    "Exercise": [
+    "Workout": [
       "Running",
       "Walking"
     ],
-    "Recreation": [
+    "Relax": [
       "Barbecue"
     ],
-    "Socialising": [
+    "Social": [
       "Party"
     ]
   },
