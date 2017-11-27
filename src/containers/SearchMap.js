@@ -1,12 +1,12 @@
 import MainMap from '../components/MainMap';
 import React, {Component} from 'react';
-import SearchStepper from "../components/SearchStepper";
-import {IconButton} from "material-ui";
+import SearchStepper from '../components/SearchStepper';
+import {IconButton} from 'material-ui';
 
 import ActionSearch from 'material-ui/svg-icons/action/search';
-import AppBar from "material-ui/AppBar";
-import RankMenu from "../components/RankMenu";
-import InformationDialog from "../components/InformationDialog";
+import AppBar from 'material-ui/AppBar';
+import RankMenu from '../components/RankMenu';
+import InformationDialog from '../components/InformationDialog';
 import QuickSearchMenu from '../components/QuickSearchMenu';
 
 class SearchMap extends Component {
@@ -22,7 +22,8 @@ class SearchMap extends Component {
             pointing: null,
             center: [144.971154, -37.815285],
             dialogOpen: false,
-            menuOpen:false
+            menuOpen: false,
+            focusedPark: null
         }
     }
 
@@ -60,6 +61,7 @@ class SearchMap extends Component {
                 <InformationDialog
                     dialogOpen={this.state.dialogOpen}
                     onUpdate={this.onUpdate.bind(this)}
+                    focusedPark={this.state.focusedPark}
                 />
                 <QuickSearchMenu
                     menuOpen={this.state.menuOpen}

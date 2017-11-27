@@ -94,7 +94,7 @@ class MainMap extends Component {
                                                 popupContent: tweet.content
                                             })
                                         }}>
-                                            <img alt={"1"} src={tweet_icon} style={{height: '100%', width: '100%'}}/>
+                                            <img alt={'1'} src={tweet_icon} style={{height: '100%', width: '100%'}}/>
                                         </div>
                                     </Marker>)
                             })}
@@ -104,7 +104,12 @@ class MainMap extends Component {
                                 anchor="center"
                                 className="home-pin"
                             >
-                                <div style={{width: '45px', height: '45px'}} onClick={self.onClickPaint}>
+                                <div style={{width: '45px', height: '45px'}} onClick={() => {
+                                    self.props.onUpdate({
+                                        dialogOpen: true,
+                                        focusedPark: item.name
+                                    });
+                                }}>
                                     <ActionGrade style={{height: '100%', width: '100%'}} color={amber700}/>
                                 </div>
                             </Marker>
@@ -149,15 +154,6 @@ class MainMap extends Component {
                         </Popup>
                     )
                 }
-
-                {/*<Popup*/}
-                {/*coordinates={[144.971154, -37.815285]}*/}
-                {/*anchor={"bottom"}*/}
-                {/*style={{width: 50, height: 90}}*/}
-                {/*>*/}
-                {/*<h1>Popup</h1>*/}
-                {/*</Popup>*/}
-
             </Map>
         );
     }
