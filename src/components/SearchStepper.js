@@ -244,7 +244,8 @@ class SearchStepper extends Component {
         type: 'Workout',
         activity: 'Running',
         time: 'Day',
-        range: '1',
+        range: '1km',
+        homeCoordinate: [144.971154, -37.815285],
       });
     }
   }

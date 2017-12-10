@@ -31,6 +31,12 @@ function inRange(start, destination, range) {
 
 export default function pickTop(activity, start, range) {
   let filteredData = filterParksByRange(start, range);
+  let maxP = Math.max(...filteredData.map(function (data) {
+    return data['total_number']
+  }));
+  let minP = Math.min(...filteredData.map(function (data) {
+    return data['total_number']
+  }));
   if (activity === null) {
     return filteredData.sort((a, b) => {
       if (a['workout']['score'] + a['relax']['score'] + a['social']['score'] > b['workout']['score'] + b['relax']['score'] + b['social']['score']) {
@@ -40,8 +46,11 @@ export default function pickTop(activity, start, range) {
       }
     }).splice(0, 3);
   }
+
   return filteredData.sort((a, b) => {
-    if (a[activity.toLowerCase()]['score'] > b[activity.toLowerCase()]['score']) {
+    console.log((maxP - minP) === 0 ? 0 : a[activity.toLowerCase()]['popularity'] / (maxP - minP));
+    if (a[activity.toLowerCase()]['polarity'] + ((maxP - minP) === 0 ? 0 : a[activity.toLowerCase()]['popularity'] / (maxP - minP))
+      > b[activity.toLowerCase()]['polarity'] + ((maxP - minP) === 0 ? 0 : b[activity.toLowerCase()]['popularity'] / (maxP - minP))) {
       return -1;
     } else {
       return 1;
