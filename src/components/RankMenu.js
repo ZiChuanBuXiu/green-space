@@ -36,8 +36,7 @@ class RankMenu extends Component {
                                         primaryText={ranksToText[i + 1]}
                                         secondaryText={result.name}
                                         onClick={() => {
-                                            self.props.onUpdate({center: result.coordinate});
-                                            console.log(result.coordinate);
+                                            self.props.onUpdate({center: result.coordinates});
                                         }}
                                     />
                                     <Divider/>
