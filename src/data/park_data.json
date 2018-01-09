@@ -15,9 +15,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.072222222,
+        "polarity": 0.038888888999999996,
         "popularity": 3,
-        "score": 0.088705739,
+        "score": 0.055372405,
         "tweets": [
           {
             "content": "Mazda2 Melbourne Launch with my babe @nat_kalinowski #mazda #mazda2 #launch #party @ 64 Sutton ",
@@ -219,9 +219,9 @@
     {
       "name": "Royal Parade Reserve",
       "workout": {
-        "polarity": -0.00507753,
+        "polarity": -0.002759223,
         "popularity": 36,
-        "score": 0.027065328,
+        "score": 0.029383634,
         "tweets": [
           {
             "content": "Great turnout for #AlbisRide. Supporting #cyclists and remembering the latest fatality in Brunswick. ",
@@ -247,9 +247,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.12087912099999999,
+        "polarity": 0.148656899,
         "popularity": 3,
-        "score": 0.123557692,
+        "score": 0.15133547,
         "tweets": [
           {
             "content": "\"@LilianaSnchez9: @CetaExploit  Oh lunes !!! Si mucho descanso 😁 👍🌈🐾🐳🐋💙🌈  \n relax everyday  Way !",
@@ -275,9 +275,9 @@
         ]
       },
       "social": {
-        "polarity": 0.11386801099999999,
+        "polarity": 0.070954179,
         "popularity": 21,
-        "score": 0.132618011,
+        "score": 0.08970417900000001,
         "tweets": [
           {
             "content": "Mr &amp; Mrs Roso #wedding #bridesmaide #love #happiness ",
@@ -311,9 +311,9 @@
     {
       "name": "Docklands Park",
       "workout": {
-        "polarity": 0.030263676,
+        "polarity": 0.032782369,
         "popularity": 11,
-        "score": 0.039779247000000004,
+        "score": 0.04229794,
         "tweets": [
           {
             "content": "Cycle Sunday's with my buddy \\ud83d\\udeb4\\ud83d\\udeb4 #love #cyclesyndays #squad #missingthetash #riderlife @\\u2026 ",
@@ -353,9 +353,9 @@
         ]
       },
       "social": {
-        "polarity": 0.177919484,
+        "polarity": 0.07595740299999999,
         "popularity": 18,
-        "score": 0.193490419,
+        "score": 0.09152833699999999,
         "tweets": [
           {
             "content": "#weddingplanner #flowers #weddingbouquet #wedding #bridal #bridalbouquet #stunning… ",
@@ -389,9 +389,9 @@
     {
       "name": "J J Holland Park",
       "workout": {
-        "polarity": 0.061118705999999995,
+        "polarity": 0.031356801000000004,
         "popularity": 9,
-        "score": 0.074143308,
+        "score": 0.044381403,
         "tweets": [
           {
             "content": "Was out walking  km with #Endomondo. See it here:  ",
@@ -417,9 +417,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.092063492,
+        "polarity": 0.047619048,
         "popularity": 3,
-        "score": 0.09640502599999999,
+        "score": 0.051960582000000005,
         "tweets": [
           {
             "content": "Feeling like your wondering around in circles? Come and relax with a therapeutic pamper. 💆🏼💆🏼‍♂️… ",
@@ -539,9 +539,9 @@
         "tweets": []
       },
       "relax": {
-        "polarity": 0.1,
+        "polarity": 0.141666667,
         "popularity": 2,
-        "score": 0.115625,
+        "score": 0.157291667,
         "tweets": [
           {
             "content": "#yoga beautiful start to the  🙏 @ Hotbox Yoga ",
@@ -622,9 +622,9 @@
     {
       "name": "Burton Reserve",
       "workout": {
-        "polarity": 0.080395299,
+        "polarity": 0.049145299,
         "popularity": 8,
-        "score": 0.100345424,
+        "score": 0.069095424,
         "tweets": [
           {
             "content": "A trio of drips. #sunday #walk #lovebeingadad #water #art #sculpture #lake #puddles @ Caroline\\u2026 ",
@@ -686,9 +686,9 @@
     {
       "name": "Eureka Reserve",
       "workout": {
-        "polarity": 0.2,
+        "polarity": 0.1,
         "popularity": 1,
-        "score": 0.205847953,
+        "score": 0.10584795300000001,
         "tweets": [
           {
             "content": "\\u201c@AussieMasters: Building toward the Masters!! Sponsored by @Langham_Melb #ausmasters #setupunderway #lovegolf \\u201d",
@@ -825,9 +825,9 @@
     {
       "name": "Point Park",
       "workout": {
-        "polarity": 0.187037037,
+        "polarity": 0.11203703699999999,
         "popularity": 3,
-        "score": 0.21507442,
+        "score": 0.14007442,
         "tweets": [
           {
             "content": "Second last  Waterfront City #cycling #commute #melbourne #morning @ Point Park ",
@@ -895,9 +895,9 @@
     {
       "name": "Hawke & Adderley Street Park",
       "workout": {
-        "polarity": 0.052525253,
+        "polarity": 0.022222222000000003,
         "popularity": 3,
-        "score": 0.06031746,
+        "score": 0.03001443,
         "tweets": [
           {
             "content": "Night time walk \\ud83d\\udc36 #Melbourne \\n\\n#walk #night #dailypic #hellokikiphotos #instagood #cityatnight #park\\u2026 ",
@@ -980,9 +980,9 @@
     {
       "name": "Queen Victoria Gardens",
       "workout": {
-        "polarity": 0.069572668,
+        "polarity": 0.028264884,
         "popularity": 50,
-        "score": 0.079438493,
+        "score": 0.038130709,
         "tweets": [
           {
             "content": "It's like magicccc 🚴🚴🚴#andywarhol #ngv #illusion #creative #art #eyecandy #exhibition… ",
@@ -1008,9 +1008,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.16227361699999998,
+        "polarity": 0.103107586,
         "popularity": 23,
-        "score": 0.166811896,
+        "score": 0.107645865,
         "tweets": [
           {
             "content": "Contemporary art meets yoga #melbourne #honeymoon @ National Gallery of Victoria ",
@@ -1036,9 +1036,9 @@
         ]
       },
       "social": {
-        "polarity": 0.114955265,
+        "polarity": 0.083782882,
         "popularity": 50,
-        "score": 0.12482109,
+        "score": 0.093648707,
         "tweets": [
           {
             "content": "Happy birthday Alpha 💜 #10years @ M Pavillion ",
@@ -1148,9 +1148,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.589285714,
+        "polarity": 0.46428571399999996,
         "popularity": 2,
-        "score": 0.6220726,
+        "score": 0.4970726,
         "tweets": [
           {
             "content": "@bennyz32 happy #birthday chief!",
@@ -1177,9 +1177,9 @@
     {
       "name": "Burston Reserve",
       "workout": {
-        "polarity": 0.185496763,
+        "polarity": 0.156925334,
         "popularity": 7,
-        "score": 0.19571574100000003,
+        "score": 0.167144312,
         "tweets": [
           {
             "content": "071216\\n#melbourne #reflection #symmetry #sunrise #work #walk #tree #water #clouds #early\\u2026 ",
@@ -1205,9 +1205,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.163885895,
+        "polarity": 0.100012268,
         "popularity": 7,
-        "score": 0.17410487300000002,
+        "score": 0.11023124699999999,
         "tweets": [
           {
             "content": "Make #time to #nurture your #soul ... Especially during #Xmas ... #peace #serenity #pray #love @ St.… ",
@@ -1233,9 +1233,9 @@
         ]
       },
       "social": {
-        "polarity": 0.125938731,
+        "polarity": 0.068418474,
         "popularity": 18,
-        "score": 0.15221610300000002,
+        "score": 0.094695846,
         "tweets": [
           {
             "content": "😱🍮🍰🍭🍫😍\n#food #yum #instafood #amazing #dessert #hotel #wedding #photooftheday #delicious… ",
@@ -1373,9 +1373,9 @@
     {
       "name": "Victoria Market Reserve",
       "workout": {
-        "polarity": 0.046807954000000006,
+        "polarity": 0.036603872,
         "popularity": 7,
-        "score": 0.051324083,
+        "score": 0.041120001,
         "tweets": [
           {
             "content": "Jogged a good 5km with dad around the city \\ud83d\\ude0a (at Flagstaff Gardens) \\u2014 ",
@@ -1407,9 +1407,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.14377412,
+        "polarity": 0.10850842,
         "popularity": 23,
-        "score": 0.15861283,
+        "score": 0.123347129,
         "tweets": [
           {
             "content": "Cat cafe birthday party #festivalofgirleen @ Cat Cafe Melbourne ",
@@ -1495,9 +1495,9 @@
     {
       "name": "Flagstaff Gardens",
       "workout": {
-        "polarity": 0.028640152999999998,
+        "polarity": 0.027535993999999998,
         "popularity": 35,
-        "score": 0.047051515999999995,
+        "score": 0.045947357,
         "tweets": [
           {
             "content": "Got to ride this today! Electric skateboard.  so much fun! Big thank you to my friend\\u2026 ",
@@ -1523,9 +1523,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.13543482699999998,
+        "polarity": 0.065708148,
         "popularity": 17,
-        "score": 0.144377488,
+        "score": 0.07465081,
         "tweets": [
           {
             "content": "After yoga class  🙌🏻🙌🏻 #amazingsky #sunset #friday #flagstaffgarden #cbd #westmelbourne… ",
@@ -1551,9 +1551,9 @@
         ]
       },
       "social": {
-        "polarity": 0.17903544300000002,
+        "polarity": 0.136551857,
         "popularity": 42,
-        "score": 0.20112907800000002,
+        "score": 0.158645492,
         "tweets": [
           {
             "content": "Happy #1stbirthday #MasterWilliam! #cousinlove #babycousin #William @ City Of Melbourne Bowls Club ",
@@ -1640,9 +1640,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.145604396,
+        "polarity": 0.10989011,
         "popularity": 4,
-        "score": 0.20810439600000002,
+        "score": 0.17239011,
         "tweets": [
           {
             "content": "Hip hip hooray! Happy birthday @theage #GoodWeekend ",
@@ -1682,9 +1682,9 @@
         "tweets": []
       },
       "relax": {
-        "polarity": 0.4,
+        "polarity": 0.2,
         "popularity": 1,
-        "score": 0.407194245,
+        "score": 0.207194245,
         "tweets": [
           {
             "content": "#hypercolor #3amigos \n\n#instagirls #latin #fun @ Johnson street Spanish festival ",
@@ -1758,9 +1758,9 @@
     {
       "name": "St Pauls Cathedral",
       "workout": {
-        "polarity": 0.080779941,
+        "polarity": 0.061973945,
         "popularity": 42,
-        "score": 0.090951895,
+        "score": 0.072145899,
         "tweets": [
           {
             "content": "Early morning at  Beach! #stkilda #stkildabeach #beach #early #morning #sunrise #beautiful… ",
@@ -1786,9 +1786,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.164643875,
+        "polarity": 0.074330484,
         "popularity": 15,
-        "score": 0.16827671600000002,
+        "score": 0.077963325,
         "tweets": [
           {
             "content": "have fun 💚 #dayoff #goodday #fun #love #travelphotography #travel #photo #viedo #melbourne… ",
@@ -1814,9 +1814,9 @@
         ]
       },
       "social": {
-        "polarity": 0.113396439,
+        "polarity": 0.081367186,
         "popularity": 65,
-        "score": 0.129138749,
+        "score": 0.09710949699999999,
         "tweets": [
           {
             "content": "Happy Birthday Jetstar! #Jetstar11thBirthday @ Federation Square ",
@@ -1950,9 +1950,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.154761905,
+        "polarity": 0.077380952,
         "popularity": 2,
-        "score": 0.166883117,
+        "score": 0.089502165,
         "tweets": [
           {
             "content": "Christmas Eve Antipasto and cocktails #family #Christmas #yum #dinner #cocktail #greek  #feast… ",
@@ -2000,9 +2000,9 @@
     {
       "name": "Spencer Street Plaza",
       "workout": {
-        "polarity": 0.09262987,
+        "polarity": 0.003106061,
         "popularity": 15,
-        "score": 0.10460113900000001,
+        "score": 0.01507733,
         "tweets": [
           {
             "content": "In this big world, I was just a little thing. 🏃🏻🌏 สิ่งเล็กๆ ที่เรียกว่ ชีวิต #ถึงตัวเล็กแต่ใจใหญ่… ",
@@ -2028,9 +2028,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.27380952399999997,
+        "polarity": 0.154761905,
         "popularity": 4,
-        "score": 0.277001862,
+        "score": 0.157954243,
         "tweets": [
           {
             "content": "#football #cupcake\n#happy #afl #grandfinal #weekend @ Media House ",
@@ -2056,9 +2056,9 @@
         ]
       },
       "social": {
-        "polarity": 0.127734265,
+        "polarity": 0.076564675,
         "popularity": 19,
-        "score": 0.142897873,
+        "score": 0.091728282,
         "tweets": [
           {
             "content": "#BirthdayApartment #MelbourneCity #Beautiful #IMUGN ",
@@ -2120,9 +2120,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.13033088199999998,
+        "polarity": 0.065625,
         "popularity": 4,
-        "score": 0.138494148,
+        "score": 0.073788265,
         "tweets": [
           {
             "content": "Afternoons live @ Plus5!\n#sunset #cocktails #chilling ",
@@ -2148,9 +2148,9 @@
         ]
       },
       "social": {
-        "polarity": 0.074946524,
+        "polarity": 0.065855615,
         "popularity": 10,
-        "score": 0.095354687,
+        "score": 0.08626377800000001,
         "tweets": [
           {
             "content": "#christmasparty #lastdayofwork2015 #hiphiphooray #dinner #thai #drinks #southwharf #melbourne… ",
@@ -2184,9 +2184,9 @@
     {
       "name": "Treasury Gardens",
       "workout": {
-        "polarity": 0.063150519,
+        "polarity": 0.041885235,
         "popularity": 19,
-        "score": 0.092745535,
+        "score": 0.07148025,
         "tweets": [
           {
             "content": "A morning walk in treasury gardens @ Treasury Gardens ",
@@ -2212,9 +2212,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.316073683,
+        "polarity": 0.157929744,
         "popularity": 8,
-        "score": 0.328534742,
+        "score": 0.170390803,
         "tweets": [
           {
             "content": "#lunchtime #parkwalk #sunshinemakesmehappy #floralfix #floralstyles_gf #floraldress #melbourne @… ",
@@ -2240,9 +2240,9 @@
         ]
       },
       "social": {
-        "polarity": 0.10646008400000001,
+        "polarity": 0.09910714300000001,
         "popularity": 8,
-        "score": 0.118921143,
+        "score": 0.11156820199999999,
         "tweets": [
           {
             "content": "Andrew's 30th Birthday! @ Hihou ",
@@ -2276,9 +2276,9 @@
     {
       "name": "Southbank Promenade",
       "workout": {
-        "polarity": 0.081873708,
+        "polarity": 0.054589402,
         "popularity": 87,
-        "score": 0.100555263,
+        "score": 0.073270957,
         "tweets": [
           {
             "content": "@GarryGooseMelb .. 'Fev' enjoying the sunshine walk @Southgate_Melb",
@@ -2304,9 +2304,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.12773825800000002,
+        "polarity": 0.07166645599999999,
         "popularity": 29,
-        "score": 0.13396544300000002,
+        "score": 0.077893641,
         "tweets": [
           {
             "content": "N2 + Lux Bite! Loved it! #foodporn #happy #sunday #fun #icecream #chocolate @ Southbank Pedestrian… ",
@@ -2332,9 +2332,9 @@
         ]
       },
       "social": {
-        "polarity": 0.21482325600000002,
+        "polarity": 0.14765066,
         "popularity": 161,
-        "score": 0.249394869,
+        "score": 0.18222227300000002,
         "tweets": [
           {
             "content": "deebo_thelifentimes #Birthday #Lunch @ The Meat  Wine Co ",
@@ -2418,9 +2418,9 @@
     {
       "name": "Royal Botanic Gardens",
       "workout": {
-        "polarity": 0.066216407,
+        "polarity": 0.033185417,
         "popularity": 21,
-        "score": 0.124227457,
+        "score": 0.09119646599999999,
         "tweets": [
           {
             "content": "On the run #Melbourne #palmtree #sky @ Royal Botanical Gardens ",
@@ -2446,9 +2446,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.13619281,
+        "polarity": 0.077859477,
         "popularity": 6,
-        "score": 0.152767396,
+        "score": 0.09443406300000001,
         "tweets": [
           {
             "content": "Moonlight  chill 🌙💫📽✌🏻🌵🍷🍔 #MoonlightCinema #Melbourne #Summer #Picnic #BlossomHill #Movie… ",
@@ -2474,9 +2474,9 @@
         ]
       },
       "social": {
-        "polarity": 0.28670033699999997,
+        "polarity": 0.152434602,
         "popularity": 11,
-        "score": 0.317087077,
+        "score": 0.182821343,
         "tweets": [
           {
             "content": "#food #picnic #sundayevening #outandabout @ Moonlight Cinema ",
@@ -2510,9 +2510,9 @@
     {
       "name": "Jolimont Reserve",
       "workout": {
-        "polarity": 0.0214791,
+        "polarity": 0.023921102000000003,
         "popularity": 12,
-        "score": 0.087413166,
+        "score": 0.08985516800000001,
         "tweets": [
           {
             "content": "One more step closer to my  I just ran  km in 42:52 using @MapMyRun.  Check out my route!  #run #running #health #lifeisgood",
@@ -2552,9 +2552,9 @@
         ]
       },
       "social": {
-        "polarity": 0.126515152,
+        "polarity": 0.008333333,
         "popularity": 5,
-        "score": 0.15398767900000002,
+        "score": 0.035805861,
         "tweets": [
           {
             "content": "#alp #laborparty ",
@@ -2588,9 +2588,9 @@
     {
       "name": "Gordon Reserve",
       "workout": {
-        "polarity": 0.042160862,
+        "polarity": 0.025523904,
         "popularity": 9,
-        "score": 0.048113243,
+        "score": 0.031476285,
         "tweets": [
           {
             "content": "Paseando por una ciudad encantadora :) ... Walk around of lovely city #Melbourne #parliament #\\u2026 ",
@@ -2616,9 +2616,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.145431156,
+        "polarity": 0.12473954599999999,
         "popularity": 14,
-        "score": 0.154690415,
+        "score": 0.133998805,
         "tweets": [
           {
             "content": "Warm #bath #camomille #Sound bathroom music #vacation Magazine.. #relaxation at sheraton #Melbourne… ",
@@ -2644,9 +2644,9 @@
         ]
       },
       "social": {
-        "polarity": 0.085802506,
+        "polarity": 0.063481078,
         "popularity": 40,
-        "score": 0.112257533,
+        "score": 0.089936104,
         "tweets": [
           {
             "content": "Complimentary Birthday Plate from The Windsor Hotel all for Mummy!🍰🍧🍨🍮🎊🎉🎈🎁💝 #birthday #celebration #food… ",
@@ -2721,9 +2721,9 @@
     {
       "name": "Eades Park",
       "workout": {
-        "polarity": 0.34166666700000003,
+        "polarity": 0.19166666699999999,
         "popularity": 2,
-        "score": 0.360897436,
+        "score": 0.21089743600000002,
         "tweets": [
           {
             "content": "10 days before moving out I found a place to exercise myself near  ",
@@ -2763,9 +2763,9 @@
     {
       "name": "North Melbourne Recreation Reserve",
       "workout": {
-        "polarity": 0.096498599,
+        "polarity": 0.084593838,
         "popularity": 7,
-        "score": 0.149130178,
+        "score": 0.137225416,
         "tweets": [
           {
             "content": "1st outdoor swim, 1st kilometer swim of Summer @ North Melbourne Swimming Pool ",
@@ -2819,9 +2819,9 @@
     {
       "name": "Kingsway & Moray Street Reserve",
       "workout": {
-        "polarity": 0.055944056,
+        "polarity": 0.040792541,
         "popularity": 6,
-        "score": 0.081806125,
+        "score": 0.06665461,
         "tweets": [
           {
             "content": "Weather status from down under #Melbourne #Australia #whitemelbourne #walking #puddlesfordays #waves\\u2026 ",
@@ -2853,9 +2853,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.10997203,
+        "polarity": 0.08221229,
         "popularity": 11,
-        "score": 0.157385823,
+        "score": 0.129626083,
         "tweets": [
           {
             "content": "The best birthday gift ever!!!! #loveit thank you so much my beautiful @aurikaleonor and reneesyn you… ",
@@ -2895,9 +2895,9 @@
         "tweets": []
       },
       "relax": {
-        "polarity": 0.4,
+        "polarity": 0.2,
         "popularity": 1,
-        "score": 0.405649718,
+        "score": 0.205649718,
         "tweets": [
           {
             "content": "Quiet time by the pool today. #pictureperfect #poolside #relax #summerfun… ",
@@ -2909,9 +2909,9 @@
         ]
       },
       "social": {
-        "polarity": 0.042613635999999996,
+        "polarity": 0.011363636000000002,
         "popularity": 4,
-        "score": 0.06521250599999999,
+        "score": 0.033962506,
         "tweets": [
           {
             "content": "“@taylorswift13: So this is being \n\n#WHAT\n#bestbirthdayEVER ” uhm",
@@ -2945,9 +2945,9 @@
     {
       "name": "Parliament Reserve",
       "workout": {
-        "polarity": 0.038888888999999996,
+        "polarity": 0.005555556,
         "popularity": 3,
-        "score": 0.047176182000000004,
+        "score": 0.013842848,
         "tweets": [
           {
             "content": "Chelsea x Liverpool #soccer #beer #friends #tantofazquemganha (@ Imperial Hotel - @the_impy in Melbourne, VIC) ",
@@ -2966,9 +2966,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.75,
+        "polarity": 0.41666666700000005,
         "popularity": 1,
-        "score": 0.752762431,
+        "score": 0.41942909799999994,
         "tweets": [
           {
             "content": "Happy Birthday to us! #Sister #family #Birthday #wine #red #white #love #mondayfunday @ Imperial… ",
@@ -2980,9 +2980,9 @@
         ]
       },
       "social": {
-        "polarity": 0.056340485,
+        "polarity": 0.040467469,
         "popularity": 7,
-        "score": 0.075677501,
+        "score": 0.059804486,
         "tweets": [
           {
             "content": "The Hodges Bentleigh girls. #christmas #celebration #partytime #workhardplayhard #adayinthelife… ",
@@ -3071,9 +3071,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.11771561800000001,
+        "polarity": 0.066433566,
         "popularity": 3,
-        "score": 0.12292395099999999,
+        "score": 0.0716419,
         "tweets": [
           {
             "content": "Stumbled across this little gem just a stones throw \n\n#weekend #relax #timeoff #food… ",
@@ -3099,9 +3099,9 @@
         ]
       },
       "social": {
-        "polarity": 0.19905927399999998,
+        "polarity": 0.18164205100000003,
         "popularity": 17,
-        "score": 0.228573163,
+        "score": 0.21115594,
         "tweets": [
           {
             "content": "Happy birthday dear coombesys,,, @bigcoombesy ",
@@ -3135,9 +3135,9 @@
     {
       "name": "Alexandra Gardens",
       "workout": {
-        "polarity": 0.08077506599999999,
+        "polarity": 0.06192572599999999,
         "popularity": 141,
-        "score": 0.127202461,
+        "score": 0.108353121,
         "tweets": [
           {
             "content": "😍😍 #melbourne #bridge #relax #walk #inspiration #me #kattyliz #singer #music #view #downtown #city @… ",
@@ -3163,9 +3163,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.248101105,
+        "polarity": 0.139728922,
         "popularity": 21,
-        "score": 0.255015824,
+        "score": 0.14664364,
         "tweets": [
           {
             "content": "#telstrareporter #midsumma #fun #hotguys ",
@@ -3191,9 +3191,9 @@
         ]
       },
       "social": {
-        "polarity": 0.14607936900000001,
+        "polarity": 0.07638512900000001,
         "popularity": 62,
-        "score": 0.16649425199999998,
+        "score": 0.09680001199999999,
         "tweets": [
           {
             "content": "#littlepicnic #cutelittlepicnic #picnic #rug #food #dinner #picnicdinner #alexandragardens # @… ",
@@ -3283,9 +3283,9 @@
     {
       "name": "Federation Square",
       "workout": {
-        "polarity": 0.006613757,
+        "polarity": 0.031305115,
         "popularity": 9,
-        "score": 0.012752911,
+        "score": 0.037444269,
         "tweets": [
           {
             "content": "Second last run of the year \\ud83d\\ude01 ",
@@ -3339,9 +3339,9 @@
         ]
       },
       "social": {
-        "polarity": 0.086955855,
+        "polarity": 0.058384425999999996,
         "popularity": 13,
-        "score": 0.095823522,
+        "score": 0.067252093,
         "tweets": [
           {
             "content": "Happiest of birthdays to my gorgeous, sweet, kind, beautiful and… ",
@@ -3375,9 +3375,9 @@
     {
       "name": "Batman Park",
       "workout": {
-        "polarity": 0.073063277,
+        "polarity": 0.056129734,
         "popularity": 35,
-        "score": 0.08917004099999999,
+        "score": 0.07223649900000001,
         "tweets": [
           {
             "content": "That Friday feeling.#Cycling 🚴🏻 #Melbourne 🚴🏻 #Spring @ Yarra River, Melbourn",
@@ -3403,9 +3403,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.106565657,
+        "polarity": 0.073148148,
         "popularity": 9,
-        "score": 0.110707396,
+        "score": 0.077289888,
         "tweets": [
           {
             "content": "Beautiful #spring day ☀️😎 #river #outdoors #city #sunnyday #relax #weekend #love #melbourne… ",
@@ -3431,9 +3431,9 @@
         ]
       },
       "social": {
-        "polarity": 0.11915879,
+        "polarity": 0.088517764,
         "popularity": 50,
-        "score": 0.142168454,
+        "score": 0.11152742800000001,
         "tweets": [
           {
             "content": "Queen's Birthday! #holiday #happybirthdayqueen @ Sea Life Melbourne Aquarium ",
@@ -3467,9 +3467,9 @@
     {
       "name": "Fitzroy Gardens",
       "workout": {
-        "polarity": 0.090153192,
+        "polarity": 0.058273412999999996,
         "popularity": 76,
-        "score": 0.126138041,
+        "score": 0.094258261,
         "tweets": [
           {
             "content": "Gorgeous walk through the gorgeous #FitzroyGardens on this gorgeous spring afternoon.…",
@@ -3495,9 +3495,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.118011041,
+        "polarity": 0.061629237,
         "popularity": 20,
-        "score": 0.127480738,
+        "score": 0.071098934,
         "tweets": [
           {
             "content": "Exploring Melbourne #adventure #fun #Melbourne #hometown @ Fitzroy Gardens ",
@@ -3523,9 +3523,9 @@
         ]
       },
       "social": {
-        "polarity": 0.154616841,
+        "polarity": 0.113738508,
         "popularity": 39,
-        "score": 0.17308275,
+        "score": 0.132204417,
         "tweets": [
           {
             "content": "Hi mango season #picnic 🌤🍓 @ Fitzroy Gardens ",
@@ -3619,9 +3619,9 @@
     {
       "name": "Miles & Dodds Street Reserve",
       "workout": {
-        "polarity": -0.009466374,
+        "polarity": 0.001644737,
         "popularity": 6,
-        "score": 0.009702955,
+        "score": 0.020814066000000003,
         "tweets": [
           {
             "content": "Time for a walk to South #Melbourne .. #Injuries can't stop the #selfies #instagay #gaystagram… ",
@@ -3653,9 +3653,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.111879862,
+        "polarity": 0.073351995,
         "popularity": 14,
-        "score": 0.156608296,
+        "score": 0.118080429,
         "tweets": [
           {
             "content": "#festivalready #festivalseason #saturday #listenout2013 #melbourne #festivalfashion #partytimes… ",
@@ -3738,9 +3738,9 @@
     {
       "name": "Victoria Parade Reserve",
       "workout": {
-        "polarity": 0.007753101,
+        "polarity": 0.00265106,
         "popularity": 14,
-        "score": 0.014258676999999999,
+        "score": 0.009156636999999999,
         "tweets": [
           {
             "content": "Day 224 : #SuperStar \\ud83c\\udf1f\\ud83d\\udc5f\\ud83c\\udde6\\ud83c\\uddfa Hello.. Brand new morning with new step. Never stop and keep walking\\u2026 ",
@@ -3766,9 +3766,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.18481026899999997,
+        "polarity": 0.158884343,
         "popularity": 9,
-        "score": 0.188992425,
+        "score": 0.163066499,
         "tweets": [
           {
             "content": "ME RN 😁\n#CupWeek #FreakinExcited #SNL @ Just Breathe Yoga  Healing ",
@@ -3794,9 +3794,9 @@
         ]
       },
       "social": {
-        "polarity": 0.178913806,
+        "polarity": 0.15366128099999998,
         "popularity": 41,
-        "score": 0.19796585100000003,
+        "score": 0.17271332600000003,
         "tweets": [
           {
             "content": "Happy 2nd birthday Prince Gorgeous 💙 @ Midwife Cath ",
@@ -3856,21 +3856,21 @@
     {
       "name": "Gillott Reserve Tianjin Gardens",
       "workout": {
-        "polarity": 0.063375778,
+        "polarity": 0.044897959,
         "popularity": 21,
-        "score": 0.073659813,
+        "score": 0.055181994000000005,
         "tweets": []
       },
       "relax": {
-        "polarity": 0.078417562,
+        "polarity": 0.064528673,
         "popularity": 13,
-        "score": 0.08478387,
+        "score": 0.070894981,
         "tweets": []
       },
       "social": {
-        "polarity": 0.141972074,
+        "polarity": 0.114034894,
         "popularity": 43,
-        "score": 0.16302986,
+        "score": 0.135092681,
         "tweets": []
       },
       "total_number": 2042,
@@ -3882,9 +3882,9 @@
     {
       "name": "City Square",
       "workout": {
-        "polarity": 0.07768361900000001,
+        "polarity": 0.04715482,
         "popularity": 739,
-        "score": 0.09474035199999999,
+        "score": 0.064211553,
         "tweets": [
           {
             "content": "Stretch for the balance #yoga #motivation #calm #balance #happylife #grateful #lifeisgood \\ud83d\\udc4c\\ud83c\\udffb\\ud83d\\udc99 @\\u2026 ",
@@ -3910,9 +3910,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.162857787,
+        "polarity": 0.09741891400000001,
         "popularity": 373,
-        "score": 0.17146693600000001,
+        "score": 0.106028063,
         "tweets": [
           {
             "content": "#reading #book #quote #relax #inspiration @ Melbourne, Australia ",
@@ -3938,9 +3938,9 @@
         ]
       },
       "social": {
-        "polarity": 0.19471987899999998,
+        "polarity": 0.13729131,
         "popularity": 1052,
-        "score": 0.219000912,
+        "score": 0.161572343,
         "tweets": [
           {
             "content": "#Surprise#AwesomePeople#HappyBirthdayToMe# @ City of Melbourne ",
@@ -4086,9 +4086,9 @@
     {
       "name": "St Augustines Church",
       "workout": {
-        "polarity": 0.050252253,
+        "polarity": 0.033905336,
         "popularity": 60,
-        "score": 0.066411693,
+        "score": 0.050064776,
         "tweets": [
           {
             "content": "#barre #theyogasocial #dance #getexcited #balletbarre #melbourneyoga #fitness #health\\u2026 ",
@@ -4114,9 +4114,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.127108327,
+        "polarity": 0.100688259,
         "popularity": 87,
-        "score": 0.150539515,
+        "score": 0.124119447,
         "tweets": [
           {
             "content": "#nightout #friends #fun #appbreeze #funny #love #instagood #igers #friendship #party #chill #happy… ",
@@ -4142,9 +4142,9 @@
         ]
       },
       "social": {
-        "polarity": 0.029615198,
+        "polarity": 0.024226149,
         "popularity": 175,
-        "score": 0.076746898,
+        "score": 0.071357848,
         "tweets": [
           {
             "content": "HAPPY BIRTHDAY NAT! x (@ Kinfolk) ",
@@ -4178,9 +4178,9 @@
     {
       "name": "Carlton Gardens North",
       "workout": {
-        "polarity": 0.067492028,
+        "polarity": 0.049046705,
         "popularity": 23,
-        "score": 0.079533913,
+        "score": 0.06108859,
         "tweets": [
           {
             "content": "On the #run #balloon #green @ Melbourne Museum ",
@@ -4234,9 +4234,9 @@
         ]
       },
       "social": {
-        "polarity": 0.041903599,
+        "polarity": 0.033967091,
         "popularity": 21,
-        "score": 0.052898363,
+        "score": 0.044961855999999994,
         "tweets": [
           {
             "content": "Happy Birthday Jesus! Merry Christmas everyone!  🌲🌲🌲 ❤#hairextensionspro Quality Double Drawn… ",
@@ -4270,9 +4270,9 @@
     {
       "name": "Newmarket Reserve",
       "workout": {
-        "polarity": -0.010652746000000001,
+        "polarity": -0.033380019,
         "popularity": 4,
-        "score": 0.027808793,
+        "score": 0.00508152,
         "tweets": [
           {
             "content": "Pug family Sunday walk \\ud83d\\udc3e  \\n#pugs #puglove #puglife #pugselfie #selfie #pugfamily #pugwalk\\u2026 ",
@@ -4312,9 +4312,9 @@
         ]
       },
       "social": {
-        "polarity": 0.42222222200000004,
+        "polarity": 0.21111111100000002,
         "popularity": 2,
-        "score": 0.441452991,
+        "score": 0.23034188,
         "tweets": [
           {
             "content": "Australiana #pool #sunday #birthday #flemington #melbourne @ Flemington-Kensington Bowls Club ",
@@ -4389,9 +4389,9 @@
     {
       "name": "University Cricket Ground",
       "workout": {
-        "polarity": 0.056547619,
+        "polarity": 0.051497114000000004,
         "popularity": 22,
-        "score": 0.077824215,
+        "score": 0.07277371,
         "tweets": [
           {
             "content": "JDS disco 2016! Fun times #summerofaths #run #jump #throw #walk @ Ormond College ",
@@ -4445,9 +4445,9 @@
         ]
       },
       "social": {
-        "polarity": 0.091074444,
+        "polarity": 0.072820475,
         "popularity": 21,
-        "score": 0.111383921,
+        "score": 0.093129953,
         "tweets": [
           {
             "content": "#wedding #love @ Newman College (University of Melbourne) ",
@@ -4481,9 +4481,9 @@
     {
       "name": "Canning Street & Macaulay Road Reserve",
       "workout": {
-        "polarity": 0.181818182,
+        "polarity": 0.0,
         "popularity": 1,
-        "score": 0.20884520899999998,
+        "score": 0.027027027000000002,
         "tweets": [
           {
             "content": "Throw it throw it throw iiiiiiiit #fetch #walkies #bulldoglife #dogsofinstagram #claytonreserve @\\u2026 ",
@@ -4582,9 +4582,9 @@
     {
       "name": "Alexandra Park",
       "workout": {
-        "polarity": 0.045337063,
+        "polarity": 0.02642963,
         "popularity": 107,
-        "score": 0.132117274,
+        "score": 0.11320984099999999,
         "tweets": [
           {
             "content": "Happy first day of spring!!! #recoveryRun #melbourneILoveYou @ Swan Street Bridge ",
@@ -4610,9 +4610,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.069859307,
+        "polarity": 0.018722944,
         "popularity": 6,
-        "score": 0.07472548700000001,
+        "score": 0.023589124,
         "tweets": [
           {
             "content": "STRESS FREE ZONE 😆✌🏻️☕️💕\n#dayoff #lovelyday #haveacoffee #takearest #coffeetime #chillout… ",
@@ -4638,9 +4638,9 @@
         ]
       },
       "social": {
-        "polarity": 0.19520965699999998,
+        "polarity": 0.071363749,
         "popularity": 72,
-        "score": 0.253603817,
+        "score": 0.12975791,
         "tweets": [
           {
             "content": "Happy birthday sarahacleaver\n❤💋🎉🎊🎂 @ Morell Bridge ",
@@ -4742,9 +4742,9 @@
         ]
       },
       "social": {
-        "polarity": 0.07396491200000001,
+        "polarity": 0.057298246,
         "popularity": 5,
-        "score": 0.091326023,
+        "score": 0.074659357,
         "tweets": [
           {
             "content": "Happy Birthday rachievatu \n\nThought I'd post an oldie hahaha 😜 \n\nLove you and I hope your day has… ",
@@ -4778,9 +4778,9 @@
     {
       "name": "Shrine of Remembrance Reserve",
       "workout": {
-        "polarity": -0.066666667,
+        "polarity": -0.033333333,
         "popularity": 5,
-        "score": -0.060926139000000004,
+        "score": -0.027592805,
         "tweets": [
           {
             "content": "Was out cycling  km with #Endomondo. See it here: ",
@@ -4806,9 +4806,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.072222222,
+        "polarity": 0.05,
         "popularity": 3,
-        "score": 0.075666539,
+        "score": 0.053444317000000005,
         "tweets": [
           {
             "content": "#teatime as missed #breakfast see do drink something other than #coffee #water &amp; single malt.… ",
@@ -4834,9 +4834,9 @@
         ]
       },
       "social": {
-        "polarity": 0.047318190999999996,
+        "polarity": 0.040175334,
         "popularity": 14,
-        "score": 0.06339167,
+        "score": 0.056248812999999995,
         "tweets": [
           {
             "content": "Party Times #party #bestfriendsforever #reunion  @ boutique ",
@@ -4884,9 +4884,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.169607843,
+        "polarity": 0.127941176,
         "popularity": 3,
-        "score": 0.184313725,
+        "score": 0.142647059,
         "tweets": [
           {
             "content": "Completely relaxed with hydra photo rejuvenation session @X10Me_Eyelash #beauty",
@@ -4912,9 +4912,9 @@
         ]
       },
       "social": {
-        "polarity": 0.115873016,
+        "polarity": 0.092063492,
         "popularity": 3,
-        "score": 0.130578898,
+        "score": 0.106769374,
         "tweets": [
           {
             "content": "Always good catching up with the boys @matthewpillios @k1samgreco #food #lunch #laughs #friends #kouta… ",
@@ -4968,9 +4968,9 @@
         ]
       },
       "social": {
-        "polarity": 0.128219003,
+        "polarity": 0.125013875,
         "popularity": 13,
-        "score": 0.15524603,
+        "score": 0.152040902,
         "tweets": [
           {
             "content": "Hello, Goodbye  Happy Birthday (@ Malthouse Theatre in Southbank, Australia) ",
@@ -5024,9 +5024,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.5,
+        "polarity": 0.333333333,
         "popularity": 1,
-        "score": 0.512820513,
+        "score": 0.346153846,
         "tweets": [
           {
             "content": "HAPPEE BIRTHDAY🎉🎊 eggseggseggseggseggs #kidscantread #afamilyjustmovedtables #birthday… ",
@@ -5060,9 +5060,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.102941176,
+        "polarity": 0.075163399,
         "popularity": 3,
-        "score": 0.103073539,
+        "score": 0.075295761,
         "tweets": [
           {
             "content": "|| Lunch in the Sun! || #lunch #sun #chillsesh || ☀️☀️☀️ || @ St. Catherine's Early Education Centre. ",
@@ -5170,9 +5170,9 @@
     {
       "name": "Leveson Street Reserve",
       "workout": {
-        "polarity": 0.25,
+        "polarity": 0.0,
         "popularity": 1,
-        "score": 0.267857143,
+        "score": 0.017857143,
         "tweets": [
           {
             "content": "#showandshine #foa #bike #bikenerds @ Electron Workshop ",
@@ -5246,9 +5246,9 @@
         ]
       },
       "social": {
-        "polarity": 0.116001834,
+        "polarity": 0.10356927199999999,
         "popularity": 26,
-        "score": 0.153144691,
+        "score": 0.140712129,
         "tweets": [
           {
             "content": "Little bit of luxury after 5 months of backpacking. 😍 Happy birthday sashaprice05 😘 @ Experience… ",
@@ -5282,9 +5282,9 @@
     {
       "name": "Maribyrnong River Bike Trail",
       "workout": {
-        "polarity": 0.25,
+        "polarity": 0.0,
         "popularity": 2,
-        "score": 0.260989011,
+        "score": 0.010989011000000002,
         "tweets": [
           {
             "content": "\\ud83c\\udfca #saturdayswim #geelong #melbourne #thatguytho #visitmelbourne #visitaustralia @ Eastern Beach Geelong ",
@@ -5338,9 +5338,9 @@
     {
       "name": "Buluk Park",
       "workout": {
-        "polarity": 0.444444444,
+        "polarity": 0.222222222,
         "popularity": 1,
-        "score": 0.44892874899999996,
+        "score": 0.226706527,
         "tweets": [
           {
             "content": "That  #ride #bike #city #beach #boat #sky #blue #fun\\u2026 ",
@@ -5352,9 +5352,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.161111111,
+        "polarity": 0.094444444,
         "popularity": 3,
-        "score": 0.174564026,
+        "score": 0.107897359,
         "tweets": [
           {
             "content": "Library lunchtime views. #takeabreak #readingtime @ Library at the Dock ",
@@ -5380,9 +5380,9 @@
         ]
       },
       "social": {
-        "polarity": 0.295901321,
+        "polarity": 0.28479021,
         "popularity": 6,
-        "score": 0.32280715,
+        "score": 0.311696039,
         "tweets": [
           {
             "content": "Happy Birthday 7mood love you 🎉🎂🎈 @ Convesso ",
@@ -5476,9 +5476,9 @@
     {
       "name": "Chinatown Plaza",
       "workout": {
-        "polarity": 0.058799342000000004,
+        "polarity": 0.056716009000000005,
         "popularity": 8,
-        "score": 0.061304823,
+        "score": 0.05922149,
         "tweets": [
           {
             "content": "I must look so funny doing my #insanityworkout in the park on my lunch break watching it on my tablet.",
@@ -5504,9 +5504,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.23272751600000002,
+        "polarity": 0.12895542,
         "popularity": 16,
-        "score": 0.237738477,
+        "score": 0.133966381,
         "tweets": [
           {
             "content": "Pretty chill lunch companion 👍🏼 @ Ants Bistro ",
@@ -5532,9 +5532,9 @@
         ]
       },
       "social": {
-        "polarity": 0.16115353699999999,
+        "polarity": 0.121024834,
         "popularity": 132,
-        "score": 0.202493969,
+        "score": 0.162365266,
         "tweets": [
           {
             "content": "Happy birthday Kate scarlettdonnelly #birthday #kareoke @ Empress Of China ",
@@ -5568,9 +5568,9 @@
     {
       "name": "Sturt Street Reserve",
       "workout": {
-        "polarity": -0.018100649,
+        "polarity": 0.017613636000000002,
         "popularity": 4,
-        "score": -0.001293927,
+        "score": 0.034420359,
         "tweets": [
           {
             "content": "Work. #MiniGolf #Golf #Rooftop #Melbourne @ Microlistics - Warehouse Management Systems ",
@@ -5596,9 +5596,9 @@
         ]
       },
       "relax": {
-        "polarity": -0.166666667,
+        "polarity": 0.0,
         "popularity": 1,
-        "score": -0.162464986,
+        "score": 0.004201681,
         "tweets": [
           {
             "content": "Lunchtime with the FamBam. #mtcDisgraced #actorslife @ MTC HQ ",
@@ -5610,9 +5610,9 @@
         ]
       },
       "social": {
-        "polarity": 0.061282468,
+        "polarity": 0.04937770599999999,
         "popularity": 6,
-        "score": 0.08649255199999999,
+        "score": 0.07458779,
         "tweets": [
           {
             "content": "Join our #garden #party &amp; help raise funds for #cancer#council. \nSaturday 29 November from… ",
@@ -5646,9 +5646,9 @@
     {
       "name": "Kings Domain South",
       "workout": {
-        "polarity": 0.051934732000000004,
+        "polarity": 0.031242996000000002,
         "popularity": 220,
-        "score": 0.102197469,
+        "score": 0.081505733,
         "tweets": [
           {
             "content": "Afternoon run in the gardens ✔️ #mindfulness @ Royal Botanic Gardens Victoria ",
@@ -5674,9 +5674,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.216663104,
+        "polarity": 0.12569255199999999,
         "popularity": 81,
-        "score": 0.23516893,
+        "score": 0.14419837800000002,
         "tweets": [
           {
             "content": "Fresh  #green #relax #garden #concept @ Jardin Tan ",
@@ -5702,9 +5702,9 @@
         ]
       },
       "social": {
-        "polarity": 0.217406304,
+        "polarity": 0.149868286,
         "popularity": 146,
-        "score": 0.250762484,
+        "score": 0.183224466,
         "tweets": [
           {
             "content": "#birthday #friends @ Royal Botanic Gardens Melbourne ",
@@ -5790,9 +5790,9 @@
     {
       "name": "Flemington Road Reserve",
       "workout": {
-        "polarity": 0.038438109,
+        "polarity": 0.066215887,
         "popularity": 12,
-        "score": 0.045804592000000005,
+        "score": 0.07358236900000001,
         "tweets": [
           {
             "content": "@Stiggeh @Lorinimus nice! We were all exhausted after running around there for a few hours. Such a great place.",
@@ -5818,9 +5818,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.146207041,
+        "polarity": 0.095726271,
         "popularity": 8,
-        "score": 0.15111802900000001,
+        "score": 0.10063726,
         "tweets": [
           {
             "content": "Check that out ! Lovely #hill at #royalpark #bluesky #horizon #parkville #summer #sunday… ",
@@ -5846,9 +5846,9 @@
         ]
       },
       "social": {
-        "polarity": 0.112850078,
+        "polarity": 0.07976722900000001,
         "popularity": 24,
-        "score": 0.127583043,
+        "score": 0.09450019400000001,
         "tweets": [
           {
             "content": "Happy Birthday to the VCCC! (@ Victorian Comprehensive Cancer Centre)  ",
@@ -5978,9 +5978,9 @@
     {
       "name": "Royal Park",
       "workout": {
-        "polarity": 0.06875930599999999,
+        "polarity": 0.037052094,
         "popularity": 46,
-        "score": 0.083689523,
+        "score": 0.051982312,
         "tweets": [
           {
             "content": "My first run in a week and I'm sharing it with the animals! #running #sunsetseries2016",
@@ -6006,9 +6006,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.136131047,
+        "polarity": 0.068854111,
         "popularity": 18,
-        "score": 0.141973306,
+        "score": 0.07469637,
         "tweets": [
           {
             "content": "Hello Sea Lion - janvier 2017\n#otarie #sealion #nage #swim #swimming #fun #zoo #melbourne… ",
@@ -6034,9 +6034,9 @@
         ]
       },
       "social": {
-        "polarity": 0.114776505,
+        "polarity": 0.088431035,
         "popularity": 83,
-        "score": 0.14171581,
+        "score": 0.11537034,
         "tweets": [
           {
             "content": "#gourmet #picnic #zoo go#food @ Melbourne Zoo ",
@@ -6070,9 +6070,9 @@
     {
       "name": "Yarra Park",
       "workout": {
-        "polarity": 0.02468622,
+        "polarity": 0.016116927,
         "popularity": 342,
-        "score": 0.063352133,
+        "score": 0.05478284,
         "tweets": [
           {
             "content": "\\ud83d\\ude0e\\ud83d\\udc4d @ Melbourne Cricket Ground (MCG) ",
@@ -6098,9 +6098,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.102417615,
+        "polarity": 0.065715024,
         "popularity": 25,
-        "score": 0.105244071,
+        "score": 0.068541479,
         "tweets": [
           {
             "content": "@Harperrosebud perfect way indeed #beer #andRelax",
@@ -6126,9 +6126,9 @@
         ]
       },
       "social": {
-        "polarity": 0.113276341,
+        "polarity": 0.075679698,
         "popularity": 118,
-        "score": 0.12661721199999998,
+        "score": 0.08902056900000001,
         "tweets": [
           {
             "content": "Happy 3/4 birthday Ritchie Benaud, rest in peace. #white #offwhite #cream #bone #RIP #legend… ",
@@ -6162,9 +6162,9 @@
     {
       "name": "Kensington Hall Reserve",
       "workout": {
-        "polarity": 0.146367521,
+        "polarity": 0.11559829099999999,
         "popularity": 5,
-        "score": 0.15765420300000002,
+        "score": 0.12688497199999998,
         "tweets": [
           {
             "content": "Feeling pretty good today so I'm off for a walk. #publicholiday #melbournecup @ Newmarket Station ",
@@ -6190,9 +6190,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.252272727,
+        "polarity": 0.129545455,
         "popularity": 5,
-        "score": 0.26355940899999997,
+        "score": 0.140832136,
         "tweets": [
           {
             "content": "Lovely evening with my darlings. xxxx #love #invite #family #fijian #fiwi @ Doutta Galla Hotel ",
@@ -6218,9 +6218,9 @@
         ]
       },
       "social": {
-        "polarity": 0.177618411,
+        "polarity": 0.12262414099999999,
         "popularity": 10,
-        "score": 0.200191774,
+        "score": 0.145197504,
         "tweets": [
           {
             "content": "Orsons birthday dinner🎈🍾 (@ Chef Lagenda in Flemington, Victoria) ",
@@ -6322,9 +6322,9 @@
     {
       "name": "Customs Square",
       "workout": {
-        "polarity": 0.006734006999999999,
+        "polarity": 0.034511785,
         "popularity": 3,
-        "score": 0.032375032000000005,
+        "score": 0.06015281,
         "tweets": [
           {
             "content": "Quick workout while parent shopping (@ Dohertys 24/7 Gym in Melbourne, VIC) ",
@@ -6479,9 +6479,9 @@
     {
       "name": "University Square",
       "workout": {
-        "polarity": 0.0,
+        "polarity": 0.006410256,
         "popularity": 6,
-        "score": 0.008141113,
+        "score": 0.014551369,
         "tweets": [
           {
             "content": "I was out cycling  km with #Endomondo #endorphins ",
@@ -6507,9 +6507,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.14686116400000002,
+        "polarity": 0.075782732,
         "popularity": 4,
-        "score": 0.15228857199999998,
+        "score": 0.081210141,
         "tweets": [
           {
             "content": "I am #informative innovation-focussed #engaging researcher #resbaz @astrokatie @heydejan with #fun",
@@ -6535,9 +6535,9 @@
         ]
       },
       "social": {
-        "polarity": 0.273706004,
+        "polarity": 0.264182195,
         "popularity": 5,
-        "score": 0.280490265,
+        "score": 0.270966455,
         "tweets": [
           {
             "content": "@manissasufian Happiest birthday doctor 😚",
@@ -6666,9 +6666,9 @@
         ]
       },
       "social": {
-        "polarity": -0.144444444,
+        "polarity": -0.2,
         "popularity": 2,
-        "score": -0.119127989,
+        "score": -0.174683544,
         "tweets": [
           {
             "content": "Waiting for the guests to arrive #saturday #dinnerparty #mexicanfeast @ Gardiner Reserve ",
@@ -6695,9 +6695,9 @@
     {
       "name": "Merritts Place Reserve",
       "workout": {
-        "polarity": -0.02026862,
+        "polarity": 0.040842491,
         "popularity": 15,
-        "score": -0.006791531,
+        "score": 0.05431958,
         "tweets": [
           {
             "content": "Nothing beats that free  walking around naked 😝the_king_gia 🔛Tonight at goldies pals 👌… ",
@@ -6723,9 +6723,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.16296296300000002,
+        "polarity": 0.10462963,
         "popularity": 6,
-        "score": 0.168353799,
+        "score": 0.110020465,
         "tweets": [
           {
             "content": " 👍😊😊😊😊 #tgif #happy #friday #australia #vic #melbourne #weekend #thai #lady #single… ",
@@ -6751,9 +6751,9 @@
         ]
       },
       "social": {
-        "polarity": 0.06260129099999999,
+        "polarity": 0.042559745,
         "popularity": 140,
-        "score": 0.18838745399999998,
+        "score": 0.168345909,
         "tweets": [
           {
             "content": "With dis beauty today ♡ #bestie #catchup #dinner #eateateat #fattiesforlife @ SUDA ",
@@ -6896,9 +6896,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.110886438,
+        "polarity": 0.07436683,
         "popularity": 8,
-        "score": 0.123504734,
+        "score": 0.086985127,
         "tweets": [
           {
             "content": "#KISS #partyeveryday #oldschool #rock #livemark @ KISS Concert - Rod Laver Arena ",
@@ -6932,9 +6932,9 @@
     {
       "name": "Railway Revegetation Area",
       "workout": {
-        "polarity": 0.3,
+        "polarity": 0.1,
         "popularity": 1,
-        "score": 0.303460208,
+        "score": 0.10346020800000001,
         "tweets": [
           {
             "content": "\\ud83d\\udcaa\\ud83c\\udffc\\ud83d\\udca6 #gym #swimmingpool #private #flat #tower #southbank #melbourne #australia #tour #home\\u2026 ",
@@ -7022,9 +7022,9 @@
     {
       "name": "Ievers Reserve",
       "workout": {
-        "polarity": 0.246697747,
+        "polarity": 0.085081585,
         "popularity": 9,
-        "score": 0.271907831,
+        "score": 0.11029166900000001,
         "tweets": [
           {
             "content": "#crossfit #athletic #fit #fitness #active #crossfitopen #wod #exercise #paleo #cleaneating #protein ",
@@ -7064,9 +7064,9 @@
         ]
       },
       "social": {
-        "polarity": 0.026974547999999997,
+        "polarity": 0.010307881999999999,
         "popularity": 4,
-        "score": 0.03817903,
+        "score": 0.021512364,
         "tweets": [
           {
             "content": "Nothing like your outfit for the night being due to arrive the minute you  #vivsxmasparty",
@@ -7128,9 +7128,9 @@
         ]
       },
       "relax": {
-        "polarity": -0.16161616199999998,
+        "polarity": -0.036616162,
         "popularity": 4,
-        "score": -0.158431448,
+        "score": -0.033431447999999996,
         "tweets": [
           {
             "content": "A #90minutepamperingpackage just made my day! #spoilingthyself #workhardforit #chillaxing… ",
@@ -7156,9 +7156,9 @@
         ]
       },
       "social": {
-        "polarity": 0.12871538400000002,
+        "polarity": 0.10153820699999999,
         "popularity": 37,
-        "score": 0.15817398300000002,
+        "score": 0.130996806,
         "tweets": [
           {
             "content": "Thanks you guys! 😘 #birthdaydinner @ Kitchen Worshop Crown Casino ",
@@ -7220,9 +7220,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.21608391600000001,
+        "polarity": 0.10472028,
         "popularity": 5,
-        "score": 0.224779568,
+        "score": 0.113415932,
         "tweets": [
           {
             "content": "Yay. It's my Friday already. #melbournelife #weekend #fun #lifeisbeautiful #3dayweekend @… ",
@@ -7248,9 +7248,9 @@
         ]
       },
       "social": {
-        "polarity": 0.21208450199999998,
+        "polarity": 0.113183403,
         "popularity": 13,
-        "score": 0.23469319800000002,
+        "score": 0.135792099,
         "tweets": [
           {
             "content": "#yay #readyformyfirstbirthdayparty #happy1stbirthdaythomas #beaukennedygleeson @ Kensington,… ",
@@ -7325,9 +7325,9 @@
     {
       "name": "Kings Domain",
       "workout": {
-        "polarity": 0.057339242,
+        "polarity": 0.034467745,
         "popularity": 269,
-        "score": 0.099835293,
+        "score": 0.076963796,
         "tweets": [
           {
             "content": "#chipmunk #toy #bicycle #handlebar #street #happy #companion #rider #youngatheart @ South Yarra,\\u2026 ",
@@ -7353,9 +7353,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.224906037,
+        "polarity": 0.128989228,
         "popularity": 86,
-        "score": 0.238492135,
+        "score": 0.142575326,
         "tweets": [
           {
             "content": "Fresh  #green #relax #garden #concept @ Jardin Tan ",
@@ -7381,9 +7381,9 @@
         ]
       },
       "social": {
-        "polarity": 0.20699304,
+        "polarity": 0.147400174,
         "popularity": 189,
-        "score": 0.23685086,
+        "score": 0.17725799399999997,
         "tweets": [
           {
             "content": "#birthday #friends @ Royal Botanic Gardens Melbourne ",
@@ -7417,9 +7417,9 @@
     {
       "name": "Queensbridge Square",
       "workout": {
-        "polarity": 0.051136364000000004,
+        "polarity": 0.015151515,
         "popularity": 6,
-        "score": 0.058868322,
+        "score": 0.022883473999999997,
         "tweets": [
           {
             "content": "First cycling experience in Mel \\ud83d\\udeb2\\ud83d\\udca8 #yolo #cyclebuddies #healthyworkout @ Cycling Along The Yarra River ",
@@ -7445,9 +7445,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.1875,
+        "polarity": 0.125,
         "popularity": 1,
-        "score": 0.18878866,
+        "score": 0.12628866,
         "tweets": [
           {
             "content": "This guy looks like he had a good New Years Eve. #fun #sand #beach #brighton #summer @ Brighton Beach… ",
@@ -7459,9 +7459,9 @@
         ]
       },
       "social": {
-        "polarity": 0.12911603,
+        "polarity": 0.08319220000000001,
         "popularity": 35,
-        "score": 0.174219123,
+        "score": 0.128295293,
         "tweets": [
           {
             "content": "Gold Rushing @parishilton #goldrush #fragrancelaunch #partywithparis #chemistwarehouse… ",
@@ -7495,9 +7495,9 @@
     {
       "name": "Fawkner Park",
       "workout": {
-        "polarity": 0.085876476,
+        "polarity": 0.050701282,
         "popularity": 70,
-        "score": 0.12850741400000001,
+        "score": 0.09333221900000001,
         "tweets": [
           {
             "content": "Perfect start to the day \\ud83d\\udcaa #fitness #healthy #fruit #healthfood #motivation #breakfast @ The Alfred\\u2026 ",
@@ -7523,9 +7523,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.10206398300000001,
+        "polarity": 0.0020639829999999997,
         "popularity": 3,
-        "score": 0.103891024,
+        "score": 0.0038910240000000003,
         "tweets": [
           {
             "content": "This, is addiction. Lol #games #ipad #fun #toogood #cantstop #awesome @ St Kilda Rd ",
@@ -7551,9 +7551,9 @@
         ]
       },
       "social": {
-        "polarity": 0.174911895,
+        "polarity": 0.11494263800000001,
         "popularity": 46,
-        "score": 0.202926512,
+        "score": 0.142957254,
         "tweets": [
           {
             "content": "Happy Birthday Hayden. @haydo #birthday #celebration #quality @ Bistro Gitan ",
@@ -7587,9 +7587,9 @@
     {
       "name": "Birrarung Marr",
       "workout": {
-        "polarity": 0.072797052,
+        "polarity": 0.045997659,
         "popularity": 205,
-        "score": 0.101135454,
+        "score": 0.074336061,
         "tweets": [
           {
             "content": "\\ud83d\\udeb4\\u23e9\\ud83c\\udf04\\ud83d\\ude0a @ Birrarung Marr ",
@@ -7615,9 +7615,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.149808209,
+        "polarity": 0.095226586,
         "popularity": 48,
-        "score": 0.156443542,
+        "score": 0.10186191900000001,
         "tweets": [
           {
             "content": "Melbourne you rock!!! #ausopen #festival #tennis #lunchbreak #food #drinks @ Birrarung Marr,… ",
@@ -7643,9 +7643,9 @@
         ]
       },
       "social": {
-        "polarity": 0.124838727,
+        "polarity": 0.07232793900000001,
         "popularity": 135,
-        "score": 0.143500602,
+        "score": 0.090989814,
         "tweets": [
           {
             "content": "And  🍻🎂🎉🌟#HappyBirthdayMyFriend ❤️ @ Transit Rooftop Bar ",
@@ -7694,9 +7694,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.181818182,
+        "polarity": 0.090909091,
         "popularity": 1,
-        "score": 0.185933408,
+        "score": 0.095024317,
         "tweets": [
           {
             "content": "Just finished #reading @KYD_journal 20. Cover to cover. As always. Nice work, guys. ",
@@ -7708,9 +7708,9 @@
         ]
       },
       "social": {
-        "polarity": 0.058751622,
+        "polarity": 0.049227812999999995,
         "popularity": 7,
-        "score": 0.087558207,
+        "score": 0.078034397,
         "tweets": [
           {
             "content": "Looking for some #australiaday #bbq inspiration? Looking good @joechefbartlett・・・\nShort ribs… ",
@@ -7892,9 +7892,9 @@
     {
       "name": "Cook Street Reserve",
       "workout": {
-        "polarity": 0.1,
+        "polarity": 0.0,
         "popularity": 2,
-        "score": 0.111049724,
+        "score": 0.011049723999999999,
         "tweets": [
           {
             "content": "On the #run #Melbourne #palmtree @ Eureka Tower 89th floor ",
@@ -7926,9 +7926,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.26276818399999996,
+        "polarity": 0.205625327,
         "popularity": 7,
-        "score": 0.301442217,
+        "score": 0.24429936,
         "tweets": [
           {
             "content": "Happy birthday Erika! #munichbrauhaus #happybirthday @ Munich Brauhaus ",
@@ -7962,9 +7962,9 @@
     {
       "name": "Weedon Reserve",
       "workout": {
-        "polarity": 0.260504202,
+        "polarity": 0.18907563,
         "popularity": 2,
-        "score": 0.26844071,
+        "score": 0.197012138,
         "tweets": [
           {
             "content": "On the run #ngv #melbourne #art @ Bridge Road, Melbourne ",
@@ -7997,9 +7997,9 @@
         ]
       },
       "social": {
-        "polarity": 0.396296296,
+        "polarity": 0.262962963,
         "popularity": 3,
-        "score": 0.40820105799999995,
+        "score": 0.274867725,
         "tweets": [
           {
             "content": "Birthday dinner #spoiltbrat #craftbeer (@ The Tippler  Co in EAST MELBOURNE, Victoria) ",
@@ -8033,9 +8033,9 @@
     {
       "name": "Elizabeth Street Reserve",
       "workout": {
-        "polarity": 0.044478167,
+        "polarity": 0.041005945,
         "popularity": 12,
-        "score": 0.05032897099999999,
+        "score": 0.046856749,
         "tweets": [
           {
             "content": "Lovely day to go for a ride! \\ud83d\\udeb4\\ud83d\\udeb4 @ Queen Victoria Markets ",
@@ -8061,9 +8061,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.071348189,
+        "polarity": 0.051064306,
         "popularity": 15,
-        "score": 0.078661694,
+        "score": 0.058377812,
         "tweets": [
           {
             "content": "Tasty chorizo tapas breakfast to start a relaxing weekend. #Melbourne #foodies #leisure #culture… ",
@@ -8089,9 +8089,9 @@
         ]
       },
       "social": {
-        "polarity": 0.110236494,
+        "polarity": 0.099492015,
         "popularity": 46,
-        "score": 0.132664578,
+        "score": 0.121920099,
         "tweets": [
           {
             "content": "Happy birthday Pete! @ The Last Jar ",
@@ -8125,9 +8125,9 @@
     {
       "name": "St Kilda Road Reserve",
       "workout": {
-        "polarity": 0.035251381,
+        "polarity": 0.02627653,
         "popularity": 49,
-        "score": 0.047519782999999996,
+        "score": 0.038544932999999997,
         "tweets": [
           {
             "content": "Smashing #swim with @alx_houghton  this morning @EliteTriathlon #whatasunrise #gettingwet",
@@ -8153,9 +8153,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.063492063,
+        "polarity": 0.015873016,
         "popularity": 7,
-        "score": 0.065244692,
+        "score": 0.017625645,
         "tweets": [
           {
             "content": "Hello Friday!\n#craftbeer #beer #friday #melbourne #ipa #AmericanIPA @birradelborgo @ Classico ",
@@ -8181,9 +8181,9 @@
         ]
       },
       "social": {
-        "polarity": 0.157586115,
+        "polarity": 0.128833803,
         "popularity": 71,
-        "score": 0.17536278,
+        "score": 0.146610468,
         "tweets": [
           {
             "content": "Happy happy birthday @MGLovesTennis",
@@ -8243,9 +8243,9 @@
     {
       "name": "Princes Park",
       "workout": {
-        "polarity": 0.07154092,
+        "polarity": 0.044851713,
         "popularity": 77,
-        "score": 0.148617997,
+        "score": 0.12192879,
         "tweets": [
           {
             "content": "#melbourneinautumn #beautiful# Fridaywalkies @ Princes Park running track ",
@@ -8271,9 +8271,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.10102967199999999,
+        "polarity": 0.064399635,
         "popularity": 6,
-        "score": 0.10703567800000001,
+        "score": 0.07040564099999999,
         "tweets": [
           {
             "content": "@JUANMUCH69 😂😂😂 i don't know  ima put some chill on  it for zim😏",
@@ -8299,9 +8299,9 @@
         ]
       },
       "social": {
-        "polarity": 0.19255892300000002,
+        "polarity": 0.160151515,
         "popularity": 18,
-        "score": 0.21057694100000002,
+        "score": 0.17816953300000002,
         "tweets": [
           {
             "content": "Happy birthday @ Princes Park ",
@@ -8335,9 +8335,9 @@
     {
       "name": "Riverside Quay Reserve",
       "workout": {
-        "polarity": 0.020710823,
+        "polarity": 0.013870163999999999,
         "popularity": 35,
-        "score": 0.033564294,
+        "score": 0.026723635,
         "tweets": [
           {
             "content": "I kissed a  #pool #swimming #summer @ Southbank ",
@@ -8363,9 +8363,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.071129046,
+        "polarity": 0.040209595,
         "popularity": 15,
-        "score": 0.076637677,
+        "score": 0.045718225999999994,
         "tweets": [
           {
             "content": "🕵️‍♀️🕵️‍♀️🕵️‍♀️\n.\nSuper chill #chill#sunset#video #timelapse #melbourne #nightlife #nightview… ",
@@ -8391,9 +8391,9 @@
         ]
       },
       "social": {
-        "polarity": 0.213828579,
+        "polarity": 0.137997517,
         "popularity": 54,
-        "score": 0.233659648,
+        "score": 0.157828586,
         "tweets": [
           {
             "content": "#birthday #dinner #melbourne @ Ludlow Bar and Dining Room ",
@@ -8483,9 +8483,9 @@
         ]
       },
       "social": {
-        "polarity": 0.138817053,
+        "polarity": 0.106832441,
         "popularity": 28,
-        "score": 0.17283892399999998,
+        "score": 0.14085431199999998,
         "tweets": [
           {
             "content": "Birthday beers are the best kind of beers #birthday #beer",
@@ -8519,9 +8519,9 @@
     {
       "name": "Flinders Walk",
       "workout": {
-        "polarity": 0.057155740999999996,
+        "polarity": 0.045767647,
         "popularity": 59,
-        "score": 0.074652775,
+        "score": 0.063264681,
         "tweets": [
           {
             "content": "Walk Walk Walk \\ud83d\\udc4d\\ud83d\\ude1c #springinmelbourne @ Flinders Street Station ",
@@ -8547,9 +8547,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.157770689,
+        "polarity": 0.077871699,
         "popularity": 15,
-        "score": 0.162219088,
+        "score": 0.082320098,
         "tweets": [
           {
             "content": "arborieeeees😉 #chill #goodtimes #fun #friends @ The Arbory Flinders St ",
@@ -8575,9 +8575,9 @@
         ]
       },
       "social": {
-        "polarity": 0.146381553,
+        "polarity": 0.11757305900000001,
         "popularity": 42,
-        "score": 0.158837069,
+        "score": 0.130028576,
         "tweets": [
           {
             "content": "Happy Birthday Melbourne #visitmelbourne #happybirthdaymelbourne #askruthiemelbourne… ",
@@ -8611,9 +8611,9 @@
     {
       "name": "Goschs Paddock",
       "workout": {
-        "polarity": 0.119954108,
+        "polarity": 0.092359481,
         "popularity": 9,
-        "score": 0.13395099800000002,
+        "score": 0.10635637,
         "tweets": [
           {
             "content": "February football is too amusing.",
@@ -8639,9 +8639,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.071428571,
+        "polarity": 0.0,
         "popularity": 1,
-        "score": 0.072983781,
+        "score": 0.00155521,
         "tweets": [
           {
             "content": "Off to Moomba with the cousins and sibling! Best weekend! @george21r \n\n#melbourne #family #moombafestival",
@@ -8689,9 +8689,9 @@
     {
       "name": "Enterprize Park",
       "workout": {
-        "polarity": 0.02997737,
+        "polarity": 0.027991525,
         "popularity": 42,
-        "score": 0.044908049000000005,
+        "score": 0.042922204000000005,
         "tweets": [
           {
             "content": "Mega Walk today. Enjoying the sun #ehersisyo\\u2764 #galawgalaw\\u2764 #sunkissed\\u2764 #Wanderlust\\u2764 #LOVE\\u2764 @\\u2026 ",
@@ -8717,9 +8717,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.08397458099999999,
+        "polarity": 0.057228549000000004,
         "popularity": 25,
-        "score": 0.09286189,
+        "score": 0.066115858,
         "tweets": [
           {
             "content": "Happy new year from #melbourne #happynewyear #happy #family #life #love @ Rockpool Bar &amp; Grill… ",
@@ -8745,9 +8745,9 @@
         ]
       },
       "social": {
-        "polarity": 0.24306041399999997,
+        "polarity": 0.14901835900000002,
         "popularity": 80,
-        "score": 0.271499802,
+        "score": 0.177457748,
         "tweets": [
           {
             "content": "Out for the birthday #rockpool #fancy #birthday @ Rockpool Soutbank ",
@@ -8793,9 +8793,9 @@
         "tweets": []
       },
       "social": {
-        "polarity": 0.23076923100000002,
+        "polarity": 0.153846154,
         "popularity": 1,
-        "score": 0.24895104899999998,
+        "score": 0.172027972,
         "tweets": [
           {
             "content": "Party don't start til I walk in #beers #ciders #laundytraugh #winning #onedirection _bossej @ The Manz ",
@@ -8843,9 +8843,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.075,
+        "polarity": 0.05,
         "popularity": 4,
-        "score": 0.08986988800000001,
+        "score": 0.064869888,
         "tweets": [
           {
             "content": "Love a great welcome home . Thanks john_dwight.\n#family #colour #freshflowers #beauty @ East… ",
@@ -8907,9 +8907,9 @@
     {
       "name": "Argyle Square",
       "workout": {
-        "polarity": 0.033333333,
+        "polarity": 0.0,
         "popularity": 6,
-        "score": 0.038568935,
+        "score": 0.005235602,
         "tweets": [
           {
             "content": "#walktoworktunes aka #carpooltoday #goodmood #twostronghearts 2\\u2026 ",
@@ -8935,9 +8935,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.10362103199999999,
+        "polarity": 0.096478175,
         "popularity": 8,
-        "score": 0.110601835,
+        "score": 0.103458977,
         "tweets": [
           {
             "content": "eat, chill, repeat @ Lygon Street ",
@@ -8963,9 +8963,9 @@
         ]
       },
       "social": {
-        "polarity": 0.169963952,
+        "polarity": 0.130679043,
         "popularity": 31,
-        "score": 0.197014563,
+        "score": 0.157729654,
         "tweets": [
           {
             "content": "#birthdaygirl #chocolatemarmaladecake #NigellaLawson #storecupboardcake @ Argyle Square, Lygon… ",
@@ -8999,9 +8999,9 @@
     {
       "name": "Westbourne Road Reserve",
       "workout": {
-        "polarity": 0.181818182,
+        "polarity": 0.090909091,
         "popularity": 1,
-        "score": 0.186184994,
+        "score": 0.09527590300000001,
         "tweets": [
           {
             "content": "@nycmarathon training this morning with @nickfoot25. 16km's @ 4:35 pace #solid #sub3marathon",
@@ -9013,9 +9013,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.096119929,
+        "polarity": 0.072310406,
         "popularity": 3,
-        "score": 0.109220366,
+        "score": 0.08541084199999999,
         "tweets": [
           {
             "content": "Just finished #reading Tongue Between Teeth by @TheMess19. Audible voice, beautiful illustrations, YAY #PoetryBookClub!",
@@ -9125,9 +9125,9 @@
     {
       "name": "Eight Hour Reserve",
       "workout": {
-        "polarity": -0.047619048,
+        "polarity": -0.020757021,
         "popularity": 7,
-        "score": -0.040776427999999997,
+        "score": -0.013914401000000002,
         "tweets": [
           {
             "content": "He did better than me :)X#yogi #yoga #yogaeverydamnday #gibsonsteps #seascape #myview… ",
@@ -9153,9 +9153,9 @@
         ]
       },
       "relax": {
-        "polarity": -0.028205128,
+        "polarity": 0.005128205,
         "popularity": 2,
-        "score": -0.026250093999999998,
+        "score": 0.007083239,
         "tweets": [
           {
             "content": "Slow down, drink #voss and take a break 🤓😉🌆🍃 #noedit #nofilter #nofilterneeded #melbourne… ",
@@ -9174,9 +9174,9 @@
         ]
       },
       "social": {
-        "polarity": 0.051409564000000005,
+        "polarity": 0.041403251,
         "popularity": 24,
-        "score": 0.074869975,
+        "score": 0.064863662,
         "tweets": [
           {
             "content": "@jmacstepback happy birthday star! Have a great day!",
@@ -9315,9 +9315,9 @@
     {
       "name": "Carlton Gardens South",
       "workout": {
-        "polarity": 0.076710558,
+        "polarity": 0.047542966,
         "popularity": 66,
-        "score": 0.09236892099999999,
+        "score": 0.063201329,
         "tweets": [
           {
             "content": "#bicycle #picnic @ Royal Exhibition Building ",
@@ -9343,9 +9343,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.151780246,
+        "polarity": 0.107760867,
         "popularity": 17,
-        "score": 0.155813461,
+        "score": 0.11179408099999999,
         "tweets": [
           {
             "content": "Taking time out to relax #nature #peace #quiet #gardens @ Carlton Gardens ",
@@ -9371,9 +9371,9 @@
         ]
       },
       "social": {
-        "polarity": 0.163725005,
+        "polarity": 0.11703437400000001,
         "popularity": 70,
-        "score": 0.18033236,
+        "score": 0.13364172900000001,
         "tweets": [
           {
             "content": "#inventive #picnic #warmbeer #soontobecoldbeer #gingerbeer meredith_t31 @ Carlton Gardens ",
@@ -9407,9 +9407,9 @@
     {
       "name": "Neill Street Reserve",
       "workout": {
-        "polarity": 0.06428571400000001,
+        "polarity": 0.055714285999999995,
         "popularity": 10,
-        "score": 0.078232716,
+        "score": 0.069661287,
         "tweets": [
           {
             "content": "#anime #swim #summer #boys #free #cool @ Osc@r ",
@@ -9435,9 +9435,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.191163004,
+        "polarity": 0.11790293,
         "popularity": 3,
-        "score": 0.195347104,
+        "score": 0.122087031,
         "tweets": [
           {
             "content": "Good night~ #goodnight #cat #bed #sleepy #sleeping #cute #animal #grey #white #tired #rest #relax @… ",
@@ -9463,9 +9463,9 @@
         ]
       },
       "social": {
-        "polarity": 0.18778303699999999,
+        "polarity": 0.144601219,
         "popularity": 15,
-        "score": 0.20870354,
+        "score": 0.16552172099999998,
         "tweets": [
           {
             "content": "It's @michaelsleap 's birthday?\nHappy Birthday!",
@@ -9581,9 +9581,9 @@
     {
       "name": "State Library Forecourt",
       "workout": {
-        "polarity": 0.036151052,
+        "polarity": 0.030030229,
         "popularity": 55,
-        "score": 0.042147564000000005,
+        "score": 0.03602674,
         "tweets": [
           {
             "content": "On the run #melbourne #sunny #green @ State Library of Victoria ",
@@ -9609,9 +9609,9 @@
         ]
       },
       "relax": {
-        "polarity": 0.19731718899999998,
+        "polarity": 0.119288428,
         "popularity": 36,
-        "score": 0.201242178,
+        "score": 0.12321341699999999,
         "tweets": [
           {
             "content": "#SquareInstaPic #malyasian #food #lunchtime #birthday #food #foodporn #yum #instafood #TagsForLikes… ",
@@ -9637,9 +9637,9 @@
         ]
       },
       "social": {
-        "polarity": 0.170569658,
+        "polarity": 0.135197572,
         "popularity": 149,
-        "score": 0.186814751,
+        "score": 0.151442666,
         "tweets": [
           {
             "content": "#picnic #delicious @ State Library of Victoria ",

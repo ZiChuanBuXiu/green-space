@@ -45,14 +45,31 @@ class MainMap extends Component {
       homeCoordinate: [144.971154, -37.815285],
       bound: [[144.972644, -37.820480], [144.979486, -37.829514]],
       popupCoordinate: null,
-      popupContent: null
+      popupContent: null,
+
     }
   }
 
-  onClickPaint = () => {
-    this.props.onUpdate({dialogOpen: true});
-    console.log('123');
-  };
+  componentDidMount() {
+    let self = this;
+    (function () {
+      let j = 0;
+      if (self.props.hasOwnProperty('searchResults') && self.props.searchResults.length > 0) {
+        let tweets = self.props.searchResults[0][self.props.type.toLowerCase()].tweets;
+        setInterval(function () {
+          if (j < tweets.length) {
+            self.setState({
+              popupCoordinate: tweets[j].coordinate,
+              popupContent: tweets[j].content,
+            });
+            j++;
+          } else {
+            j = 0;
+          }
+        }.bind(self), 3000);
+      }
+    })();
+  }
 
   render() {
     let self = this;
@@ -78,8 +95,8 @@ class MainMap extends Component {
           </div>
         </Marker>
         {
+
           this.props.hasOwnProperty('searchResults') ? this.props.searchResults.map(function (item, i) {
-            console.log(item);
             return (
               <div>
                 {item[self.props.type.toLowerCase()].tweets.map(function (tweet) {
@@ -96,7 +113,6 @@ class MainMap extends Component {
                           self.setState({
                             popupCoordinate: tweet.coordinate,
                             popupContent: tweet.content,
-
                           });
                           self.props.onUpdate({
                             center: tweet.coordinate
@@ -130,8 +146,6 @@ class MainMap extends Component {
                   fillExtrusionPaint={fillExtrusionPaint}
                   symbolLayout={symbolLayout}
                   symbolPaint={symbolPaint}
-                  // fillExtrusionOnClick={self.onClickPaint}
-                  // fillOnClick={self.onClickPaint}
                 />
               </div>
             )
