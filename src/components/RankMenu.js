@@ -23,7 +23,7 @@ class RankMenu extends Component {
         zDepth={4}
         open={this.props.isDrawerOpen}
         style={style}
-        containerStyle={{height: '60%', top: '100px', margin: '15px'}}>
+        containerStyle={{height: '66%', top: '100px', margin: '15px'}}>
         <List>
           <Subheader style={{backgroundColor: cyan300}}>Recommendations:</Subheader>
           <Divider/>
@@ -38,17 +38,19 @@ class RankMenu extends Component {
                       self.props.onUpdate({center: result.coordinates});
                     }}
                   >
-                    <h2></h2>
+                    <p style={{marginTop: 5, marginBottom: 5, fontSize: '15px'}}>{result.name}</p>
                     <div marginHeight={'5px'}>
-                      <p style={{marginTop: 5, marginBottom: 5}}>Polarity:</p>
+                      <p style={{marginTop: 5, marginBottom: 5, fontSize: '10px'}}>Polarity:</p>
                       <div>
                         <LinearProgress
+                          style={{marginTop: 5, marginBottom: 5}}
                           min={0}
                           max={100} mode={'determinate'}
                           value={60}/>
                       </div>
-                      <p style={{marginTop: 5, marginBottom: 5}}>Popularity:</p>
+                      <p style={{marginTop: 5, marginBottom: 5, fontSize: '10px'}}>Popularity:</p>
                       <LinearProgress
+                        style={{marginTop: 5, marginBottom: 5}}
                         min={0}
                         max={100} mode={'determinate'}
                         value={60}/>
