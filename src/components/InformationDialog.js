@@ -9,54 +9,56 @@ let parkWordCloudImagesRelax = {};
 let parkWordCloudImagesWorkout = {};
 
 for (let park in parks) {
-    if (parks.hasOwnProperty(park)) {
-        parkWordCloudImagesSocial[park] = require(`../images/wordclouds/social_${park}.png`);
-        parkWordCloudImagesRelax[park] = require(`../images/wordclouds/relax_${park}.png`);
-        parkWordCloudImagesWorkout[park] = require(`../images/wordclouds/workout_${park}.png`);
-    }
+  if (parks.hasOwnProperty(park)) {
+    parkWordCloudImagesSocial[park] = require(`../images/wordclouds/social_${park}.png`);
+    parkWordCloudImagesRelax[park] = require(`../images/wordclouds/relax_${park}.png`);
+    parkWordCloudImagesWorkout[park] = require(`../images/wordclouds/workout_${park}.png`);
+  }
 }
 
 let parkWordCloudImages = {
-    Workout: parkWordCloudImagesWorkout,
-    Relax: parkWordCloudImagesRelax,
-    Social: parkWordCloudImagesSocial
+  Workout: parkWordCloudImagesWorkout,
+  Relax: parkWordCloudImagesRelax,
+  Social: parkWordCloudImagesSocial,
+  //TODO: Temporary use the Relax word cloud
+  Any: parkWordCloudImagesRelax
 };
 
 
 console.log(parkWordCloudImages);
 
 class InformationDialog extends Component {
-    handleClose = () => {
-        this.props.onUpdate({dialogOpen: false})
-    };
+  handleClose = () => {
+    this.props.onUpdate({dialogOpen: false})
+  };
 
-    render() {
-        return (
-            <div>
-                <Dialog
-                    modal={false}
-                    open={this.props.dialogOpen}
-                    onRequestClose={this.handleClose}
-                    actions={[<FlatButton
-                        label="Close"
-                        primary={true}
-                        onClick={this.handleClose}
-                    />]}
-                >
-                    <Card style={{height: '100%', width: '100%', margin: '12'}}>
-                        <CardMedia
-                            overlay={<CardTitle title={this.props.focusedPark}
-                                                subtitle={`Word cloud for ${this.props.type}`}/>}
-                        >
-                            <img src={parkWordCloudImages[this.props.type][this.props.focusedPark]} alt="" height={450}
-                                 width={200}/>
-                        </CardMedia>
-                    </Card>
-                </Dialog>
-            </div>
+  render() {
+    return (
+      <div>
+        <Dialog
+          modal={false}
+          open={this.props.dialogOpen}
+          onRequestClose={this.handleClose}
+          actions={[<FlatButton
+            label="Close"
+            primary={true}
+            onClick={this.handleClose}
+          />]}
+        >
+          <Card style={{height: '100%', width: '100%', margin: '12'}}>
+            <CardMedia
+              overlay={<CardTitle title={this.props.focusedPark}
+                                  subtitle={`Word cloud for ${this.props.type}`}/>}
+            >
+              <img src={parkWordCloudImages[this.props.type][this.props.focusedPark]} alt="" height={450}
+                   width={200}/>
+            </CardMedia>
+          </Card>
+        </Dialog>
+      </div>
 
-        );
-    }
+    );
+  }
 }
 
 export default InformationDialog;

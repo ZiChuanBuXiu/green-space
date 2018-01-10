@@ -42,6 +42,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.038888888999999996,
+        "popularity": 3,
+        "score": 0.055372405,
+        "tweets": [
+          {
+            "content": "Mazda2 Melbourne Launch with my babe @nat_kalinowski #mazda #mazda2 #launch #party @ 64 Sutton ",
+            "coordinate": [
+              144.93898445471544,
+              -37.792432416775846
+            ]
+          },
+          {
+            "content": "Catch ups  cocktails! 💃🍸 @ Bombay Sapphire Project Botanicals ",
+            "coordinate": [
+              144.9390444408204,
+              -37.79236349188964
+            ]
+          },
+          {
+            "content": "@sowbbq @crispycrackling smoker and the butcher event underway, full house! #MFWF #BBQ ",
+            "coordinate": [
+              144.93886939,
+              -37.79209335
+            ]
+          }
+        ]
+      },
       "total_number": 182,
       "coordinates": [
         144.93993985697298,
@@ -63,6 +91,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -94,6 +128,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 28,
       "coordinates": [
         144.94742937556018,
@@ -115,6 +155,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -149,6 +195,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -197,6 +249,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 1,
+        "score": 0.007142857,
+        "tweets": [
+          {
+            "content": "#softball #dykes #gayparty #instacollege #queens #melbourne #stpattys @ Dan O'Connell Hotel ",
+            "coordinate": [
+              144.972749620423,
+              -37.792866932056675
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 1,
         "score": 0.007142857,
@@ -302,6 +368,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.070954179,
+        "popularity": 21,
+        "score": 0.08970417900000001,
+        "tweets": [
+          {
+            "content": "Mr &amp; Mrs Roso #wedding #bridesmaide #love #happiness ",
+            "coordinate": [
+              144.95703183,
+              -37.794522
+            ]
+          },
+          {
+            "content": "Happy Birthday celebrations at #TrinityCollege #melbourneuniversity #hongde #liondance #弘德 #舞狮 @… ",
+            "coordinate": [
+              144.9573179478666,
+              -37.80142473664077
+            ]
+          },
+          {
+            "content": "@WhitneyWestgate it's January that means your a birthday gal 🎂 happy birthday",
+            "coordinate": [
+              144.9576368,
+              -37.799904
+            ]
+          }
+        ]
+      },
       "total_number": 1120,
       "coordinates": [
         144.96003632682374,
@@ -353,6 +447,34 @@
         ]
       },
       "social": {
+        "polarity": 0.07595740299999999,
+        "popularity": 18,
+        "score": 0.09152833699999999,
+        "tweets": [
+          {
+            "content": "#weddingplanner #flowers #weddingbouquet #wedding #bridal #bridalbouquet #stunning… ",
+            "coordinate": [
+              144.94606866420395,
+              -37.818365192057136
+            ]
+          },
+          {
+            "content": "@RialtoConcierge #happy30thbirthday #corporateflowers #melbourneflorist #flowers #celebration… ",
+            "coordinate": [
+              144.9464274638093,
+              -37.81831099126625
+            ]
+          },
+          {
+            "content": "Food truck #docklands #foodporn ##foodtruck #docklands #melbourne #festival #havingagoodtime @ NAB… ",
+            "coordinate": [
+              144.94597787,
+              -37.81915365
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.07595740299999999,
         "popularity": 18,
         "score": 0.09152833699999999,
@@ -472,6 +594,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.10576923099999999,
+        "popularity": 4,
+        "score": 0.111557943,
+        "tweets": [
+          {
+            "content": "Happy earlybird birthday to the beautiful @xtinehearts ❤️ Much love 😁 @ Pandora ",
+            "coordinate": [
+              144.9263503687279,
+              -37.79662697746762
+            ]
+          },
+          {
+            "content": "@littlemissy145 long way to catch up with JP!",
+            "coordinate": [
+              144.9264616661451,
+              -37.79667090577467
+            ]
+          },
+          {
+            "content": "@chunder_thunder not heard of that one, are you using any third party API stuff or just the website?",
+            "coordinate": [
+              144.92671726851054,
+              -37.79687129723486
+            ]
+          }
+        ]
+      },
       "total_number": 691,
       "coordinates": [
         144.92398557489594,
@@ -498,6 +648,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 116,
       "coordinates": [
         144.9758620381008,
@@ -519,6 +675,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -587,6 +749,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.32640692600000004,
+        "popularity": 4,
+        "score": 0.35765692600000004,
+        "tweets": [
+          {
+            "content": "@ThePressClub happy birthday guys, &amp; congratulations!!👏🎊🎉",
+            "coordinate": [
+              144.97736332,
+              -37.8163771
+            ]
+          },
+          {
+            "content": "@gledhillpowell looks delish Yvette! Happy birthday 🎂👏🎉💃",
+            "coordinate": [
+              144.9759312043974,
+              -37.81482891305497
+            ]
+          },
+          {
+            "content": ".@Rick_Stein happy birthday Rick! Hope to c u @BannistersHotel again this year! 🎂🎊😊 Celine &amp; Craig",
+            "coordinate": [
+              144.97729018,
+              -37.81632398
+            ]
+          }
+        ]
+      },
       "total_number": 128,
       "coordinates": [
         144.97698223521388,
@@ -608,6 +798,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -664,6 +860,20 @@
         ]
       },
       "social": {
+        "polarity": -0.083333333,
+        "popularity": 1,
+        "score": -0.080839568,
+        "tweets": [
+          {
+            "content": "Can you spot the cheeky little Tyrannosaur hanging out with the Qantasaurus? @ Melbourne Museum ",
+            "coordinate": [
+              144.97322,
+              -37.80722
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": -0.083333333,
         "popularity": 1,
         "score": -0.080839568,
@@ -741,6 +951,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.098412698,
+        "popularity": 3,
+        "score": 0.115956558,
+        "tweets": [
+          {
+            "content": "Thanks for the beautiful wine at the One Roof launch party last night, @squashed_grapes Can't… ",
+            "coordinate": [
+              144.96382237178045,
+              -37.8218558507342
+            ]
+          },
+          {
+            "content": "@Jeremy_Beasley cool. Yeah for sure. Would be great to catch up. Let me know when you are mentally back in town. :)",
+            "coordinate": [
+              144.96364164875735,
+              -37.8216063208915
+            ]
+          },
+          {
+            "content": "Packed party for the launch of @oneroofco in Southbank. Thrilled to be involved last night. @… ",
+            "coordinate": [
+              144.96356933319652,
+              -37.82132431756373
+            ]
+          }
+        ]
+      },
       "total_number": 171,
       "coordinates": [
         144.964882547624,
@@ -762,6 +1000,27 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.378787879,
+        "popularity": 2,
+        "score": 0.41387559799999996,
+        "tweets": [
+          {
+            "content": "#office birthday love @ ONQ Digital ",
+            "coordinate": [
+              144.95464058742505,
+              -37.803246441740605
+            ]
+          },
+          {
+            "content": "A well deserved event for the @auspost 2016 Xmas party at space338au. @ Space338 ",
+            "coordinate": [
+              144.9547411754023,
+              -37.80297210728659
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.378787879,
         "popularity": 2,
         "score": 0.41387559799999996,
@@ -816,6 +1075,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 45,
       "coordinates": [
         144.91620706762242,
@@ -859,6 +1124,34 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.15378787900000002,
+        "popularity": 4,
+        "score": 0.191171056,
+        "tweets": [
+          {
+            "content": "Happiest of Happy Birthday's Brad! Lots of love. @ Yarra River, Dockland ",
+            "coordinate": [
+              144.94183174,
+              -37.82344835
+            ]
+          },
+          {
+            "content": "It's the most wonderful time of the year! #workchristmasparty :) ",
+            "coordinate": [
+              144.94100179430484,
+              -37.824042917921055
+            ]
+          },
+          {
+            "content": "Cute little park. Waterplay. BBQs. Well shaded. Slides and swings and a musical wall. Fabulous… ",
+            "coordinate": [
+              144.9410014980109,
+              -37.82404274099849
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.15378787900000002,
         "popularity": 4,
         "score": 0.191171056,
@@ -944,6 +1237,34 @@
         ]
       },
       "social": {
+        "polarity": 0.062971919,
+        "popularity": 7,
+        "score": 0.081153737,
+        "tweets": [
+          {
+            "content": "My #CharlotteOlympia boots have arrived! Early birthday gift to me 🎉💋 just wish my foot would heel… ",
+            "coordinate": [
+              144.94434831293108,
+              -37.807713955161546
+            ]
+          },
+          {
+            "content": "🌸 HAPPY BIRTHDAY MOM 🌺Designed and photographed just for you. If it wasn't for you I wouldn't have… ",
+            "coordinate": [
+              144.9444678905317,
+              -37.807654732363794
+            ]
+          },
+          {
+            "content": "I finally got to have a picnic during my lunch break with friends \"Make the most of your day as it is… ",
+            "coordinate": [
+              144.94480111493314,
+              -37.80758617376308
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.062971919,
         "popularity": 7,
         "score": 0.081153737,
@@ -1063,6 +1384,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.083782882,
+        "popularity": 50,
+        "score": 0.093648707,
+        "tweets": [
+          {
+            "content": "Happy birthday Alpha 💜 #10years @ M Pavillion ",
+            "coordinate": [
+              144.96830474909757,
+              -37.821155302427165
+            ]
+          },
+          {
+            "content": "Birthday gift ideas #forme @ National Gallery of Victoria ",
+            "coordinate": [
+              144.96933978,
+              -37.8224818
+            ]
+          },
+          {
+            "content": "Best girls #funfriday #christmasparty #sisterhood stefaniewsw @ National Gallery of Victoria ",
+            "coordinate": [
+              144.9693451,
+              -37.8226013
+            ]
+          }
+        ]
+      },
       "total_number": 5068,
       "coordinates": [
         144.97128804250258,
@@ -1092,6 +1441,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0625,
+        "popularity": 1,
+        "score": 0.074548193,
+        "tweets": [
+          {
+            "content": "Wishing the happiest of birthday to our Head Coach and all around nice guy Michael Osborne!… ",
+            "coordinate": [
+              144.9383392,
+              -37.7959595
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.0625,
         "popularity": 1,
         "score": 0.074548193,
@@ -1148,6 +1511,27 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.46428571399999996,
+        "popularity": 2,
+        "score": 0.4970726,
+        "tweets": [
+          {
+            "content": "@bennyz32 happy #birthday chief!",
+            "coordinate": [
+              144.9838571359468,
+              -37.82787525160793
+            ]
+          },
+          {
+            "content": "#senor40 lots of fun. Happy birthday @senorthomas",
+            "coordinate": [
+              144.98397693101313,
+              -37.82758848888226
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.46428571399999996,
         "popularity": 2,
         "score": 0.4970726,
@@ -1260,6 +1644,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.068418474,
+        "popularity": 18,
+        "score": 0.094695846,
+        "tweets": [
+          {
+            "content": "😱🍮🍰🍭🍫😍\n#food #yum #instafood #amazing #dessert #hotel #wedding #photooftheday #delicious… ",
+            "coordinate": [
+              144.9743909569023,
+              -37.81048774292139
+            ]
+          },
+          {
+            "content": "Classy 😏 #hightea #parkhyatt #happybirthday #outfitwasntplanned 💁 @ Park Hyatt Melbourne ",
+            "coordinate": [
+              144.9745217843353,
+              -37.810320129774276
+            ]
+          },
+          {
+            "content": "Amazing cake for tonight's birthday celebration in the Ballroom. #parkhyattmelbourne #cake #birthday… ",
+            "coordinate": [
+              144.97452227050823,
+              -37.810319636952514
+            ]
+          }
+        ]
+      },
       "total_number": 685,
       "coordinates": [
         144.97525240477887,
@@ -1316,6 +1728,20 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.181818182,
+        "popularity": 1,
+        "score": 0.189336979,
+        "tweets": [
+          {
+            "content": "Don't Stop The Party (feat. TJR) by Pitbull, from #SoundHound ",
+            "coordinate": [
+              144.90502556542367,
+              -37.83388238860899
+            ]
+          }
+        ]
+      },
       "total_number": 133,
       "coordinates": [
         144.90219129451376,
@@ -1337,6 +1763,34 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.098901099,
+        "popularity": 3,
+        "score": 0.119035327,
+        "tweets": [
+          {
+            "content": "Listening to some Nina Simone tunes while preparing dinner to celebrate her birthday.",
+            "coordinate": [
+              144.94915353146152,
+              -37.79898530849963
+            ]
+          },
+          {
+            "content": "Happy Birthday @karenmcgrane. \n\n(Everyone, Karen would like water. I reckon we can do this ",
+            "coordinate": [
+              144.94915871653842,
+              -37.79890699329216
+            ]
+          },
+          {
+            "content": "@spamoir where is after party pls",
+            "coordinate": [
+              144.94916059594485,
+              -37.7988841501119
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.098901099,
         "popularity": 3,
         "score": 0.119035327,
@@ -1434,6 +1888,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.10850842,
+        "popularity": 23,
+        "score": 0.123347129,
+        "tweets": [
+          {
+            "content": "Cat cafe birthday party #festivalofgirleen @ Cat Cafe Melbourne ",
+            "coordinate": [
+              144.95906093159073,
+              -37.808680541359884
+            ]
+          },
+          {
+            "content": "Woohoo queen's birthday = public holiday ! 😁 ",
+            "coordinate": [
+              144.95906787154726,
+              -37.808695283097926
+            ]
+          },
+          {
+            "content": "Thankyou @Jokwyee ! 😘😘\nMy birthday present❤🎁🎉🎊🎈 @ (☆_☆) ",
+            "coordinate": [
+              144.9591852804793,
+              -37.80895148443758
+            ]
+          }
+        ]
+      },
       "total_number": 1550,
       "coordinates": [
         144.95789177294384,
@@ -1460,6 +1942,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 5,
       "coordinates": [
         144.9426999234184,
@@ -1481,6 +1969,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -1578,6 +2072,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.136551857,
+        "popularity": 42,
+        "score": 0.158645492,
+        "tweets": [
+          {
+            "content": "Happy #1stbirthday #MasterWilliam! #cousinlove #babycousin #William @ City Of Melbourne Bowls Club ",
+            "coordinate": [
+              144.95442949287937,
+              -37.80784072842856
+            ]
+          },
+          {
+            "content": "#Happy birthday sweetie 🎂🎈😍🎊😀🎁! #Melbourne #Australia #birthdayparty @ King Street, Melbourne ",
+            "coordinate": [
+              144.95477716549922,
+              -37.807787625275466
+            ]
+          },
+          {
+            "content": "Party tonight! 😁👍 @ William Angliss Institute Of TAFE ",
+            "coordinate": [
+              144.95512855273657,
+              -37.80782205435742
+            ]
+          }
+        ]
+      },
       "total_number": 1901,
       "coordinates": [
         144.95509993449693,
@@ -1599,6 +2121,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -1640,6 +2168,34 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.10989011,
+        "popularity": 4,
+        "score": 0.17239011,
+        "tweets": [
+          {
+            "content": "Hip hip hooray! Happy birthday @theage #GoodWeekend ",
+            "coordinate": [
+              144.9623478022778,
+              -37.78487265784758
+            ]
+          },
+          {
+            "content": "Celebrating 91st birthday of the @siemelbourne. Oldest Italian club in Victoria and in… ",
+            "coordinate": [
+              144.9624493208357,
+              -37.784603266811004
+            ]
+          },
+          {
+            "content": "@lilithia awww!! But catch ups soon  Miss ur face xxxx",
+            "coordinate": [
+              144.96943822,
+              -37.78632371
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.10989011,
         "popularity": 4,
         "score": 0.17239011,
@@ -1723,6 +2279,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.15158730199999998,
+        "popularity": 7,
+        "score": 0.20194701399999998,
+        "tweets": [
+          {
+            "content": "Birthday dinner for mum #awesomemeal #townhallhotelfitzroy @ Fitz-Royalty ",
+            "coordinate": [
+              144.97279894578597,
+              -37.7980359393066
+            ]
+          },
+          {
+            "content": "Loving forbidden_food_at_night launch party yesterday. They clearly put a huge effort in setting… ",
+            "coordinate": [
+              144.97266955845964,
+              -37.79796484489991
+            ]
+          },
+          {
+            "content": "Loving this display table so much. Thanks for inviting me to your launch party guys… ",
+            "coordinate": [
+              144.97245429272076,
+              -37.79774060943814
+            ]
+          }
+        ]
+      },
       "total_number": 139,
       "coordinates": [
         144.97385590152751,
@@ -1744,6 +2328,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -1841,6 +2431,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.081367186,
+        "popularity": 65,
+        "score": 0.09710949699999999,
+        "tweets": [
+          {
+            "content": "Happy Birthday Jetstar! #Jetstar11thBirthday @ Federation Square ",
+            "coordinate": [
+              144.96618215702773,
+              -37.81694834448274
+            ]
+          },
+          {
+            "content": "Going to pausefestival ? #tech #creative #startups #festival #Melbourne @ Federation Square ",
+            "coordinate": [
+              144.96741,
+              -37.81741
+            ]
+          },
+          {
+            "content": "White night ON\n#hot #people #art #music #event #melbourne #friends @ Federation Square ",
+            "coordinate": [
+              144.96741,
+              -37.81741
+            ]
+          }
+        ]
+      },
       "total_number": 4129,
       "coordinates": [
         144.968077992133,
@@ -1862,6 +2480,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 1,
+        "score": 0.011111111000000002,
+        "tweets": [
+          {
+            "content": "got a problem? #halloweenparty #🎃 @ International House, the University of Melbourne ",
+            "coordinate": [
+              144.95771136560185,
+              -37.787659896938756
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 1,
         "score": 0.011111111000000002,
@@ -1901,6 +2533,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 0,
       "coordinates": [
         144.94085308681858,
@@ -1922,6 +2560,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -1971,6 +2615,27 @@
         ]
       },
       "social": {
+        "polarity": 0.1875,
+        "popularity": 2,
+        "score": 0.199621212,
+        "tweets": [
+          {
+            "content": "Happy Birthday to my Queen @___rharha___ #OTF #VAMPLYF 💙👯👑 @ 🌊🙏🌊 ",
+            "coordinate": [
+              144.97173164,
+              -37.79821573
+            ]
+          },
+          {
+            "content": "Welcome to our Halloween party!! #halloween #party #video #dressup #ghost #crazy #cool #melbourne… ",
+            "coordinate": [
+              144.96954423104967,
+              -37.79776625110886
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.1875,
         "popularity": 2,
         "score": 0.199621212,
@@ -2056,6 +2721,34 @@
         ]
       },
       "social": {
+        "polarity": 0.076564675,
+        "popularity": 19,
+        "score": 0.091728282,
+        "tweets": [
+          {
+            "content": "#BirthdayApartment #MelbourneCity #Beautiful #IMUGN ",
+            "coordinate": [
+              144.95377696,
+              -37.81889633
+            ]
+          },
+          {
+            "content": "Early birthday present from baby @venntsn 😍 xxxxxxxx ",
+            "coordinate": [
+              144.95399679,
+              -37.82002818
+            ]
+          },
+          {
+            "content": "HAPPY BIRTHDAY MY BEAUTY QUEEN @DanieMoncrief  I love you and miss you LOADS ❤️ Have a special day xxxxxxxxxxxxxxxxxxx",
+            "coordinate": [
+              144.95356642,
+              -37.82033632
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.076564675,
         "popularity": 19,
         "score": 0.091728282,
@@ -2175,6 +2868,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.065855615,
+        "popularity": 10,
+        "score": 0.08626377800000001,
+        "tweets": [
+          {
+            "content": "#christmasparty #lastdayofwork2015 #hiphiphooray #dinner #thai #drinks #southwharf #melbourne… ",
+            "coordinate": [
+              144.95151387,
+              -37.82402634
+            ]
+          },
+          {
+            "content": "Happiest of birthdays to my favorite little kangaroo. @lucecaz #kangarootwins #notapolishedmanpost… ",
+            "coordinate": [
+              144.95256237,
+              -37.82247832
+            ]
+          },
+          {
+            "content": "Cheers @Uber_Melbourne. You'll be getting me home safe and sound after @YelpMelbourne #yelpsangelsdevils party 😊 ",
+            "coordinate": [
+              144.95098801763388,
+              -37.82186577293257
+            ]
+          }
+        ]
+      },
       "total_number": 490,
       "coordinates": [
         144.95144063854744,
@@ -2240,6 +2961,34 @@
         ]
       },
       "social": {
+        "polarity": 0.09910714300000001,
+        "popularity": 8,
+        "score": 0.11156820199999999,
+        "tweets": [
+          {
+            "content": "Andrew's 30th Birthday! @ Hihou ",
+            "coordinate": [
+              144.9732275178124,
+              -37.81400388438427
+            ]
+          },
+          {
+            "content": "mrrickylau1 birthday dinner at Kappo because he loves Japanese food we re trying their 9 course… ",
+            "coordinate": [
+              144.9731591883579,
+              -37.81374170513372
+            ]
+          },
+          {
+            "content": "Had a pleasant day at scarlii_cosplay's birthday meet! Seeing her precious face as well as… ",
+            "coordinate": [
+              144.9731909886234,
+              -37.81347517186006
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.09910714300000001,
         "popularity": 8,
         "score": 0.11156820199999999,
@@ -2359,6 +3108,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.14765066,
+        "popularity": 161,
+        "score": 0.18222227300000002,
+        "tweets": [
+          {
+            "content": "deebo_thelifentimes #Birthday #Lunch @ The Meat  Wine Co ",
+            "coordinate": [
+              144.96401736456673,
+              -37.82145713866995
+            ]
+          },
+          {
+            "content": "#birthday #scorpio #gratitude #amici @ Arbory Afloat ",
+            "coordinate": [
+              144.9638773636364,
+              -37.82149489610345
+            ]
+          },
+          {
+            "content": "seemyeee birthday dinner #love @ The Meat  Wine Co ",
+            "coordinate": [
+              144.96341335927568,
+              -37.821620033876926
+            ]
+          }
+        ]
+      },
       "total_number": 4657,
       "coordinates": [
         144.96470907594912,
@@ -2396,6 +3173,20 @@
         ]
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 1,
+        "score": 0.0125,
+        "tweets": [
+          {
+            "content": "#Christmas Morning Melbourne City #BBQ Weather!!! ",
+            "coordinate": [
+              144.96808,
+              -37.8079055
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 1,
         "score": 0.0125,
@@ -2501,6 +3292,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.152434602,
+        "popularity": 11,
+        "score": 0.182821343,
+        "tweets": [
+          {
+            "content": "#food #picnic #sundayevening #outandabout @ Moonlight Cinema ",
+            "coordinate": [
+              144.97567351286543,
+              -37.83112730612358
+            ]
+          },
+          {
+            "content": "#picnic #sun #melbourne #botanicgardens #summer @ Royal Botanical Garden ",
+            "coordinate": [
+              144.98119583,
+              -37.83037482
+            ]
+          },
+          {
+            "content": "All set up.. #birthday #picnic @ Royal Botanical Gardens ",
+            "coordinate": [
+              144.97560636574374,
+              -37.83082433178513
+            ]
+          }
+        ]
+      },
       "total_number": 362,
       "coordinates": [
         144.9755725656269,
@@ -2552,6 +3371,34 @@
         ]
       },
       "social": {
+        "polarity": 0.008333333,
+        "popularity": 5,
+        "score": 0.035805861,
+        "tweets": [
+          {
+            "content": "#alp #laborparty ",
+            "coordinate": [
+              144.9780888916746,
+              -37.81596550343673
+            ]
+          },
+          {
+            "content": "Great catching up with Ranee  Pete in Melbourne tonight! #goodtimes #Melbourne ",
+            "coordinate": [
+              144.97819284232793,
+              -37.815692319150386
+            ]
+          },
+          {
+            "content": "This royal baby best not be born on my birthday. Easter and Jesus already steal my thunder ever 3 years. Not to mention those Anzacs.",
+            "coordinate": [
+              144.97895526,
+              -37.81681529
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.008333333,
         "popularity": 5,
         "score": 0.035805861,
@@ -2671,6 +3518,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.063481078,
+        "popularity": 40,
+        "score": 0.089936104,
+        "tweets": [
+          {
+            "content": "Complimentary Birthday Plate from The Windsor Hotel all for Mummy!🍰🍧🍨🍮🎊🎉🎈🎁💝 #birthday #celebration #food… ",
+            "coordinate": [
+              144.9725265914009,
+              -37.81246561305349
+            ]
+          },
+          {
+            "content": "#mamasita #christmasparty #margeritas #toomuchfood #foodcoma #lastdayever #foodbaby #cornicecream… ",
+            "coordinate": [
+              144.97338715,
+              -37.81355147
+            ]
+          },
+          {
+            "content": "#Afternoontea at the beautiful #hotelwindsor for my sister's #birthday with a #festive #yuletide… ",
+            "coordinate": [
+              144.97250340446163,
+              -37.81191058604444
+            ]
+          }
+        ]
+      },
       "total_number": 1512,
       "coordinates": [
         144.97406472832526,
@@ -2692,6 +3567,27 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.14973262,
+        "popularity": 2,
+        "score": 0.16535762,
+        "tweets": [
+          {
+            "content": "Dont support the SexParty, they promote building the EastWest, Vote #Greens!",
+            "coordinate": [
+              144.9725837,
+              -37.7961516
+            ]
+          },
+          {
+            "content": "#NYE party I'm at literally has four girls in it, not including hosts. Verily tis poppin'.",
+            "coordinate": [
+              144.97280392,
+              -37.79720141
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.14973262,
         "popularity": 2,
         "score": 0.16535762,
@@ -2754,6 +3650,20 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.352941176,
+        "popularity": 1,
+        "score": 0.362556561,
+        "tweets": [
+          {
+            "content": "Happy happy 30th birthday Miss Amy Goodwin! Hope you have a gorgeous day! 🎂🍰 looking forward to seeing… ",
+            "coordinate": [
+              144.95049055059883,
+              -37.80775917187651
+            ]
+          }
+        ]
+      },
       "total_number": 104,
       "coordinates": [
         144.9514236764387,
@@ -2797,6 +3707,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.058823529000000006,
+        "popularity": 1,
+        "score": 0.066342326,
+        "tweets": [
+          {
+            "content": "@danielhurstbne @murpharoo Can someone please explain the purpose of the right faction in a centre left party?",
+            "coordinate": [
+              144.94249238,
+              -37.79789668
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.058823529000000006,
         "popularity": 1,
         "score": 0.066342326,
@@ -2880,6 +3804,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.08221229,
+        "popularity": 11,
+        "score": 0.129626083,
+        "tweets": [
+          {
+            "content": "The best birthday gift ever!!!! #loveit thank you so much my beautiful @aurikaleonor and reneesyn you… ",
+            "coordinate": [
+              144.96102566803287,
+              -37.827490659679185
+            ]
+          },
+          {
+            "content": "Summer babies. Don't know what I would do without this beaut. #traveling #friends ❤️ @ Melbourne,… ",
+            "coordinate": [
+              144.96103936,
+              -37.82638457
+            ]
+          },
+          {
+            "content": "RDP's Birthday. Minus the photobomb chick. #fabrique #birthday #suitup #turnup #faded #drank #ootn… ",
+            "coordinate": [
+              144.96032422007775,
+              -37.82751026784512
+            ]
+          }
+        ]
+      },
       "total_number": 232,
       "coordinates": [
         144.96061850971662,
@@ -2909,6 +3861,34 @@
         ]
       },
       "social": {
+        "polarity": 0.011363636000000002,
+        "popularity": 4,
+        "score": 0.033962506,
+        "tweets": [
+          {
+            "content": "“@taylorswift13: So this is being \n\n#WHAT\n#bestbirthdayEVER ” uhm",
+            "coordinate": [
+              144.97874072,
+              -37.81789531
+            ]
+          },
+          {
+            "content": "@InsidersABC here we go Mr nice guy @ScottMorrisonMP softening his image as Heir apparent because the party don't want @TurnbullMalcolm,sad",
+            "coordinate": [
+              144.97821924,
+              -37.81746896
+            ]
+          },
+          {
+            "content": "#insiders Quite like Josh but his loyalty to @TonyAbbottMHR &amp; following party line will be misguided as Abbott will be gone within 2 weeks",
+            "coordinate": [
+              144.97856557,
+              -37.8173997
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.011363636000000002,
         "popularity": 4,
         "score": 0.033962506,
@@ -3007,6 +3987,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.040467469,
+        "popularity": 7,
+        "score": 0.059804486,
+        "tweets": [
+          {
+            "content": "The Hodges Bentleigh girls. #christmas #celebration #partytime #workhardplayhard #adayinthelife… ",
+            "coordinate": [
+              144.97453641370112,
+              -37.80864960882019
+            ]
+          },
+          {
+            "content": "@GlennRidgeMyMp looking forward to catching up with Glenn after the Xmas break , talking food , wine , and a bit of travel  am",
+            "coordinate": [
+              144.97270766,
+              -37.81123346
+            ]
+          },
+          {
+            "content": "@clonesandclones its going to happen, gonna fire up one of the batman park public barbecues. I just hope no one cooked a dog turd on it.",
+            "coordinate": [
+              144.975167665523,
+              -37.808892980142055
+            ]
+          }
+        ]
+      },
       "total_number": 362,
       "coordinates": [
         144.97351957269854,
@@ -3028,6 +4036,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.083333333,
+        "popularity": 1,
+        "score": 0.09079602,
+        "tweets": [
+          {
+            "content": "MWBBQ2016 was a success. Thanks to everyone who came to this annual… ",
+            "coordinate": [
+              144.92490182289984,
+              -37.7890519191937
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.083333333,
         "popularity": 1,
         "score": 0.09079602,
@@ -3099,6 +4121,34 @@
         ]
       },
       "social": {
+        "polarity": 0.18164205100000003,
+        "popularity": 17,
+        "score": 0.21115594,
+        "tweets": [
+          {
+            "content": "Happy birthday dear coombesys,,, @bigcoombesy ",
+            "coordinate": [
+              144.94882125827644,
+              -37.80443675068995
+            ]
+          },
+          {
+            "content": "Happy Birthday active_girls_journey 😘\nI hope you are healthy always 😘\nIm here always loving you… ",
+            "coordinate": [
+              144.94916382090543,
+              -37.80438628983795
+            ]
+          },
+          {
+            "content": "Happy Birthday active_girls_journey 😘\nI hope you are healthy always 😘\nIm here always loving you… ",
+            "coordinate": [
+              144.94950954113656,
+              -37.8044206135909
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.18164205100000003,
         "popularity": 17,
         "score": 0.21115594,
@@ -3218,6 +4268,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.07638512900000001,
+        "popularity": 62,
+        "score": 0.09680001199999999,
+        "tweets": [
+          {
+            "content": "#littlepicnic #cutelittlepicnic #picnic #rug #food #dinner #picnicdinner #alexandragardens # @… ",
+            "coordinate": [
+              144.96815921537376,
+              -37.82083695053791
+            ]
+          },
+          {
+            "content": "#clown #Moomba #arcade #prize #win #melbourne #seeaustralia #festival #fair #bigkid @ Moomba Festival… ",
+            "coordinate": [
+              144.97415297,
+              -37.82132521
+            ]
+          },
+          {
+            "content": "Love these girls helgaaxelsson @georgiabeech #midsumma #festival #queerculture @ Alexandra Gardens ",
+            "coordinate": [
+              144.97184703,
+              -37.82080738
+            ]
+          }
+        ]
+      },
       "total_number": 3037,
       "coordinates": [
         144.97193022521608,
@@ -3247,6 +4325,34 @@
         ]
       },
       "social": {
+        "polarity": 0.015151515,
+        "popularity": 3,
+        "score": 0.025677831,
+        "tweets": [
+          {
+            "content": "Serving up delicious Christmas pudding! It's not too late to book in a xmas party, contact the hotel for more info! ",
+            "coordinate": [
+              144.91995823,
+              -37.79127052
+            ]
+          },
+          {
+            "content": "First official day tomorrow - 3 lectures and meeting up with Carmen! #mondays",
+            "coordinate": [
+              144.92114859,
+              -37.79509785
+            ]
+          },
+          {
+            "content": "@Colvs you have a lot of catching up to do!",
+            "coordinate": [
+              144.9209947134589,
+              -37.79432880579764
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.015151515,
         "popularity": 3,
         "score": 0.025677831,
@@ -3366,6 +4472,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.058384425999999996,
+        "popularity": 13,
+        "score": 0.067252093,
+        "tweets": [
+          {
+            "content": "Happiest of birthdays to my gorgeous, sweet, kind, beautiful and… ",
+            "coordinate": [
+              144.96692321537702,
+              -37.81781537895043
+            ]
+          },
+          {
+            "content": "Party time! #movidafiesta @ hosier lane ",
+            "coordinate": [
+              144.9669223825832,
+              -37.817795017743514
+            ]
+          },
+          {
+            "content": "Happy Birthday @jacqmarie!! Hope it's the best you've ever had. Enjoy those rooftop vibes 👌 🎉🎈xx.",
+            "coordinate": [
+              144.96693649187577,
+              -37.817691558776865
+            ]
+          }
+        ]
+      },
       "total_number": 1466,
       "coordinates": [
         144.96882394696277,
@@ -3431,6 +4565,34 @@
         ]
       },
       "social": {
+        "polarity": 0.088517764,
+        "popularity": 50,
+        "score": 0.11152742800000001,
+        "tweets": [
+          {
+            "content": "Queen's Birthday! #holiday #happybirthdayqueen @ Sea Life Melbourne Aquarium ",
+            "coordinate": [
+              144.95537618592013,
+              -37.823085133987774
+            ]
+          },
+          {
+            "content": "happy birthday @imkriskelly ❕❕🎈🎃🎉😚",
+            "coordinate": [
+              144.95752595,
+              -37.82025564
+            ]
+          },
+          {
+            "content": "Hope you all got to enjoy the sunshine today #happybirthdaydaddy #floralgoodness #magicalmondays xoxo… ",
+            "coordinate": [
+              144.95495720234408,
+              -37.82285715553574
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.088517764,
         "popularity": 50,
         "score": 0.11152742800000001,
@@ -3550,6 +4712,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.113738508,
+        "popularity": 39,
+        "score": 0.132204417,
+        "tweets": [
+          {
+            "content": "Hi mango season #picnic 🌤🍓 @ Fitzroy Gardens ",
+            "coordinate": [
+              144.97734777297498,
+              -37.80986825985198
+            ]
+          },
+          {
+            "content": "Picnic time \n\n#Fitzroy #Fitzroygardens #melbourne #picnic #summer #antipasto #Ilovecheese @ Fitzroy… ",
+            "coordinate": [
+              144.97745044354417,
+              -37.80959794972771
+            ]
+          },
+          {
+            "content": "Bride's Dad Stops Wedding So Stepdad Can Walk Down The Aisle Too #family #love #beautiful #inclusive",
+            "coordinate": [
+              144.97765351473723,
+              -37.80936611874436
+            ]
+          }
+        ]
+      },
       "total_number": 2112,
       "coordinates": [
         144.98045608993067,
@@ -3584,6 +4774,20 @@
           }
         ]
       },
+      "any": {
+        "polarity": -0.041666667000000004,
+        "popularity": 1,
+        "score": -0.020833333,
+        "tweets": [
+          {
+            "content": "@laurenridgway @JonnoSimpson Fury finished at 12am so it was a bit late but we should have thought of you, apologies. Catch up soon 😃",
+            "coordinate": [
+              144.97105364,
+              -37.80917493
+            ]
+          }
+        ]
+      },
       "total_number": 48,
       "coordinates": [
         144.97236391469605,
@@ -3605,6 +4809,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -3680,6 +4890,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.073351995,
+        "popularity": 14,
+        "score": 0.118080429,
+        "tweets": [
+          {
+            "content": "#festivalready #festivalseason #saturday #listenout2013 #melbourne #festivalfashion #partytimes… ",
+            "coordinate": [
+              144.9672623501692,
+              -37.82768303888055
+            ]
+          },
+          {
+            "content": "@JonnyLaidlaw happy birthday Jonny!Hope it's a good one!xx",
+            "coordinate": [
+              144.9675046526059,
+              -37.8277066477469
+            ]
+          },
+          {
+            "content": "#Patronè #shots! #instafriends #funtimes #happiness #hola #instagay #gaystagram #mexiparty @ Kiki lounge ",
+            "coordinate": [
+              144.9677375382483,
+              -37.82774987814864
+            ]
+          }
+        ]
+      },
       "total_number": 313,
       "coordinates": [
         144.96738599894593,
@@ -3716,6 +4954,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.25,
+        "popularity": 1,
+        "score": 0.273255814,
+        "tweets": [
+          {
+            "content": "Kinder Christmas Party 🎈 @ Goodstart Early Learning Flemington ",
+            "coordinate": [
+              144.926041404987,
+              -37.79015586911622
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.25,
         "popularity": 1,
         "score": 0.273255814,
@@ -3821,6 +5073,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.15366128099999998,
+        "popularity": 41,
+        "score": 0.17271332600000003,
+        "tweets": [
+          {
+            "content": "Happy 2nd birthday Prince Gorgeous 💙 @ Midwife Cath ",
+            "coordinate": [
+              144.97366450208955,
+              -37.807096091580014
+            ]
+          },
+          {
+            "content": "Happy birthday n1cn0c!! @ Ing Doi ",
+            "coordinate": [
+              144.9736867513493,
+              -37.807098332810895
+            ]
+          },
+          {
+            "content": "Happy Birthday @allymac82. Love u!",
+            "coordinate": [
+              144.97448458512193,
+              -37.807185058040325
+            ]
+          }
+        ]
+      },
       "total_number": 2152,
       "coordinates": [
         144.97581472590497,
@@ -3847,6 +5127,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 4,
       "coordinates": [
         144.92396896742034,
@@ -3868,6 +5154,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.114034894,
+        "popularity": 43,
+        "score": 0.135092681,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.114034894,
         "popularity": 43,
         "score": 0.135092681,
@@ -3965,6 +5257,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.13729131,
+        "popularity": 1052,
+        "score": 0.161572343,
+        "tweets": [
+          {
+            "content": "#Surprise#AwesomePeople#HappyBirthdayToMe# @ City of Melbourne ",
+            "coordinate": [
+              144.96817554310792,
+              -37.815252380811955
+            ]
+          },
+          {
+            "content": "Eternity #wedding #romance #bride #diamond @ Diamond Rings Internationale ",
+            "coordinate": [
+              144.9663696,
+              -37.8156662
+            ]
+          },
+          {
+            "content": "Blueberry CheeseCake 🎂🍰#Thankful❤ #Blessed❤ #HappyBirthdayLordJesusChrist❤ #MerryChristmas🎄🎄🎄… ",
+            "coordinate": [
+              144.96852620020002,
+              -37.81598642158638
+            ]
+          }
+        ]
+      },
       "total_number": 43326,
       "coordinates": [
         144.96710559474928,
@@ -3986,6 +5306,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -4025,6 +5351,20 @@
           }
         ]
       },
+      "any": {
+        "polarity": -0.037037037,
+        "popularity": 1,
+        "score": -0.017037036999999998,
+        "tweets": [
+          {
+            "content": "Nice to wake up to a small victory - the party I voted for totally won! But then the buildings pipes 'sploded so no Sunday morning shower 😢",
+            "coordinate": [
+              144.94343141,
+              -37.80825224
+            ]
+          }
+        ]
+      },
       "total_number": 50,
       "coordinates": [
         144.9437061965014,
@@ -4051,6 +5391,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 101,
       "coordinates": [
         144.9263178756071,
@@ -4072,6 +5418,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -4142,6 +5494,34 @@
         ]
       },
       "social": {
+        "polarity": 0.024226149,
+        "popularity": 175,
+        "score": 0.071357848,
+        "tweets": [
+          {
+            "content": "HAPPY BIRTHDAY NAT! x (@ Kinfolk) ",
+            "coordinate": [
+              144.95619723089658,
+              -37.81675984864071
+            ]
+          },
+          {
+            "content": "••• Weekend withdrawals 🙈🎈 Happy birthday skatejob @ BANG! ",
+            "coordinate": [
+              144.95626334808324,
+              -37.81703594393481
+            ]
+          },
+          {
+            "content": "Happy Birthday @LaughingSquid!   cc @ScottBeale",
+            "coordinate": [
+              144.95621901548455,
+              -37.81731476793401
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.024226149,
         "popularity": 175,
         "score": 0.071357848,
@@ -4261,6 +5641,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.033967091,
+        "popularity": 21,
+        "score": 0.044961855999999994,
+        "tweets": [
+          {
+            "content": "Happy Birthday Jesus! Merry Christmas everyone!  🌲🌲🌲 ❤#hairextensionspro Quality Double Drawn… ",
+            "coordinate": [
+              144.97083552145733,
+              -37.803738303535496
+            ]
+          },
+          {
+            "content": "@alldaychubbyboy guess whos birthday it is? 🙋🙋🙋",
+            "coordinate": [
+              144.97474154,
+              -37.80082443
+            ]
+          },
+          {
+            "content": "Single ladies lessons #bae #weddingdance #jessandjesseforever @ The Pumphouse Hotel ",
+            "coordinate": [
+              144.97026454904105,
+              -37.80379662824733
+            ]
+          }
+        ]
+      },
       "total_number": 1910,
       "coordinates": [
         144.97193949971927,
@@ -4332,6 +5740,27 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.21111111100000002,
+        "popularity": 2,
+        "score": 0.23034188,
+        "tweets": [
+          {
+            "content": "Australiana #pool #sunday #birthday #flemington #melbourne @ Flemington-Kensington Bowls Club ",
+            "coordinate": [
+              144.9212922879481,
+              -37.786856624898235
+            ]
+          },
+          {
+            "content": "Butchers bowling club #sunday #birthday #party #pool #kensington #melbourne #australiana # @… ",
+            "coordinate": [
+              144.92132187735555,
+              -37.786844326838526
+            ]
+          }
+        ]
+      },
       "total_number": 104,
       "coordinates": [
         144.92374514714487,
@@ -4353,6 +5782,34 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.10290253199999999,
+        "popularity": 4,
+        "score": 0.256748686,
+        "tweets": [
+          {
+            "content": "🙏🏼✨\nExtending my thanks to Julia Gillard for inviting innovative women to her birthday… ",
+            "coordinate": [
+              144.94850149959223,
+              -37.80420145730988
+            ]
+          },
+          {
+            "content": "👯\nWeekends were made for 80s/90s parties with cute humans  clouds printed on silk… ",
+            "coordinate": [
+              144.9485015215672,
+              -37.804201333109546
+            ]
+          },
+          {
+            "content": "👯\nWeekends were made for 80s/90s parties with cute humans.\n•\n#houseparty #home #80s #90s… ",
+            "coordinate": [
+              144.94902767107683,
+              -37.804259937175004
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.10290253199999999,
         "popularity": 4,
         "score": 0.256748686,
@@ -4472,6 +5929,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.072820475,
+        "popularity": 21,
+        "score": 0.093129953,
+        "tweets": [
+          {
+            "content": "#wedding #love @ Newman College (University of Melbourne) ",
+            "coordinate": [
+              144.96145147743837,
+              -37.79716183264701
+            ]
+          },
+          {
+            "content": "Congratulations to Eliza and Justin\n#wedding #love @ Newman College (University of Melbourne) ",
+            "coordinate": [
+              144.96144573444687,
+              -37.797161946726206
+            ]
+          },
+          {
+            "content": "We have fun\n\n #jblockparty #friends #party #celebrate #fun #partytime @ Queen's College - The… ",
+            "coordinate": [
+              144.96125825726347,
+              -37.79715334381295
+            ]
+          }
+        ]
+      },
       "total_number": 1034,
       "coordinates": [
         144.9615939011498,
@@ -4521,6 +6006,27 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.048611111,
+        "popularity": 2,
+        "score": 0.102665165,
+        "tweets": [
+          {
+            "content": "Took old mate homertheboston to a corgi birthday party today. He's not in the shot because he… ",
+            "coordinate": [
+              144.93927667,
+              -37.79631531
+            ]
+          },
+          {
+            "content": "@fletchssv @dayna_36 yes I'm comming looking for u. probably get there about  depending on traffic.  I will get u here and catch up 😊",
+            "coordinate": [
+              144.9387097,
+              -37.7956161
+            ]
+          }
+        ]
+      },
       "total_number": 37,
       "coordinates": [
         144.93975815032573,
@@ -4547,6 +6053,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 27,
       "coordinates": [
         144.93860253098578,
@@ -4568,6 +6080,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -4665,6 +6183,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.071363749,
+        "popularity": 72,
+        "score": 0.12975791,
+        "tweets": [
+          {
+            "content": "Happy birthday sarahacleaver\n❤💋🎉🎊🎂 @ Morell Bridge ",
+            "coordinate": [
+              144.96831441960245,
+              -37.81880339880765
+            ]
+          },
+          {
+            "content": "#love #Melbourne #thebest #yarra #whereaminow #happiness #birthdayparty #beautifulplaces #city… ",
+            "coordinate": [
+              144.96835029369407,
+              -37.8187902389371
+            ]
+          },
+          {
+            "content": "#puppylove #fransbday2014 #funtimes #friends4eva #alwaystogether #lovelyfe @ BBQ by the Yarra ",
+            "coordinate": [
+              144.968351654606,
+              -37.818789762340714
+            ]
+          }
+        ]
+      },
       "total_number": 1233,
       "coordinates": [
         144.97758797780216,
@@ -4686,6 +6232,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -4742,6 +6294,34 @@
         ]
       },
       "social": {
+        "polarity": 0.057298246,
+        "popularity": 5,
+        "score": 0.074659357,
+        "tweets": [
+          {
+            "content": "Happy Birthday rachievatu \n\nThought I'd post an oldie hahaha 😜 \n\nLove you and I hope your day has… ",
+            "coordinate": [
+              144.95490073,
+              -37.8205653
+            ]
+          },
+          {
+            "content": "City view for the night for peterstaker 30th #mcgallery #thegrandhotel #birthday #accor… ",
+            "coordinate": [
+              144.95337110332932,
+              -37.820892307839024
+            ]
+          },
+          {
+            "content": "@solomonstre Been out of the docker space for a couple weeks. Is there any place to catch up on clustering plans? Way more interesting prob",
+            "coordinate": [
+              144.95490313,
+              -37.82001507
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.057298246,
         "popularity": 5,
         "score": 0.074659357,
@@ -4861,6 +6441,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.040175334,
+        "popularity": 14,
+        "score": 0.056248812999999995,
+        "tweets": [
+          {
+            "content": "Party Times #party #bestfriendsforever #reunion  @ boutique ",
+            "coordinate": [
+              144.9706679054762,
+              -37.82736782384145
+            ]
+          },
+          {
+            "content": "Happy graduation &amp; happy 21st birthday twistbubble. Thanks for not stopping texting me, asked me to… ",
+            "coordinate": [
+              144.97280629,
+              -37.83214132
+            ]
+          },
+          {
+            "content": "The Royce, Larks last night of freedom #toblerones #Larks #weddingtomorrow #pt@6:  #thenwork… ",
+            "coordinate": [
+              144.97175473,
+              -37.8314311
+            ]
+          }
+        ]
+      },
       "total_number": 871,
       "coordinates": [
         144.97314560624562,
@@ -4912,6 +6520,34 @@
         ]
       },
       "social": {
+        "polarity": 0.092063492,
+        "popularity": 3,
+        "score": 0.106769374,
+        "tweets": [
+          {
+            "content": "Always good catching up with the boys @matthewpillios @k1samgreco #food #lunch #laughs #friends #kouta… ",
+            "coordinate": [
+              144.95424433,
+              -37.80572226
+            ]
+          },
+          {
+            "content": "Day 559: when you hang out with beautiful people you know you are with good company… ",
+            "coordinate": [
+              144.95246245830612,
+              -37.80561970946496
+            ]
+          },
+          {
+            "content": "Wrap party feasts. Awwww yyyyyeah ",
+            "coordinate": [
+              144.95267593949868,
+              -37.80538449966533
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.092063492,
         "popularity": 3,
         "score": 0.106769374,
@@ -4995,6 +6631,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.125013875,
+        "popularity": 13,
+        "score": 0.152040902,
+        "tweets": [
+          {
+            "content": "Hello, Goodbye  Happy Birthday (@ Malthouse Theatre in Southbank, Australia) ",
+            "coordinate": [
+              144.96702273873566,
+              -37.82743702698085
+            ]
+          },
+          {
+            "content": "Celebrating 8 years of amazingness today! #bride #wedding #anniversary @ Acca ",
+            "coordinate": [
+              144.966677231681,
+              -37.82750276607985
+            ]
+          },
+          {
+            "content": "Best bridal party EVER!!! #oscarsselfie #mrandmrsblum @ ACCA - Australian Centre for Contemporary Art ",
+            "coordinate": [
+              144.96676886,
+              -37.82677432
+            ]
+          }
+        ]
+      },
       "total_number": 481,
       "coordinates": [
         144.96719991526246,
@@ -5024,6 +6688,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.333333333,
+        "popularity": 1,
+        "score": 0.346153846,
+        "tweets": [
+          {
+            "content": "HAPPEE BIRTHDAY🎉🎊 eggseggseggseggseggs #kidscantread #afamilyjustmovedtables #birthday… ",
+            "coordinate": [
+              144.93036082,
+              -37.7938455
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.333333333,
         "popularity": 1,
         "score": 0.346153846,
@@ -5093,6 +6771,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 22665,
       "coordinates": [
         144.94565896942595,
@@ -5114,6 +6798,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -5161,6 +6851,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 181,
       "coordinates": [
         144.9150098696663,
@@ -5190,6 +6886,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -5273,6 +6975,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.10356927199999999,
+        "popularity": 26,
+        "score": 0.140712129,
+        "tweets": [
+          {
+            "content": "Little bit of luxury after 5 months of backpacking. 😍 Happy birthday sashaprice05 😘 @ Experience… ",
+            "coordinate": [
+              144.95923068339818,
+              -37.82505907549311
+            ]
+          },
+          {
+            "content": "Happy birthday 😘☺️🎉🎈🎂🎊🎁!!!! How could I describe such an incredible woman? Love you mommy x @… ",
+            "coordinate": [
+              144.95936037652427,
+              -37.82481680808327
+            ]
+          },
+          {
+            "content": "Great dinner out with these beautiful ladies ! Happy late birthday Prue !! @ Spice Temple Melbourne ",
+            "coordinate": [
+              144.95957280398193,
+              -37.824614609457576
+            ]
+          }
+        ]
+      },
       "total_number": 700,
       "coordinates": [
         144.96037028511614,
@@ -5309,6 +7039,27 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 2,
+        "score": 0.010989011000000002,
+        "tweets": [
+          {
+            "content": "#connect with your #friends on #social #media #PUBL90006B",
+            "coordinate": [
+              144.9111789,
+              -37.8000706
+            ]
+          },
+          {
+            "content": "@DangerousDaveW been trying to call , stop partying lol",
+            "coordinate": [
+              144.91527764,
+              -37.80140716
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 2,
         "score": 0.010989011000000002,
@@ -5407,6 +7158,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.28479021,
+        "popularity": 6,
+        "score": 0.311696039,
+        "tweets": [
+          {
+            "content": "Happy Birthday 7mood love you 🎉🎂🎈 @ Convesso ",
+            "coordinate": [
+              144.94207832,
+              -37.81980948
+            ]
+          },
+          {
+            "content": "Happy early 21st Birthday paintingrachelred ❤️ I hope you love the surprise and beautiful cake made… ",
+            "coordinate": [
+              144.9403752551613,
+              -37.81919092874001
+            ]
+          },
+          {
+            "content": "\"Thanks!\" To everyone who wish me happy birthday: ) @ Convesso ",
+            "coordinate": [
+              144.9404554790802,
+              -37.81916031925477
+            ]
+          }
+        ]
+      },
       "total_number": 223,
       "coordinates": [
         144.94075601297075,
@@ -5441,6 +7220,20 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.083333333,
+        "popularity": 1,
+        "score": 0.091666667,
+        "tweets": [
+          {
+            "content": "@sammartino *waves* Hello! Long time no see, let's catch up :)",
+            "coordinate": [
+              144.95538845,
+              -37.80312706
+            ]
+          }
+        ]
+      },
       "total_number": 120,
       "coordinates": [
         144.9555209425151,
@@ -5462,6 +7255,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -5559,6 +7358,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.121024834,
+        "popularity": 132,
+        "score": 0.162365266,
+        "tweets": [
+          {
+            "content": "Happy birthday Kate scarlettdonnelly #birthday #kareoke @ Empress Of China ",
+            "coordinate": [
+              144.9688416,
+              -37.8113174
+            ]
+          },
+          {
+            "content": "Oktoberfest #beer #party   @ Hofbrauhaus ",
+            "coordinate": [
+              144.97058058563073,
+              -37.81120605637792
+            ]
+          },
+          {
+            "content": "Happy birthday aaronsujy !! ☺️🎊🎂🎈🎋 #啊人哥 @ China Bar Signature Asian Buffet ",
+            "coordinate": [
+              144.97054099458305,
+              -37.811487576360484
+            ]
+          }
+        ]
+      },
       "total_number": 3193,
       "coordinates": [
         144.96934551471068,
@@ -5610,6 +7437,34 @@
         ]
       },
       "social": {
+        "polarity": 0.04937770599999999,
+        "popularity": 6,
+        "score": 0.07458779,
+        "tweets": [
+          {
+            "content": "Join our #garden #party &amp; help raise funds for #cancer#council. \nSaturday 29 November from… ",
+            "coordinate": [
+              144.96496337,
+              -37.82905379
+            ]
+          },
+          {
+            "content": "Art gallery, gardens, wine tasting, picnics and river  Best. Ever @4larks",
+            "coordinate": [
+              144.96335796259223,
+              -37.828951878628764
+            ]
+          },
+          {
+            "content": "Flash back to @tlcforkidsaus Family Fun Day Christmas Party and Our team Santa photo! \nToday is… ",
+            "coordinate": [
+              144.96358877289921,
+              -37.828737450322585
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.04937770599999999,
         "popularity": 6,
         "score": 0.07458779,
@@ -5729,6 +7584,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.149868286,
+        "popularity": 146,
+        "score": 0.183224466,
+        "tweets": [
+          {
+            "content": "#birthday #friends @ Royal Botanic Gardens Melbourne ",
+            "coordinate": [
+              144.97476717,
+              -37.8295639
+            ]
+          },
+          {
+            "content": "Birthday picnic 💜 @ Royal Botanic Gardens Victoria ",
+            "coordinate": [
+              144.97374270362974,
+              -37.82644107296204
+            ]
+          },
+          {
+            "content": "#birthdaysuit @ Royal Botanic Gardens Melbourne ",
+            "coordinate": [
+              144.97393516177664,
+              -37.82652382995527
+            ]
+          }
+        ]
+      },
       "total_number": 4377,
       "coordinates": [
         144.97612465630445,
@@ -5755,6 +7638,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 0,
       "coordinates": [
         144.97074529912388,
@@ -5776,6 +7665,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -5873,6 +7768,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.07976722900000001,
+        "popularity": 24,
+        "score": 0.09450019400000001,
+        "tweets": [
+          {
+            "content": "Happy Birthday to the VCCC! (@ Victorian Comprehensive Cancer Centre)  ",
+            "coordinate": [
+              144.95686272,
+              -37.80076234
+            ]
+          },
+          {
+            "content": "#theworldofotis #slidinginto2 #happybirthdayotis🎉 janomie34 ominomijanomi @ Royal Park… ",
+            "coordinate": [
+              144.95583712554296,
+              -37.80151200043616
+            ]
+          },
+          {
+            "content": "Happy birthday my niece 👼🏻 @ The Royal Women's Hospital ",
+            "coordinate": [
+              144.95583078414623,
+              -37.80150695543832
+            ]
+          }
+        ]
+      },
       "total_number": 1629,
       "coordinates": [
         144.95603753307125,
@@ -5943,6 +7866,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.097042053,
+        "popularity": 11,
+        "score": 0.116172488,
+        "tweets": [
+          {
+            "content": "@ammaraanth happy birthday lovely. I hope it's an amazing day ☺️😘",
+            "coordinate": [
+              144.96839938238242,
+              -37.827033522297974
+            ]
+          },
+          {
+            "content": "Time to drink up in celebration of samgee_gamgee birthday. Get amongst  it @ The Tower ",
+            "coordinate": [
+              144.96805729956375,
+              -37.827088048889244
+            ]
+          },
+          {
+            "content": "People come over and hang out and swim in my pool yeah yeah",
+            "coordinate": [
+              144.96771049024335,
+              -37.82705764122645
+            ]
+          }
+        ]
+      },
       "total_number": 575,
       "coordinates": [
         144.9685893598761,
@@ -5964,6 +7915,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -6034,6 +7991,34 @@
         ]
       },
       "social": {
+        "polarity": 0.088431035,
+        "popularity": 83,
+        "score": 0.11537034,
+        "tweets": [
+          {
+            "content": "#gourmet #picnic #zoo go#food @ Melbourne Zoo ",
+            "coordinate": [
+              144.9529850420769,
+              -37.78517057002796
+            ]
+          },
+          {
+            "content": "Happy Birthday douglascosta 🎁🎈 @ State Netball and Hockey Centre ",
+            "coordinate": [
+              144.95299651673906,
+              -37.785151366358036
+            ]
+          },
+          {
+            "content": "#sisterlylove #weddings #lovethispic @ Melbourne Zoo ",
+            "coordinate": [
+              144.95300498123842,
+              -37.78513780004185
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.088431035,
         "popularity": 83,
         "score": 0.11537034,
@@ -6153,6 +8138,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.075679698,
+        "popularity": 118,
+        "score": 0.08902056900000001,
+        "tweets": [
+          {
+            "content": "Happy 3/4 birthday Ritchie Benaud, rest in peace. #white #offwhite #cream #bone #RIP #legend… ",
+            "coordinate": [
+              144.98081451061785,
+              -37.81765109300059
+            ]
+          },
+          {
+            "content": "#woop #saturdaynight  #mcg #cinema #awesome #epic #picnic @bankofmelb #love @ Melbourne Cricket… ",
+            "coordinate": [
+              144.9809646710386,
+              -37.81678665900104
+            ]
+          },
+          {
+            "content": "@phildavis_1 Happy Birthday great man",
+            "coordinate": [
+              144.98419091,
+              -37.81905186
+            ]
+          }
+        ]
+      },
       "total_number": 8845,
       "coordinates": [
         144.98491986056698,
@@ -6245,6 +8258,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.12262414099999999,
+        "popularity": 10,
+        "score": 0.145197504,
+        "tweets": [
+          {
+            "content": "Orsons birthday dinner🎈🍾 (@ Chef Lagenda in Flemington, Victoria) ",
+            "coordinate": [
+              144.92724772274173,
+              -37.78849312100073
+            ]
+          },
+          {
+            "content": "It's our 3rd Birthday! \nCome join us!\n#birthday #birthdays #birthdayparty… ",
+            "coordinate": [
+              144.92731995949518,
+              -37.78806558751462
+            ]
+          },
+          {
+            "content": "Another cake blowing moment. #sharingamoment #Birthdaygirl #Septemberbaby #happydays @ Laksa King ",
+            "coordinate": [
+              144.92948177,
+              -37.78779216
+            ]
+          }
+        ]
+      },
       "total_number": 443,
       "coordinates": [
         144.92840312504683,
@@ -6279,6 +8320,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 31,
       "coordinates": [
         144.91859248068363,
@@ -6300,6 +8347,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.2,
+        "popularity": 1,
+        "score": 0.200110412,
+        "tweets": [
+          {
+            "content": "So this is happening! Happy birthday, Warwick. 🍷\n@penfolds #penfolds #bin128 @ Number 59 ",
+            "coordinate": [
+              144.92390651703795,
+              -37.791615436748174
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.2,
         "popularity": 1,
         "score": 0.200110412,
@@ -6361,6 +8422,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 117,
       "coordinates": [
         144.96074657011906,
@@ -6382,6 +8449,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -6436,6 +8509,27 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.4375,
+        "popularity": 2,
+        "score": 0.460227273,
+        "tweets": [
+          {
+            "content": "Happy birthday coffee!!! :)  @ Decoy Cafe  Coffee Roasters ",
+            "coordinate": [
+              144.96980122759717,
+              -37.80662790409451
+            ]
+          },
+          {
+            "content": "65 Degrees Cafe - So good to be back @65degrees - just spoke to Jim and caught up :) ",
+            "coordinate": [
+              144.97012776981984,
+              -37.80670288853283
+            ]
+          }
+        ]
+      },
       "total_number": 88,
       "coordinates": [
         144.96922901972536,
@@ -6465,6 +8559,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -6562,6 +8662,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.264182195,
+        "popularity": 5,
+        "score": 0.270966455,
+        "tweets": [
+          {
+            "content": "@manissasufian Happiest birthday doctor 😚",
+            "coordinate": [
+              144.95882806498133,
+              -37.80059157910411
+            ]
+          },
+          {
+            "content": "Happy birthday Erin #sober bryonyfitz matilda_price  🍸👯 @ The Corkman Irish Bar ",
+            "coordinate": [
+              144.96076742,
+              -37.8023127
+            ]
+          },
+          {
+            "content": "Embrace #slowthinking - give your team time to focus on the #strategy and don't get caught up in quick wins\n #cleverness",
+            "coordinate": [
+              144.96078163,
+              -37.80210859
+            ]
+          }
+        ]
+      },
       "total_number": 737,
       "coordinates": [
         144.95991102724506,
@@ -6596,6 +8724,20 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 1,
+        "score": 0.016949153,
+        "tweets": [
+          {
+            "content": "Who need over 100 par cans for a Christmas party?  @ melbourne meat market ",
+            "coordinate": [
+              144.949939895353,
+              -37.79785416482149
+            ]
+          }
+        ]
+      },
       "total_number": 59,
       "coordinates": [
         144.94921310522486,
@@ -6617,6 +8759,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.23076923100000002,
+        "popularity": 1,
+        "score": 0.23806850100000002,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.23076923100000002,
         "popularity": 1,
         "score": 0.23806850100000002,
@@ -6666,6 +8814,27 @@
         ]
       },
       "social": {
+        "polarity": -0.2,
+        "popularity": 2,
+        "score": -0.174683544,
+        "tweets": [
+          {
+            "content": "Waiting for the guests to arrive #saturday #dinnerparty #mexicanfeast @ Gardiner Reserve ",
+            "coordinate": [
+              144.94334920339816,
+              -37.79780831380928
+            ]
+          },
+          {
+            "content": "Party Bag Demonic Possession. #itsathing @ Gardiner Reserve ",
+            "coordinate": [
+              144.94363839393975,
+              -37.79766688136305
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": -0.2,
         "popularity": 2,
         "score": -0.174683544,
@@ -6778,6 +8947,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.042559745,
+        "popularity": 140,
+        "score": 0.168345909,
+        "tweets": [
+          {
+            "content": "With dis beauty today ♡ #bestie #catchup #dinner #eateateat #fattiesforlife @ SUDA ",
+            "coordinate": [
+              144.95531541141997,
+              -37.81374740088957
+            ]
+          },
+          {
+            "content": "Anticipation #food #bbq @ Hwaro Korean BBQ ",
+            "coordinate": [
+              144.9555408529794,
+              -37.81371195849473
+            ]
+          },
+          {
+            "content": "💞 my love 💞 @ The Girlfriend Society Party ",
+            "coordinate": [
+              144.95589377200463,
+              -37.813745324555725
+            ]
+          }
+        ]
+      },
       "total_number": 1113,
       "coordinates": [
         144.95553700818436,
@@ -6799,6 +8996,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -6833,6 +9036,27 @@
         ]
       },
       "social": {
+        "polarity": 0.41666666700000005,
+        "popularity": 2,
+        "score": 0.43707483,
+        "tweets": [
+          {
+            "content": "An early birthday dinner. @ Frying Colours ",
+            "coordinate": [
+              144.92645578492522,
+              -37.79374035124773
+            ]
+          },
+          {
+            "content": "Happy birthday Emma! #Hipstamatic #Sergio #MaximusLXIX ",
+            "coordinate": [
+              144.92886365,
+              -37.79418578
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.41666666700000005,
         "popularity": 2,
         "score": 0.43707483,
@@ -6896,6 +9120,34 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.07436683,
+        "popularity": 8,
+        "score": 0.086985127,
+        "tweets": [
+          {
+            "content": "#KISS #partyeveryday #oldschool #rock #livemark @ KISS Concert - Rod Laver Arena ",
+            "coordinate": [
+              144.9792708,
+              -37.82351526
+            ]
+          },
+          {
+            "content": "Writing responsive nav drawers and listening to the new Bloc Party remix album. Good times.",
+            "coordinate": [
+              144.9750392361723,
+              -37.82189598225709
+            ]
+          },
+          {
+            "content": "OMG!! As in OMG!! It's about to start!! Bring it on Madonna!!🎼🎧🎤 #music #party #sunday #weekend… ",
+            "coordinate": [
+              144.97498338701092,
+              -37.821606617862045
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.07436683,
         "popularity": 8,
         "score": 0.086985127,
@@ -6987,6 +9239,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.07838827799999999,
+        "popularity": 5,
+        "score": 0.095689316,
+        "tweets": [
+          {
+            "content": "More travel party fun with these lovely ladies amandaeales #travel #wvtraveller #dreamtrips @ The… ",
+            "coordinate": [
+              144.9558258,
+              -37.82687
+            ]
+          },
+          {
+            "content": "a good night for a bbq. Awesome ending to my weekend :) #metime   @ Rivergarden Apartments ",
+            "coordinate": [
+              144.95415364332882,
+              -37.82847060540333
+            ]
+          },
+          {
+            "content": "It was nice catching up with @amelianahar reminiscing abt the good ol' Melbourne days",
+            "coordinate": [
+              144.9538570428325,
+              -37.828404280476136
+            ]
+          }
+        ]
+      },
       "total_number": 289,
       "coordinates": [
         144.95495022046913,
@@ -7008,6 +9288,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -7064,6 +9350,34 @@
         ]
       },
       "social": {
+        "polarity": 0.010307881999999999,
+        "popularity": 4,
+        "score": 0.021512364,
+        "tweets": [
+          {
+            "content": "Nothing like your outfit for the night being due to arrive the minute you  #vivsxmasparty",
+            "coordinate": [
+              144.95518648,
+              -37.79511452
+            ]
+          },
+          {
+            "content": "@spyparty you could treat it like many services do their maintenance. Announce the update a week or a few days out and force it immediately.",
+            "coordinate": [
+              144.95218501863715,
+              -37.795218633176376
+            ]
+          },
+          {
+            "content": "@hyprnova I’m just glad it’s something I don’t want to play. Couldn’t care less who gets it, third party exclusives are bad for everyone.",
+            "coordinate": [
+              144.95250367908199,
+              -37.79513007595341
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.010307881999999999,
         "popularity": 4,
         "score": 0.021512364,
@@ -7183,6 +9497,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.10153820699999999,
+        "popularity": 37,
+        "score": 0.130996806,
+        "tweets": [
+          {
+            "content": "Thanks you guys! 😘 #birthdaydinner @ Kitchen Worshop Crown Casino ",
+            "coordinate": [
+              144.95558465862217,
+              -37.825159283969185
+            ]
+          },
+          {
+            "content": "🍸✨💃🏻 #ameliasbirthday #crown #saturdaynight 💖💖 @ Lagerfield Crown Casino ",
+            "coordinate": [
+              144.95587575459302,
+              -37.825010862900236
+            ]
+          },
+          {
+            "content": "Marcia's birthday lunch round 3 🎂🎁🎈😘 (@ Kitchen Workshop Restaurant in Southbank, Victoria) ",
+            "coordinate": [
+              144.95708942,
+              -37.82514145
+            ]
+          }
+        ]
+      },
       "total_number": 1256,
       "coordinates": [
         144.95654450631008,
@@ -7275,6 +9617,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.113183403,
+        "popularity": 13,
+        "score": 0.135792099,
+        "tweets": [
+          {
+            "content": "#yay #readyformyfirstbirthdayparty #happy1stbirthdaythomas #beaukennedygleeson @ Kensington,… ",
+            "coordinate": [
+              144.92959737017168,
+              -37.79533232063335
+            ]
+          },
+          {
+            "content": "#flowers #pink #lillies #birthday #swag #beauty @ Kensington, Victoria ",
+            "coordinate": [
+              144.93,
+              -37.7945
+            ]
+          },
+          {
+            "content": "A very happy birthday 🎉 to my beautiful inspiration and mentor. My mother. You have gifted me… ",
+            "coordinate": [
+              144.92952786833848,
+              -37.794602142060356
+            ]
+          }
+        ]
+      },
       "total_number": 575,
       "coordinates": [
         144.93081342412944,
@@ -7311,6 +9681,12 @@
         ]
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -7408,6 +9784,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.147400174,
+        "popularity": 189,
+        "score": 0.17725799399999997,
+        "tweets": [
+          {
+            "content": "#birthday #friends @ Royal Botanic Gardens Melbourne ",
+            "coordinate": [
+              144.97476717,
+              -37.8295639
+            ]
+          },
+          {
+            "content": "Birthday picnic 💜 @ Royal Botanic Gardens Victoria ",
+            "coordinate": [
+              144.97630488518195,
+              -37.82697013041297
+            ]
+          },
+          {
+            "content": "#birthdaysuit @ Royal Botanic Gardens Melbourne ",
+            "coordinate": [
+              144.97630056202132,
+              -37.82699215092758
+            ]
+          }
+        ]
+      },
       "total_number": 6330,
       "coordinates": [
         144.9737328328832,
@@ -7459,6 +9863,34 @@
         ]
       },
       "social": {
+        "polarity": 0.08319220000000001,
+        "popularity": 35,
+        "score": 0.128295293,
+        "tweets": [
+          {
+            "content": "Gold Rushing @parishilton #goldrush #fragrancelaunch #partywithparis #chemistwarehouse… ",
+            "coordinate": [
+              144.96077991619043,
+              -37.820234666633574
+            ]
+          },
+          {
+            "content": "Casino Royale #birthday #crown #memories @ Club 23 Melbourne ",
+            "coordinate": [
+              144.96078551639587,
+              -37.82022907446901
+            ]
+          },
+          {
+            "content": "GP23 Party! #Formula1 #GrandPrix #Melbourne @ Club 23 ",
+            "coordinate": [
+              144.9607864160406,
+              -37.82022820720593
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.08319220000000001,
         "popularity": 35,
         "score": 0.128295293,
@@ -7578,6 +10010,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.11494263800000001,
+        "popularity": 46,
+        "score": 0.142957254,
+        "tweets": [
+          {
+            "content": "Happy Birthday Hayden. @haydo #birthday #celebration #quality @ Bistro Gitan ",
+            "coordinate": [
+              144.97908667,
+              -37.8373361
+            ]
+          },
+          {
+            "content": "Thank you for the #awesome #surprise #birthday #picnic @lisamorellini @luckyfellow28… ",
+            "coordinate": [
+              144.97770315613414,
+              -37.841182774671715
+            ]
+          },
+          {
+            "content": "I told you guys it was true. #birthdaycard #getwellcard #true #sunshine @ The Alfred Hospital ",
+            "coordinate": [
+              144.9775139949678,
+              -37.84066329090557
+            ]
+          }
+        ]
+      },
       "total_number": 1642,
       "coordinates": [
         144.98171949233353,
@@ -7670,6 +10130,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.07232793900000001,
+        "popularity": 135,
+        "score": 0.090989814,
+        "tweets": [
+          {
+            "content": "And  🍻🎂🎉🌟#HappyBirthdayMyFriend ❤️ @ Transit Rooftop Bar ",
+            "coordinate": [
+              144.967334281845,
+              -37.819300951834585
+            ]
+          },
+          {
+            "content": "Happy Birthday Matty 💕 #Melbourne #sunset @ Taxi Kitchen ",
+            "coordinate": [
+              144.96727917598665,
+              -37.81925383994942
+            ]
+          },
+          {
+            "content": "I ❤️ Melbourne #HappyBirthdayMelbourne @ Fed Square, Melbourne ",
+            "coordinate": [
+              144.96926284,
+              -37.81788005
+            ]
+          }
+        ]
+      },
       "total_number": 7234,
       "coordinates": [
         144.97295907285147,
@@ -7708,6 +10196,34 @@
         ]
       },
       "social": {
+        "polarity": 0.049227812999999995,
+        "popularity": 7,
+        "score": 0.078034397,
+        "tweets": [
+          {
+            "content": "Looking for some #australiaday #bbq inspiration? Looking good @joechefbartlett・・・\nShort ribs… ",
+            "coordinate": [
+              144.94103935501929,
+              -37.8062597736894
+            ]
+          },
+          {
+            "content": "We're getting ready for another #salami #party tonight @ our #Sausage HQ #traditional salami making #masterclass ",
+            "coordinate": [
+              144.9406980464087,
+              -37.80618379170193
+            ]
+          },
+          {
+            "content": "Plan a #party with a difference @ our new #Sausage HQ. It's all sausage, sausage, sausage ( a bit of cake 😉) ",
+            "coordinate": [
+              144.94040289925576,
+              -37.806028010751255
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.049227812999999995,
         "popularity": 7,
         "score": 0.078034397,
@@ -7783,6 +10299,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 61,
       "coordinates": [
         144.98909123445523,
@@ -7804,6 +10326,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -7835,6 +10363,12 @@
         "score": 0.0,
         "tweets": []
       },
+      "any": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
       "total_number": 0,
       "coordinates": [
         144.97117291546633,
@@ -7856,6 +10390,34 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.083333333,
+        "popularity": 3,
+        "score": 0.102688172,
+        "tweets": [
+          {
+            "content": "Have had such an amazing birthday, Thank-you all 😊 special mention to @Wincywillis for the surprises and speech 🙌💙",
+            "coordinate": [
+              144.96682489,
+              -37.79466868
+            ]
+          },
+          {
+            "content": "9 o'clock powerhouse sesh last saturday. there's no limit to your luv. 🌟 (at Cooinda Hibernation Party) [pic] — ",
+            "coordinate": [
+              144.96628810320124,
+              -37.79571889956105
+            ]
+          },
+          {
+            "content": "after 10 years, today i had the chance to catch up with my onkel  tante from… (at Blok M Express) [pic] — ",
+            "coordinate": [
+              144.96593434195913,
+              -37.79574430667119
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.083333333,
         "popularity": 3,
         "score": 0.102688172,
@@ -7953,6 +10515,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.205625327,
+        "popularity": 7,
+        "score": 0.24429936,
+        "tweets": [
+          {
+            "content": "Happy birthday Erika! #munichbrauhaus #happybirthday @ Munich Brauhaus ",
+            "coordinate": [
+              144.96492147,
+              -37.82275158
+            ]
+          },
+          {
+            "content": "Happy birthday Fazlic 😘🎈 #mygirls mellyfazz jesssicahidalgo_ @ Oaks Wrap Southbank ",
+            "coordinate": [
+              144.96417158074726,
+              -37.8212278473045
+            ]
+          },
+          {
+            "content": "My beautiful birthday!!! Delicious food, two nice cake of chocolate ^^  and nice persons… ",
+            "coordinate": [
+              144.9645187966443,
+              -37.82116893735706
+            ]
+          }
+        ]
+      },
       "total_number": 181,
       "coordinates": [
         144.96441902362727,
@@ -7997,6 +10587,34 @@
         ]
       },
       "social": {
+        "polarity": 0.262962963,
+        "popularity": 3,
+        "score": 0.274867725,
+        "tweets": [
+          {
+            "content": "Birthday dinner #spoiltbrat #craftbeer (@ The Tippler  Co in EAST MELBOURNE, Victoria) ",
+            "coordinate": [
+              144.98836615391895,
+              -37.81587975120297
+            ]
+          },
+          {
+            "content": "Gins birthday lunch! (@ The Tippler  Co) ",
+            "coordinate": [
+              144.98839453720066,
+              -37.815882629831876
+            ]
+          },
+          {
+            "content": "Melbourne crew BYO night! Celebrating a few birthdays and new jobs. Here's to a great start to… ",
+            "coordinate": [
+              144.988553470397,
+              -37.815900365707996
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.262962963,
         "popularity": 3,
         "score": 0.274867725,
@@ -8116,6 +10734,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.099492015,
+        "popularity": 46,
+        "score": 0.121920099,
+        "tweets": [
+          {
+            "content": "Happy birthday Pete! @ The Last Jar ",
+            "coordinate": [
+              144.95912281308486,
+              -37.805037549729136
+            ]
+          },
+          {
+            "content": "Catching up with this beautiful couple! Thanks for the lovely day :) #blessed @ Seven Seeds Specialty… ",
+            "coordinate": [
+              144.9591522,
+              -37.8030281
+            ]
+          },
+          {
+            "content": "Happy 3rd birthday Middle Fish ! 🎂🎉Thai green curry for breakfast ? Why not ! @ Middle Fish ",
+            "coordinate": [
+              144.95892688,
+              -37.80256052
+            ]
+          }
+        ]
+      },
       "total_number": 2051,
       "coordinates": [
         144.95768164459446,
@@ -8208,6 +10854,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.128833803,
+        "popularity": 71,
+        "score": 0.146610468,
+        "tweets": [
+          {
+            "content": "Happy happy birthday @MGLovesTennis",
+            "coordinate": [
+              144.96845073715278,
+              -37.822704357600166
+            ]
+          },
+          {
+            "content": "@najlawhosays Happy birthday sir roslan! (:",
+            "coordinate": [
+              144.96842566834587,
+              -37.82264443691661
+            ]
+          },
+          {
+            "content": "Beetroot Chocolate Brownie for the lovely @grreidy | #happybirthday #chocolate #brownie #foodporn… ",
+            "coordinate": [
+              144.9788208,
+              -37.8465614
+            ]
+          }
+        ]
+      },
       "total_number": 3994,
       "coordinates": [
         144.98055151659887,
@@ -8229,6 +10903,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -8299,6 +10979,34 @@
         ]
       },
       "social": {
+        "polarity": 0.160151515,
+        "popularity": 18,
+        "score": 0.17816953300000002,
+        "tweets": [
+          {
+            "content": "Happy birthday @ Princes Park ",
+            "coordinate": [
+              144.9586436653329,
+              -37.784507754713964
+            ]
+          },
+          {
+            "content": "BBQ master! @ Fancy Hanks BBQ ",
+            "coordinate": [
+              144.9586336882558,
+              -37.784374868737615
+            ]
+          },
+          {
+            "content": "Mmmm hello there 😘😘😘 #champagne #fountain #tipsy #picnic #sunset #wonderland #melbourne #music… ",
+            "coordinate": [
+              144.95940372732514,
+              -37.77813005832633
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.160151515,
         "popularity": 18,
         "score": 0.17816953300000002,
@@ -8418,6 +11126,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.137997517,
+        "popularity": 54,
+        "score": 0.157828586,
+        "tweets": [
+          {
+            "content": "#birthday #dinner #melbourne @ Ludlow Bar and Dining Room ",
+            "coordinate": [
+              144.96414211,
+              -37.82043514
+            ]
+          },
+          {
+            "content": "☕️\nBirthday buzz. @ World Restaurant and Bar ",
+            "coordinate": [
+              144.9628669671405,
+              -37.820294008120435
+            ]
+          },
+          {
+            "content": "Tallest #melbourneday #birthday @ Eureka Tower ",
+            "coordinate": [
+              144.96302547293757,
+              -37.82004052629823
+            ]
+          }
+        ]
+      },
       "total_number": 2723,
       "coordinates": [
         144.96409871539453,
@@ -8483,6 +11219,34 @@
         ]
       },
       "social": {
+        "polarity": 0.106832441,
+        "popularity": 28,
+        "score": 0.14085431199999998,
+        "tweets": [
+          {
+            "content": "Birthday beers are the best kind of beers #birthday #beer",
+            "coordinate": [
+              144.96128993879836,
+              -37.801646383625936
+            ]
+          },
+          {
+            "content": "We've had such an amazing night #celebrating #love with two beautiful girls 💙❤️💚 #wedding #cake… ",
+            "coordinate": [
+              144.9613934570707,
+              -37.80137577899308
+            ]
+          },
+          {
+            "content": "@ilovekoreanbbq good job Dan! Still cute and awesome!! ^^",
+            "coordinate": [
+              144.96159759521592,
+              -37.8011439664092
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.106832441,
         "popularity": 28,
         "score": 0.14085431199999998,
@@ -8602,6 +11366,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.11757305900000001,
+        "popularity": 42,
+        "score": 0.130028576,
+        "tweets": [
+          {
+            "content": "Happy Birthday Melbourne #visitmelbourne #happybirthdaymelbourne #askruthiemelbourne… ",
+            "coordinate": [
+              144.9620625440738,
+              -37.81950216148837
+            ]
+          },
+          {
+            "content": "Happy birthday @kckal",
+            "coordinate": [
+              144.96647881,
+              -37.81832205
+            ]
+          },
+          {
+            "content": "Happy 181st birthday Melbourne🎉🎁 #happybirthdaymelbourne #flindersstreetstation… ",
+            "coordinate": [
+              144.96211917897017,
+              -37.81918808011412
+            ]
+          }
+        ]
+      },
       "total_number": 3372,
       "coordinates": [
         144.9655050570364,
@@ -8653,6 +11445,34 @@
         ]
       },
       "social": {
+        "polarity": 0.067099567,
+        "popularity": 8,
+        "score": 0.079541247,
+        "tweets": [
+          {
+            "content": "Maybe this is what is called Picnic 😘😍 (at The Tropical Glasshouse @ The Royal Botanical Gardens) [pic] — ",
+            "coordinate": [
+              144.98889,
+              -37.8282
+            ]
+          },
+          {
+            "content": "@Harry_Styles Happy B'Day Harry !You are Amazing and I love you so much. I hope you have a great birthday.. xx -A",
+            "coordinate": [
+              144.98831537,
+              -37.82543942
+            ]
+          },
+          {
+            "content": "Pick-up line on the train: \"You dressed up for a party or did you just dress up for fun?\" LMAOooo",
+            "coordinate": [
+              144.98451251846146,
+              -37.82394843311947
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.067099567,
         "popularity": 8,
         "score": 0.079541247,
@@ -8772,6 +11592,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.14901835900000002,
+        "popularity": 80,
+        "score": 0.177457748,
+        "tweets": [
+          {
+            "content": "Out for the birthday #rockpool #fancy #birthday @ Rockpool Soutbank ",
+            "coordinate": [
+              144.9600096,
+              -37.82106124
+            ]
+          },
+          {
+            "content": "Happy birthday princess @sammierussell_ 😘 @ Nobu ",
+            "coordinate": [
+              144.95692539016656,
+              -37.82121848155141
+            ]
+          },
+          {
+            "content": "#birthdaycupcake #40thbirthday @ Rockpool Bar  Grill Melbourne ",
+            "coordinate": [
+              144.95686897492666,
+              -37.82109628152834
+            ]
+          }
+        ]
+      },
       "total_number": 2813,
       "coordinates": [
         144.95836787743676,
@@ -8793,6 +11641,20 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.153846154,
+        "popularity": 1,
+        "score": 0.172027972,
+        "tweets": [
+          {
+            "content": "Party don't start til I walk in #beers #ciders #laundytraugh #winning #onedirection _bossej @ The Manz ",
+            "coordinate": [
+              144.92511457666558,
+              -37.79322359863058
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.153846154,
         "popularity": 1,
         "score": 0.172027972,
@@ -8871,6 +11733,34 @@
         ]
       },
       "social": {
+        "polarity": 0.110416667,
+        "popularity": 4,
+        "score": 0.125286555,
+        "tweets": [
+          {
+            "content": "HAPPY 8TH BIRTHDAY to our darling boy Kimba Biggles 💕🐾 My white shaddow and constant companion… ",
+            "coordinate": [
+              144.986,
+              -37.8114
+            ]
+          },
+          {
+            "content": "Milking this birthday thing for all it's worth? I'm sure I don't know what you  @ Powlett… ",
+            "coordinate": [
+              144.98528341165778,
+              -37.810465465614776
+            ]
+          },
+          {
+            "content": "Very happy with my new outfit for Aunty Meaghie's Wedding!! Can't wait to show it off this… ",
+            "coordinate": [
+              144.98548609514577,
+              -37.81023350914387
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.110416667,
         "popularity": 4,
         "score": 0.125286555,
@@ -8990,6 +11880,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.130679043,
+        "popularity": 31,
+        "score": 0.157729654,
+        "tweets": [
+          {
+            "content": "#birthdaygirl #chocolatemarmaladecake #NigellaLawson #storecupboardcake @ Argyle Square, Lygon… ",
+            "coordinate": [
+              144.96424209587718,
+              -37.80196995654292
+            ]
+          },
+          {
+            "content": "Happy #21ST Birthday ERNZ 🎉🎊 @ IL Gambero ",
+            "coordinate": [
+              144.9643445677273,
+              -37.8017000530572
+            ]
+          },
+          {
+            "content": "Pickkae birthday~ (@ Universal Italian Restaurant) ",
+            "coordinate": [
+              144.9645471385816,
+              -37.801468484753265
+            ]
+          }
+        ]
+      },
       "total_number": 1146,
       "coordinates": [
         144.96583508709568,
@@ -9068,6 +11986,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.293055556,
+        "popularity": 6,
+        "score": 0.319256429,
+        "tweets": [
+          {
+            "content": "Beautiful day :). Hope my birthday's coming. ",
+            "coordinate": [
+              144.92447019,
+              -37.78951507
+            ]
+          },
+          {
+            "content": "@Colvs happy birthday cobber!",
+            "coordinate": [
+              144.91781713823926,
+              -37.7940313193096
+            ]
+          },
+          {
+            "content": "@amcal what no invite?\n\nHappy birthday!!!!!!!!!!!!!!!!",
+            "coordinate": [
+              144.91786383869348,
+              -37.79375993894798
+            ]
+          }
+        ]
+      },
       "total_number": 229,
       "coordinates": [
         144.92138469383292,
@@ -9089,6 +12035,34 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.10769230800000001,
+        "popularity": 3,
+        "score": 0.14519230800000002,
+        "tweets": [
+          {
+            "content": "@expat_erin @Liv_FrankyPants Thanks for stopping by. Catch you soon. And Happy Birthday!",
+            "coordinate": [
+              144.95135863632592,
+              -37.79727928899448
+            ]
+          },
+          {
+            "content": "Bring a Bloke Breakfast BBQ @ North Melbourne Primary School ",
+            "coordinate": [
+              144.9513725932265,
+              -37.79729037976025
+            ]
+          },
+          {
+            "content": "Hang out with people who make you forget to look at your phone",
+            "coordinate": [
+              144.949548,
+              -37.79837
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.10769230800000001,
         "popularity": 3,
         "score": 0.14519230800000002,
@@ -9201,6 +12175,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.041403251,
+        "popularity": 24,
+        "score": 0.064863662,
+        "tweets": [
+          {
+            "content": "@jmacstepback happy birthday star! Have a great day!",
+            "coordinate": [
+              144.96645017,
+              -37.80710558
+            ]
+          },
+          {
+            "content": "Teha's birthday suprise ft hot-sunny-day say yes say yes 💕 #Melbabes… ",
+            "coordinate": [
+              144.96547202,
+              -37.8082601
+            ]
+          },
+          {
+            "content": "Manager girl Patrice with the amazing  delicious cake for Uncle Jack's birthday last night ⚫️💛🔴… ",
+            "coordinate": [
+              144.96581181640244,
+              -37.80620071891992
+            ]
+          }
+        ]
+      },
       "total_number": 1023,
       "coordinates": [
         144.96552451465402,
@@ -9238,6 +12240,27 @@
         ]
       },
       "social": {
+        "polarity": 0.095238095,
+        "popularity": 2,
+        "score": 0.149292149,
+        "tweets": [
+          {
+            "content": "“@holgatebeer: 4 tap jockey box build done just in time for Thirlmere Beer Fest!” sounds cool, look forward to catching up @NSWWinBeerFest",
+            "coordinate": [
+              144.98676867874545,
+              -37.82987341151482
+            ]
+          },
+          {
+            "content": "Wedding is about to start (@ Robin Boyd Foundation w/ 2 others)  ",
+            "coordinate": [
+              144.98683400746134,
+              -37.82983204844036
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.095238095,
         "popularity": 2,
         "score": 0.149292149,
@@ -9301,6 +12324,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -9371,6 +12400,34 @@
         ]
       },
       "social": {
+        "polarity": 0.11703437400000001,
+        "popularity": 70,
+        "score": 0.13364172900000001,
+        "tweets": [
+          {
+            "content": "#inventive #picnic #warmbeer #soontobecoldbeer #gingerbeer meredith_t31 @ Carlton Gardens ",
+            "coordinate": [
+              144.97035602,
+              -37.8058556
+            ]
+          },
+          {
+            "content": "Happy Birthday, Melbourne. #royalexhibitionbuilding #Melbourne #happybirthdaymelbourne @ Royal… ",
+            "coordinate": [
+              144.97393314461507,
+              -37.80460864710131
+            ]
+          },
+          {
+            "content": "Happy birthday HERO SUBS ! @ The Grange ",
+            "coordinate": [
+              144.9742257603205,
+              -37.80476914044603
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.11703437400000001,
         "popularity": 70,
         "score": 0.13364172900000001,
@@ -9490,6 +12547,34 @@
           }
         ]
       },
+      "any": {
+        "polarity": 0.144601219,
+        "popularity": 15,
+        "score": 0.16552172099999998,
+        "tweets": [
+          {
+            "content": "It's @michaelsleap 's birthday?\nHappy Birthday!",
+            "coordinate": [
+              144.97186652,
+              -37.79485421
+            ]
+          },
+          {
+            "content": "Happy birthday mate. This is your dog. boytrady @ Carlton Baths YMCA ",
+            "coordinate": [
+              144.96694774093618,
+              -37.79534759188464
+            ]
+          },
+          {
+            "content": "Parties. Bday treats. #birthday #christmas #santa @ Viva Carlton ",
+            "coordinate": [
+              144.96715934508106,
+              -37.795111932530624
+            ]
+          }
+        ]
+      },
       "total_number": 717,
       "coordinates": [
         144.97037363996682,
@@ -9519,6 +12604,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -9567,6 +12658,12 @@
         "tweets": []
       },
       "social": {
+        "polarity": 0.0,
+        "popularity": 0,
+        "score": 0.0,
+        "tweets": []
+      },
+      "any": {
         "polarity": 0.0,
         "popularity": 0,
         "score": 0.0,
@@ -9637,6 +12734,34 @@
         ]
       },
       "social": {
+        "polarity": 0.135197572,
+        "popularity": 149,
+        "score": 0.151442666,
+        "tweets": [
+          {
+            "content": "#picnic #delicious @ State Library of Victoria ",
+            "coordinate": [
+              144.96569099773626,
+              -37.80967691165411
+            ]
+          },
+          {
+            "content": "#HappyBirthdayMyFriend!!! 🎂🎉🌟❤️👏🏼 @ Asian Beer Cafe, Melbourne Central ",
+            "coordinate": [
+              144.965724758913,
+              -37.80972216583835
+            ]
+          },
+          {
+            "content": "Happy Birthday library_vic @ State Library of Victoria ",
+            "coordinate": [
+              144.9657364021779,
+              -37.80974517021949
+            ]
+          }
+        ]
+      },
+      "any": {
         "polarity": 0.135197572,
         "popularity": 149,
         "score": 0.151442666,
