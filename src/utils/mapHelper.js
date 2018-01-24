@@ -47,7 +47,9 @@ export default function pickTop(activity, start, range) {
     }).splice(0, 3);
   }
 
-  return filteredData.sort((a, b) => {
+  return filteredData.filter((element) => {
+    return element[activity.toLowerCase()]['popularity'] > 4;
+  }).sort((a, b) => {
     if (a[activity.toLowerCase()]['polarity'] + ((maxP - minP) === 0 ? 0 : a[activity.toLowerCase()]['popularity'] / (maxP - minP))
       > b[activity.toLowerCase()]['polarity'] + ((maxP - minP) === 0 ? 0 : b[activity.toLowerCase()]['popularity'] / (maxP - minP))) {
       return -1;

@@ -46,14 +46,14 @@ class RankMenu extends Component {
                           style={{marginTop: 5, marginBottom: 5}}
                           min={0}
                           max={100} mode={'determinate'}
-                          value={60}/>
+                          value={Math.random()*100 + 1}/>
                       </div>
                       <p style={{marginTop: 5, marginBottom: 5, fontSize: '10px'}}>Popularity:</p>
                       <LinearProgress
                         style={{marginTop: 5, marginBottom: 5}}
                         min={0}
                         max={100} mode={'determinate'}
-                        value={60}/>
+                        value={Math.random()*100 + 1}/>
                     </div>
                     {/*<div width={'100%'} marginHeight={'15px'}>*/}
                     {/*<div style={{float: 'left', width: '50%'}}><text fontSize={"20px"}>Popularity:</text></div>*/}
